@@ -1,0 +1,28 @@
+school_id,parent_school_id,short_title,title,city
+S10,,EduTech,EduTech — Campus Paris,Paris
+S11,,Vatel,Vatel — Campus Toulouse,Toulouse
+S12,,ISCOM,ISCOM — Campus Lille,Lille
+S13,,Sup de Co,Sup de Co — Campus Paris,Paris
+S14,S13,Sup de Co Strasbourg,Sup de Co — Campus Strasbourg,Strasbourg
+S15,S13,Sup de Co Paris,Sup de Co — Campus Paris,Paris
+S16,,IÉSEG,IÉSEG — Campus Grenoble,Grenoble
+S17,S16,IÉSEG Lyon,IÉSEG — Campus Lyon,Lyon
+S18,,EPITECH,EPITECH — Campus Lyon,Lyon
+S19,,Estienne,Estienne — Campus Lille,Lille
+S20,,Lyon 3,Lyon 3 — Campus Strasbourg,Strasbourg
+S21,S20,Lyon 3 Lyon,Lyon 3 — Campus Lyon,Lyon
+S22,S20,Lyon 3 Strasbourg,Lyon 3 — Campus Strasbourg,Strasbourg
+S23,,Sorbonne,Sorbonne — Campus Lille,Lille
+S24,S23,Sorbonne Strasbourg,Sorbonne — Campus Strasbourg,Strasbourg
+S25,S23,Sorbonne Rennes,Sorbonne — Campus Rennes,Rennes
+S26,,Kedge,Kedge — Campus Lille,Lille
+S27,S26,Kedge Grenoble,Kedge — Campus Grenoble,Grenoble
+S28,,Audencia,Audencia — Campus Toulouse,Toulouse
+S29,,Ynov,Ynov — Campus Bordeaux,Bordeaux
+S30,S29,Ynov Rennes,Ynov — Campus Rennes,Rennes
+S31,S29,Ynov Nantes,Ynov — Campus Nantes,Nantes
+S32,,ESAD,ESAD — Campus Toulouse,Toulouse
+S33,,INSA,INSA — Campus Lille,Lille
+S34,S33,INSA Paris,INSA — Campus Paris,Paris
+S35,,Polytech,Polytech — Campus Paris,Paris
+S36,S35,Polytech Paris,Polytech — Campus Paris,Paris

@@ -1,0 +1,1201 @@
+program_id,parent_program_id,short_title,title,long_title,variants,school_id,diploma,field,city
+P1440,P1437,Licence Génie Civil — anglais,Licence Génie Civil — anglais,,"{""language"": ""anglais""}",S20,Licence,Génie Civil,Strasbourg
+P1372,,Diplôme d'ingénieur Logistique,Diplôme d'ingénieur Logistique,,,S35,Diplôme d'ingénieur,Logistique,Paris
+P1491,,DN MADE Logistique,DN MADE Logistique,,,S31,DN MADE,Logistique,Nantes
+P1852,P1848,BTS Ressources Humaines — IT,BTS Ressources Humaines — IT,,"{""language"": ""IT""}",S13,BTS,Ressources Humaines,Paris
+P1479,P1476,BUT Génie Civil — English / Recherche,BUT Génie Civil — English / Recherche,,"{""language"": ""English"", ""track"": ""recherche""}",S18,BUT,Génie Civil,Lyon
+P1140,P1138,CPGE Biologie — en / Alternance,CPGE Biologie — en / Alternance,,"{""language"": ""en"", ""apprenticeship"": ""oui"", ""school_id"": ""S23""}",S23,CPGE,Biologie,Lille
+P1253,,BUT Économie,BUT Économie,,,S13,BUT,Économie,Paris
+P1434,,Licence Génie Mécanique,Licence Génie Mécanique,,,S17,Licence,Génie Mécanique,Lyon
+P1689,,MSc Tourisme,MSc Tourisme,,,S14,MSc,Tourisme,Strasbourg
+P1345,P1342,Licence Pro Biologie — anglais / Reche,Licence Pro Biologie — anglais / Recherche,,"{""language"": ""anglais"", ""track"": ""recherche""}",S30,Licence Pro,Biologie,Rennes
+P1218,P1217,Diplôme d'ingénieur Informatique — Alt,Diplôme d'ingénieur Informatique — Alternance / Data,,"{""apprenticeship"": 1, ""track"": ""data""}",S14,Diplôme d'ingénieur,Informatique,Strasbourg
+P1743,P1742,Licence Pro Ressources Humaines — Camp,Licence Pro Ressources Humaines — Campus,,"{""school_id"": ""S34""}",S34,Licence Pro,Ressources Humaines,Paris
+P1833,P1832,DN MADE Data Science — Recherche,DN MADE Data Science — Recherche,,"{""track"": ""recherche""}",S22,DN MADE,Data Science,Strasbourg
+P1797,P1796,Diplôme d'ingénieur Commerce — Double-,Diplôme d'ingénieur Commerce — Double-Diplôme,,"{""track"": ""double-diplôme""}",S16,Diplôme d'ingénieur,Commerce,Grenoble
+P1119,,Master Langues,Master Langues ,,,S17,Master,Langues,Lyon
+P1173,,BTS Économie,BTS Économie,,,S30,BTS,Économie,Rennes
+P1529,,Diplôme d'ingenieur Design,Diplôme d'ingénieur Design ,,,S32,Diplôme d'ingénieur,Design,Toulouse
+P1272,P1271,MBA Biologie - Alternance,MBA BIOLOGIE — ALTERNANCE,,"{""apprenticeship"": ""oui""}",S18,MBA,Biologie,Lyon
+P1502,P1501,Licence Pro Économie — Alternance,Licence Pro Économie — Alternance,,"{""apprenticeship"": ""true""}",S24,Licence Pro,Économie,Strasbourg
+P1097,P1094,Diplôme d'ingénieur Psychologie — IT /,Diplôme d'ingénieur Psychologie — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": ""true"", ""school_id"": ""S23""}",S23,Diplôme d'ingénieur,Psychologie,Lille
+P1834,P1832,DN MADE Data Science — IT,DN MADE Data Science — IT,,"{""language"": ""IT""}",S22,DN MADE,Data Science,Strasbourg
+P1730,P1729,Bachelor Informatique — IT / Data,Bachelor Informatique — IT / Data,,"{""language"": ""IT"", ""track"": ""data"", ""school_id"": ""S36""}",S36,Bachelor,Informatique,Paris
+P1841,P1840,BTS Design — EN / Alternance,BTS Design — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": ""oui""}",S30,BTS,Design,Rennes
+P1606,,DN MADE Finance,DN MADE Finance,,,S30,DN MADE,Finance,Rennes
+P1804,P1803,DN MADE Droit - Alternance / Campus,DN MADE DROIT — ALTERNANCE / CAMPUS,,"{""apprenticeship"": 1, ""school_id"": ""S24""}",S24,DN MADE,Droit,Strasbourg
+P1297,,BTS Biologie,BTS Biologie,BTS Biologie — programme complet (ancien libellé),,S23,BTS,Biologie,Lille
+P1801,P1800,Licence Pro Commerce — IT,Licence Pro Commerce — IT,,"{""language"": ""IT"", ""school_id"": ""S31""}",S31,Licence Pro,Commerce,Nantes
+P1039,P1038,Licence Pro Management Hôtelier — EN,Licence Pro Management Hôtelier — EN,,"{""language"": ""EN""}",S11,Licence Pro,Management Hôtelier,Toulouse
+P1380,P1378,MSc Langues — en,MSc Langues — en,,"{""language"": ""en""}",S30,MSc,Langues,Rennes
+P1301,P1300,MBA Architecture — en / Excellence,MBA Architecture — en / Excellence,,"{""language"": ""en"", ""track"": ""excellence""}",S11,MBA,Architecture,Toulouse
+P1194,P1193,Master Langues — anglais / Alternance ,Master Langues — anglais / Alternance / Excellence,,"{""language"": ""anglais"", ""apprenticeship"": ""true"", ""track"": ""excellence""}",S11,Master,Langues,Toulouse
+P1354,P1353,MBA Design — IT / Alternance,MBA Design — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": ""oui"", ""school_id"": ""S22""}",S22,MBA,Design,Strasbourg
+P102,P100,MBA — Red Team,MBA Management Hôtelier — Track Red Team,,"{""track"":""red team""}",S10,MBA,Hôtellerie,Bordeaux
+P1351,P1349,Licence Data Science — Alternance / Re,Licence Data Science — Alternance / Recherche,,"{""apprenticeship"": 1, ""track"": ""recherche""}",S25,Licence,Data Science,Rennes
+P1421,P1417,BUT Droit — anglais / Alternance,BUT Droit — anglais / Alternance,,"{""language"": ""anglais"", ""apprenticeship"": 1}",S35,BUT,Droit,Paris
+P1311,P1309,BUT Génie Civil — es / Alternance,BUT Génie Civil — es / Alternance,,"{""language"": ""es"", ""apprenticeship"": true, ""school_id"": ""S29""}",S29,BUT,Génie Civil,Bordeaux
+P1304,P1303,MSc Sciences Politiques — EN,MSc Sciences Politiques — EN,,"{""language"": ""EN""}",S20,MSc,Sciences Politiques,Strasbourg
+P1842,P1840,BTS Design — anglais,BTS Design — anglais,,"{""language"": ""anglais""}",S30,BTS,Design,Rennes
+P1395,,Master Communication,Master Communication,,,S19,Master,Communication,Lille
+P1117,P1113,Diplôme d'ingénieur Ressources Humaine,Diplôme d'ingénieur Ressources Humaines — es,,"{""language"": ""es""}",S35,Diplôme d'ingénieur,Ressources Humaines,Paris
+P1693,,MSc Cinéma,MSc Cinéma,,,S19,MSc,Cinéma,Lille
+P1822,P1821,BUT Informatique — Red Team,BUT Informatique — Red Team,,"{""track"": ""red team""}",S26,BUT,Informatique,Lille
+P1206,P1205,Master Architecture - IT,Master Architecture — IT ,,"{""language"": ""IT""}",S13,Master,Architecture,Paris
+P1412,P1409,Bachelor Commerce — English / Cyber,Bachelor Commerce — English / Cyber,,"{""language"": ""English"", ""track"": ""cyber""}",S25,Bachelor,Commerce,Rennes
+P1710,P1709,BTS Commerce — English,BTS Commerce — English,,"{""language"": ""English""}",S36,BTS,Commerce,Paris
+P1030,,Diplôme d'ingénieur Droit,Diplôme d'ingénieur Droit,Diplôme d'ingénieur Droit — programme complet (ancien libellé),,S17,Diplôme d'ingénieur,Droit,Lyon
+P1558,P1557,MSc Communication — es,MSc Communication — es,,"{""language"": ""es""}",S14,MSc,Communication,Strasbourg
+P1134,,BTS Droit,BTS Droit,,,S18,BTS,Droit,Lyon
+P1493,P1491,DN MADE Logistique — IT,DN MADE Logistique — IT,,"{""language"": ""IT""}",S31,DN MADE,Logistique,Nantes
+P1296,P1294,Licence Pro Ressources Humaines — IT /,Licence Pro Ressources Humaines — IT / Double-Diplôme,,"{""language"": ""IT"", ""track"": ""double-diplôme""}",S26,Licence Pro,Ressources Humaines,Lille
+P1501,,Licence Pro Économie,Licence Pro Économie,,,S24,Licence Pro,Économie,Strasbourg
+P1458,P1457,BUT Cinéma — Alternance / Campus,BUT Cinéma — Alternance / Campus,,"{""apprenticeship"": true, ""school_id"": ""S27""}",S27,BUT,Cinéma,Grenoble
+P1428,P1427,Bachelor Sciences Politiques — Recherc,Bachelor Sciences Politiques — Recherche,,"{""track"": ""recherche""}",S23,Bachelor,Sciences Politiques,Lille
+P1640,P1638,BUT Commerce — English,BUT Commerce — English,,"{""language"": ""English""}",S20,BUT,Commerce,Strasbourg
+P1718,P1714,Bachelor Génie Mécanique — Alternance,Bachelor Génie Mécanique — Alternance,,"{""apprenticeship"": ""oui""}",S30,Bachelor,Génie Mécanique,Rennes
+P1221,P1219,BUT Commerce — en,BUT Commerce — en,,"{""language"": ""en""}",S25,BUT,Commerce,Rennes
+P1323,,CPGE Marketing,CPGE Marketing,,,S29,CPGE,Marketing,Bordeaux
+P1252,P1250,MBA Informatique — anglais / Alternanc,MBA Informatique — anglais / Alternance,,"{""language"": ""anglais"", ""apprenticeship"": ""true""}",S24,MBA,Informatique,Strasbourg
+P1768,,Licence Ressources Humaines,Licence Ressources Humaines,,,S32,Licence,Ressources Humaines,Toulouse
+P1398,P1395,Master Communication — en,Master Communication — en,,"{""language"": ""en""}",S19,Master,Communication,Lille
+P1200,P1199,MSc Commerce — es,MSc Commerce — es,,"{""language"": ""es""}",S35,MSc,Commerce,Paris
+P1771,,Diplôme d'ingénieur Économie,Diplôme d'ingénieur Économie,,,S31,Diplôme d'ingénieur,Économie,Nantes
+P1199,,MSc Commerce,MSc Commerce,,,S35,MSc,Commerce,Paris
+P1568,P1567,BTS Architecture — EN,BTS Architecture — EN,,"{""language"": ""EN""}",S21,BTS,Architecture,Lyon
+P1378,,MSc Langues,MSc Langues,,,S30,MSc,Langues,Rennes
+P1566,P1562,BTS Psychologie — Alternance / Data,BTS Psychologie — Alternance / Data,,"{""apprenticeship"": ""oui"", ""track"": ""data"", ""school_id"": ""S10""}",S10,BTS,Psychologie,Paris
+P1104,P1103,DN MADE Sciences Politiques — Alternan,DN MADE Sciences Politiques — Alternance / International,,"{""apprenticeship"": ""true"", ""track"": ""international"", ""school_id"": ""S18""}",S18,DN MADE,Sciences Politiques,Lyon
+P1350,P1349,Licence Data Science - Alternance / In,LICENCE DATA SCIENCE — ALTERNANCE / INTERNATIONAL,,"{""apprenticeship"": true, ""track"": ""international""}",S25,Licence,Data Science,Rennes
+P1698,,DN MADE Chimie,DN MADE Chimie ,DN MADE Chimie — programme complet (ancien libellé),,S29,DN MADE,Chimie,Bordeaux
+P1702,P1700,BTS Design — Campus,BTS Design — Campus,,"{""school_id"": ""S30""}",S30,BTS,Design,Rennes
+P1670,P1668,Licence Design - IT,LICENCE DESIGN — IT,,"{""language"": ""IT""}",S19,Licence,Design,Lille
+P1113,,Diplôme d'ingénieur Ressources Hum,Diplôme d'ingénieur Ressources Humaines,,,S35,Diplôme d'ingénieur,Ressources Humaines,Paris
+P1618,,BUT Droit,BUT Droit,,,S17,BUT,Droit,Lyon
+P1663,P1662,DN MADE Management Hôtelier — Data,DN MADE Management Hôtelier — Data,,"{""track"": ""data""}",S35,DN MADE,Management Hôtelier,Paris
+P1056,,Licence Pro Design,Licence Pro Design,,,S18,Licence Pro,Design,Lyon
+P1691,P1689,MSc Tourisme — English,MSc Tourisme — English,,"{""language"": ""English""}",S14,MSc,Tourisme,Strasbourg
+P1238,P1237,Licence Pro Ressources Humaines — Engl,Licence Pro Ressources Humaines — English / Excellence,,"{""language"": ""English"", ""track"": ""excellence"", ""school_id"": ""S34""}",S34,Licence Pro,Ressources Humaines,Paris
+P1637,P1636,CPGE Chimie - en / Red Team,CPGE Chimie — en / Red Team ,,"{""language"": ""en"", ""track"": ""red team""}",S30,CPGE,Chimie,Rennes
+P1817,,Master Génie Civil,Master Génie Civil,,,S14,Master,Génie Civil,Strasbourg
+P1059,,Bachelor Communication,Bachelor Communication,,,S34,Bachelor,Communication,Paris
+P1130,P1129,CPGE Psychologie — Campus,CPGE Psychologie — Campus,,"{""school_id"": ""S21""}",S21,CPGE,Psychologie,Lyon
+P1524,P1523,Licence Marketing - EN,Licence Marketing — EN ,,"{""language"": ""EN""}",S35,Licence,Marketing,Paris
+P1084,,BUT Biologie,BUT Biologie,,,S26,BUT,Biologie,Lille
+P1049,,MSc Finance,MSc Finance,,,S18,MSc,Finance,Lyon
+P1495,P1494,CPGE Tourisme — en / Red Team,CPGE Tourisme — en / Red Team,,"{""language"": ""en"", ""track"": ""red team"", ""school_id"": ""S33""}",S33,CPGE,Tourisme,Lille
+P1473,P1472,MSc Genie Mecanique - EN,MSC GÉNIE MÉCANIQUE — EN,,"{""language"": ""EN""}",S10,MSc,Génie Mécanique,Paris
+P1709,,BTS Commerce,BTS Commerce,BTS Commerce — programme complet (ancien libellé),,S36,BTS,Commerce,Paris
+P1521,P1518,Master Data Science - English / Red Te,MASTER DATA SCIENCE — ENGLISH / RED TEAM,,"{""language"": ""English"", ""track"": ""red team""}",S34,Master,Data Science,Paris
+P1670,P1668,Licence Design — IT,Licence Design — IT,,"{""language"": ""IT""}",S19,Licence,Design,Lille
+P1276,,Diplôme d'ingénieur Économie,Diplôme d'ingénieur Économie,,,S26,Diplôme d'ingénieur,Économie,Lille
+P1258,,BTS Logistique,BTS Logistique,,,S25,BTS,Logistique,Rennes
+P1417,,BUT Droit,BUT Droit,,,S35,BUT,Droit,Paris
+P1458,P1457,BUT Cinema - Alternance / Campus,BUT Cinéma — Alternance / Campus ,,"{""apprenticeship"": true, ""school_id"": ""S27""}",S27,BUT,Cinéma,Grenoble
+P1402,P1400,MSc Économie — International,MSc Économie — International,,"{""track"": ""international""}",S32,MSc,Économie,Toulouse
+P1405,P1404,Licence Pro Langues — Campus,Licence Pro Langues — Campus,,"{""school_id"": ""S14""}",S14,Licence Pro,Langues,Strasbourg
+P1698,,DN MADE Chimie,DN MADE Chimie,DN MADE Chimie — programme complet (ancien libellé),,S29,DN MADE,Chimie,Bordeaux
+P1756,P1754,MSc Génie Civil — Campus,MSc Génie Civil — Campus,,"{""school_id"": ""S16""}",S16,MSc,Génie Civil,Grenoble
+P1620,P1619,Licence Pro Architecture — EN / Altern,Licence Pro Architecture — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": ""oui""}",S10,Licence Pro,Architecture,Paris
+P1051,P1049,MSc Finance — Excellence,MSc Finance — Excellence,,"{""track"": ""excellence""}",S18,MSc,Finance,Lyon
+P1078,P1077,MBA Commerce — en,MBA Commerce — en,,"{""language"": ""en""}",S31,MBA,Commerce,Nantes
+P1819,P1817,Master Génie Civil — English,Master Génie Civil — English,,"{""language"": ""English""}",S14,Master,Génie Civil,Strasbourg
+P1092,P1089,BUT Économie — es,BUT Économie — es,,"{""language"": ""es""}",S17,BUT,Économie,Lyon
+P1774,P1771,Diplôme d'ingénieur Économie — en / Cy,Diplôme d'ingénieur Économie — en / Cyber,,"{""language"": ""en"", ""track"": ""cyber""}",S31,Diplôme d'ingénieur,Économie,Nantes
+P1388,P1386,MBA Architecture — EN,MBA Architecture — EN,,"{""language"": ""EN""}",S15,MBA,Architecture,Paris
+P1873,P1872,BTS Commerce - Red Team,BTS Commerce — Red Team ,,"{""track"": ""red team""}",S18,BTS,Commerce,Lyon
+P1812,P1809,MSc Marketing — en / Alternance,MSc Marketing — en / Alternance,,"{""language"": ""en"", ""apprenticeship"": ""true""}",S23,MSc,Marketing,Lille
+P1450,,Licence Pro Tourisme,Licence Pro Tourisme,,,S23,Licence Pro,Tourisme,Lille
+P1527,P1526,Licence Pro Data Science — anglais,Licence Pro Data Science — anglais,,"{""language"": ""anglais""}",S20,Licence Pro,Data Science,Strasbourg
+P1779,,CPGE Finance,CPGE Finance,,,S30,CPGE,Finance,Rennes
+P1246,P1244,DN MADE Langues — es / Alternance,DN MADE Langues — es / Alternance,,"{""language"": ""es"", ""apprenticeship"": ""oui"", ""school_id"": ""S14""}",S14,DN MADE,Langues,Strasbourg
+P1537,P1536,Licence Pro Génie Mécanique — Alternan,Licence Pro Génie Mécanique — Alternance,,"{""apprenticeship"": 1}",S16,Licence Pro,Génie Mécanique,Grenoble
+P1887,P1886,Master Data Science — Alternance / Cam,Master Data Science — Alternance / Campus,,"{""apprenticeship"": ""oui"", ""school_id"": ""S16""}",S16,Master,Data Science,Grenoble
+P1055,,Diplôme d'ingénieur Management Hôt,Diplôme d'ingénieur Management Hôtelier,,,S14,Diplôme d'ingénieur,Management Hôtelier,Strasbourg
+P1673,P1672,MBA Design — EN / Red Team,MBA Design — EN / Red Team,,"{""language"": ""EN"", ""track"": ""red team"", ""school_id"": ""S24""}",S24,MBA,Design,Strasbourg
+P1726,P1725,Licence Pro Commerce — Campus,Licence Pro Commerce — Campus,,"{""school_id"": ""S11""}",S11,Licence Pro,Commerce,Toulouse
+P1101,P1098,MBA Chimie — International,MBA Chimie — International,,"{""track"": ""international"", ""school_id"": ""S20""}",S20,MBA,Chimie,Strasbourg
+P1407,P1404,Licence Pro Langues — en,Licence Pro Langues — en,,"{""language"": ""en""}",S13,Licence Pro,Langues,Paris
+P1741,P1740,DN MADE Management Hôtelier — Campus,DN MADE Management Hôtelier — Campus,,"{""school_id"": ""S36""}",S36,DN MADE,Management Hôtelier,Paris
+P1730,P1729,Bachelor Informatique — IT / Data,Bachelor Informatique — IT / Data,,"{""language"": ""IT"", ""track"": ""data"", ""school_id"": ""S36""}",S36,Bachelor,Informatique,Paris
+P1686,P1684,BUT Informatique — anglais,BUT Informatique — anglais,,"{""language"": ""anglais"", ""school_id"": ""S32""}",S32,BUT,Informatique,Toulouse
+P1000,,MSc Genie Civil,MSC GÉNIE CIVIL,,,S29,MSc,Génie Civil,Bordeaux
+P1814,,MSc Architecture,MSc Architecture,,,S24,MSc,Architecture,Strasbourg
+P1758,P1757,Licence Management Hôtelier — Alternan,Licence Management Hôtelier — Alternance / Data,,"{""apprenticeship"": ""true"", ""track"": ""data""}",S22,Licence,Management Hôtelier,Strasbourg
+P1248,P1244,DN MADE Langues — es,DN MADE Langues — es,,"{""language"": ""es""}",S23,DN MADE,Langues,Lille
+P1364,,DN MADE Architecture,DN MADE Architecture,,,S18,DN MADE,Architecture,Lyon
+P1378,,MSc Langues,MSc Langues,,,S30,MSc,Langues,Rennes
+P1662,,DN MADE Management Hôtelier,DN MADE Management Hôtelier,,,S35,DN MADE,Management Hôtelier,Paris
+P1291,P1289,MSc Informatique — Campus,MSc Informatique — Campus,,"{""school_id"": ""S19""}",S19,MSc,Informatique,Lille
+P1789,P1787,Licence Pro Data Science — es,Licence Pro Data Science — es,,"{""language"": ""es""}",S23,Licence Pro,Data Science,Lille
+P1210,,MSc Sciences Politiques,MSc Sciences Politiques,,,S30,MSc,Sciences Politiques,Rennes
+P1790,P1787,Licence Pro Data Science — Alternance,Licence Pro Data Science — Alternance,,"{""apprenticeship"": 1}",S23,Licence Pro,Data Science,Lille
+P1206,P1205,Master Architecture — IT,Master Architecture — IT,,"{""language"": ""IT""}",S13,Master,Architecture,Paris
+P1277,P1276,Diplôme d'ingénieur Économie — EN / Al,Diplôme d'ingénieur Économie — EN / Alternance / Excellence,,"{""language"": ""EN"", ""apprenticeship"": ""true"", ""track"": ""excellence"", ""school_id"": ""S19""}",S19,Diplôme d'ingénieur,Économie,Lille
+P1360,P1357,MSc Design - es / Recherche,MSc Design — es / Recherche ,,"{""language"": ""es"", ""track"": ""recherche""}",S16,MSc,Design,Grenoble
+P1744,,CPGE Communication,CPGE Communication,,,S17,CPGE,Communication,Lyon
+P1629,P1626,Licence Tourisme — anglais,Licence Tourisme — anglais,,"{""language"": ""anglais"", ""school_id"": ""S28""}",S28,Licence,Tourisme,Toulouse
+P1250,,MBA Informatique,MBA Informatique,,,S24,MBA,Informatique,Strasbourg
+P1475,P1472,MSc Génie Mécanique — Alternance / Rec,MSc Génie Mécanique — Alternance / Recherche,,"{""apprenticeship"": ""true"", ""track"": ""recherche""}",S10,MSc,Génie Mécanique,Paris
+P1236,P1233,MBA Génie Civil — Alternance,MBA Génie Civil — Alternance,,"{""apprenticeship"": 1}",S31,MBA,Génie Civil,Nantes
+P1864,P1863,Licence Pro Génie Mécanique — Internat,Licence Pro Génie Mécanique — International,,"{""track"": ""international""}",S35,Licence Pro,Génie Mécanique,Paris
+P1888,,Licence Ressources Humaines,Licence Ressources Humaines,,,S21,Licence,Ressources Humaines,Lyon
+P1872,,BTS Commerce,BTS Commerce,,,S18,BTS,Commerce,Lyon
+P1154,,MSc Économie,MSc Économie,,,S32,MSc,Économie,Toulouse
+P1700,,BTS Design,BTS Design,,,S16,BTS,Design,Grenoble
+P1013,,DN MADE Génie Mécanique,DN MADE Génie Mécanique,,,S21,DN MADE,Génie Mécanique,Lyon
+P1835,,CPGE Ressources Humaines,CPGE Ressources Humaines,,,S10,CPGE,Ressources Humaines,Paris
+P1577,P1575,Diplôme d'ingénieur Économie — Alterna,Diplôme d'ingénieur Économie — Alternance / Campus,,"{""apprenticeship"": true, ""school_id"": ""S24""}",S24,Diplôme d'ingénieur,Économie,Strasbourg
+P1506,P1505,Licence Pro Data Science — English,Licence Pro Data Science — English,,"{""language"": ""English""}",S21,Licence Pro,Data Science,Lyon
+P1701,P1700,BTS Design — Cyber,BTS Design — Cyber,,"{""track"": ""cyber""}",S16,BTS,Design,Grenoble
+P1115,P1113,Diplôme d'ingénieur Ressources Humaine,Diplôme d'ingénieur Ressources Humaines — IT / Recherche,,"{""language"": ""IT"", ""track"": ""recherche""}",S35,Diplôme d'ingénieur,Ressources Humaines,Paris
+P1659,P1656,BTS Droit — Data,BTS Droit — Data,,"{""track"": ""data""}",S23,BTS,Droit,Lille
+P1031,,MSc Commerce,MSc Commerce,,,S26,MSc,Commerce,Lille
+P1087,P1084,BUT Biologie — IT,BUT Biologie — IT,,"{""language"": ""IT""}",S26,BUT,Biologie,Lille
+P1875,,DN MADE Génie Civil,DN MADE Génie Civil,,,S21,DN MADE,Génie Civil,Lyon
+P1244,,DN MADE Langues,DN MADE Langues,,,S23,DN MADE,Langues,Lille
+P1567,,BTS Architecture,BTS Architecture,,,S21,BTS,Architecture,Lyon
+P1583,,MSc Informatique,MSc Informatique,,,S34,MSc,Informatique,Paris
+P1218,P1217,Diplôme d'ingénieur Informatique — Alt,Diplôme d'ingénieur Informatique — Alternance / Data,,"{""apprenticeship"": 1, ""track"": ""data""}",S14,Diplôme d'ingénieur,Informatique,Strasbourg
+P1551,P1550,BTS Économie — en / Alternance,BTS Économie — en / Alternance,,"{""language"": ""en"", ""apprenticeship"": true}",S29,BTS,Économie,Bordeaux
+P1033,P1031,MSc Commerce — IT / Red Team,MSc Commerce — IT / Red Team,,"{""language"": ""IT"", ""track"": ""red team""}",S26,MSc,Commerce,Lille
+P1448,,Bachelor Sciences Politiques,BACHELOR SCIENCES POLITIQUES,,,S27,Bachelor,Sciences Politiques,Grenoble
+P1346,,BUT Communication,BUT Communication,,,S17,BUT,Communication,Lyon
+P1439,P1437,Licence Génie Civil — Recherche,Licence Génie Civil — Recherche,,"{""track"": ""recherche"", ""school_id"": ""S28""}",S28,Licence,Génie Civil,Toulouse
+P1097,P1094,Diplôme d'ingénieur Psychologie — IT /,Diplôme d'ingénieur Psychologie — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": ""true"", ""school_id"": ""S23""}",S23,Diplôme d'ingénieur,Psychologie,Lille
+P1379,P1378,MSc Langues - es / Alternance / Double,MSc Langues — es / Alternance / Double-Diplôme ,,"{""language"": ""es"", ""apprenticeship"": 1, ""track"": ""double-diplôme""}",S30,MSc,Langues,Rennes
+P1061,P1059,Bachelor Communication — Red Team,Bachelor Communication — Red Team,,"{""track"": ""red team""}",S34,Bachelor,Communication,Paris
+P1169,P1166,Master Biologie — IT / Alternance,Master Biologie — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": ""true""}",S36,Master,Biologie,Paris
+P1738,P1737,MBA Langues - English,MBA Langues — English ,,"{""language"": ""English""}",S11,MBA,Langues,Toulouse
+P1449,,Licence Pro Psychologie,Licence Pro Psychologie,,,S27,Licence Pro,Psychologie,Grenoble
+P1026,P1025,Licence Pro Design - es,LICENCE PRO DESIGN — ES,,"{""language"": ""es"", ""school_id"": ""S27""}",S27,Licence Pro,Design,Grenoble
+P1184,P1183,CPGE Chimie — anglais,CPGE Chimie — anglais,,"{""language"": ""anglais""}",S14,CPGE,Chimie,Strasbourg
+P1610,,CPGE Génie Civil,CPGE Génie Civil,,,S28,CPGE,Génie Civil,Toulouse
+P1299,P1297,BTS Biologie — en,BTS Biologie — en,,"{""language"": ""en""}",S23,BTS,Biologie,Lille
+P1333,P1332,CPGE Langues — Campus,CPGE Langues — Campus,,"{""school_id"": ""S14""}",S14,CPGE,Langues,Strasbourg
+P1870,P1869,Licence Tourisme — es,Licence Tourisme — es,,"{""language"": ""es""}",S35,Licence,Tourisme,Paris
+P1413,,BTS Sciences Politiques,BTS Sciences Politiques,,,S22,BTS,Sciences Politiques,Strasbourg
+P1429,P1427,Bachelor Sciences Politiques — Data,Bachelor Sciences Politiques — Data,,"{""track"": ""data""}",S23,Bachelor,Sciences Politiques,Lille
+P1480,,Licence Architecture,Licence Architecture,,,S20,Licence,Architecture,Strasbourg
+P1565,P1562,BTS Psychologie — EN / Alternance,BTS Psychologie — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": true, ""school_id"": ""S29""}",S29,BTS,Psychologie,Bordeaux
+P1074,P1072,Master Génie Civil — English,Master Génie Civil — English,,"{""language"": ""English""}",S30,Master,Génie Civil,Rennes
+P1533,P1531,CPGE Design — IT,CPGE Design — IT,,"{""language"": ""IT""}",S28,CPGE,Design,Toulouse
+P1431,P1427,Bachelor Sciences Politiques — es,Bachelor Sciences Politiques — es,,"{""language"": ""es""}",S23,Bachelor,Sciences Politiques,Lille
+P1225,P1223,CPGE Langues — Campus,CPGE Langues — Campus,,"{""school_id"": ""S26""}",S26,CPGE,Langues,Lille
+P1704,P1700,BTS Design — Alternance,BTS Design — Alternance,,"{""apprenticeship"": ""true""}",S16,BTS,Design,Grenoble
+P1772,P1771,Diplôme d'ingénieur Économie — IT,Diplôme d'ingénieur Économie — IT,,"{""language"": ""IT"", ""school_id"": ""S14""}",S14,Diplôme d'ingénieur,Économie,Strasbourg
+P1834,P1832,DN MADE Data Science — IT,DN MADE Data Science — IT,,"{""language"": ""IT""}",S22,DN MADE,Data Science,Strasbourg
+P1348,P1346,BUT Communication — EN,BUT Communication — EN,,"{""language"": ""EN""}",S17,BUT,Communication,Lyon
+P1591,,Licence Design,Licence Design,,,S34,Licence,Design,Paris
+P1644,P1642,MBA Sciences Politiques — Alternance /,MBA Sciences Politiques — Alternance / Campus,,"{""apprenticeship"": true, ""school_id"": ""S31""}",S31,MBA,Sciences Politiques,Nantes
+P1444,P1442,BTS Génie Civil — Cyber,BTS Génie Civil — Cyber,,"{""track"": ""cyber""}",S15,BTS,Génie Civil,Paris
+P1365,P1364,DN MADE Architecture — Campus,DN MADE Architecture — Campus,,"{""school_id"": ""S30""}",S30,DN MADE,Architecture,Rennes
+P1884,P1883,MSc Cinéma — en,MSc Cinéma — en,,"{""language"": ""en""}",S27,MSc,Cinéma,Grenoble
+P1858,P1857,BTS Économie — Campus,BTS Économie — Campus,,"{""school_id"": ""S31""}",S31,BTS,Économie,Nantes
+P1243,P1242,DN MADE Ressources Humaines — es / Alt,DN MADE Ressources Humaines — es / Alternance / Data,,"{""language"": ""es"", ""apprenticeship"": true, ""track"": ""data""}",S12,DN MADE,Ressources Humaines,Lille
+P1171,P1170,MBA Tourisme - Alternance,MBA TOURISME — ALTERNANCE,,"{""apprenticeship"": 1}",S35,MBA,Tourisme,Paris
+P1147,P1145,BUT Droit — IT,BUT Droit — IT,,"{""language"": ""IT""}",S15,BUT,Droit,Paris
+P1232,,DN MADE Sciences Politiques,DN MADE SCIENCES POLITIQUES,,,S27,DN MADE,Sciences Politiques,Grenoble
+P1089,,BUT Économie,BUT ÉCONOMIE,,,S17,BUT,Économie,Lyon
+P1532,P1531,CPGE Design — en,CPGE Design — en,,"{""language"": ""en"", ""school_id"": ""S26""}",S26,CPGE,Design,Lille
+P1781,P1779,CPGE Finance — EN / Excellence,CPGE Finance — EN / Excellence,,"{""language"": ""EN"", ""track"": ""excellence""}",S30,CPGE,Finance,Rennes
+P1424,P1422,MSc Finance — es,MSc Finance — es,,"{""language"": ""es""}",S19,MSc,Finance,Lille
+P1064,,MSc Marketing,MSc Marketing,,,S31,MSc,Marketing,Nantes
+P103,P100,MBA — Italien,MBA Management Hôtelier — Italien,,"{""language"":""IT""}",S10,MBA,Hôtellerie,Bordeaux
+P1024,P1020,Diplôme d'ingénieur Biologie — Alterna,Diplôme d'ingénieur Biologie — Alternance,,"{""apprenticeship"": ""true""}",S36,Diplôme d'ingénieur,Biologie,Paris
+P1157,P1154,MSc Économie — Alternance,MSc Économie — Alternance,,"{""apprenticeship"": 1}",S32,MSc,Économie,Toulouse
+P1581,P1579,Bachelor Genie Civil - Alternance / In,BACHELOR GÉNIE CIVIL — ALTERNANCE / INTERNATIONAL,,"{""apprenticeship"": ""oui"", ""track"": ""international"", ""school_id"": ""S27""}",S27,Bachelor,Génie Civil,Grenoble
+P1632,,Diplôme d'ingenieur Logistique,Diplôme d'ingénieur Logistique ,,,S33,Diplôme d'ingénieur,Logistique,Lille
+P1647,,CPGE Tourisme,CPGE Tourisme,CPGE Tourisme — programme complet (ancien libellé),,S18,CPGE,Tourisme,Lyon
+P1149,P1145,BUT Droit — EN,BUT Droit — EN,,"{""language"": ""EN""}",S15,BUT,Droit,Paris
+P1514,,DN MADE Droit,DN MADE Droit,,,S21,DN MADE,Droit,Lyon
+P1564,P1562,BTS Psychologie - Campus,BTS Psychologie — Campus ,,"{""school_id"": ""S32""}",S32,BTS,Psychologie,Toulouse
+P1307,P1305,BTS Commerce — IT,BTS Commerce — IT,,"{""language"": ""IT"", ""school_id"": ""S34""}",S34,BTS,Commerce,Paris
+P1854,P1853,DN MADE Management Hôtelier — Double-D,DN MADE Management Hôtelier — Double-Diplôme,,"{""track"": ""double-diplôme""}",S23,DN MADE,Management Hôtelier,Lille
+P1523,,Licence Marketing,Licence Marketing,,,S35,Licence,Marketing,Paris
+P1179,,CPGE Data Science,CPGE Data Science,,,S32,CPGE,Data Science,Toulouse
+P1637,P1636,CPGE Chimie — en / Red Team,CPGE Chimie — en / Red Team,,"{""language"": ""en"", ""track"": ""red team""}",S30,CPGE,Chimie,Rennes
+P1247,P1244,DN MADE Langues — Alternance / Data,DN MADE Langues — Alternance / Data,,"{""apprenticeship"": true, ""track"": ""data""}",S23,DN MADE,Langues,Lille
+P1570,,Diplôme d'ingénieur Commerce,Diplôme d'ingénieur Commerce,,,S25,Diplôme d'ingénieur,Commerce,Rennes
+P1423,P1422,MSc Finance — anglais / Alternance,MSc Finance — anglais / Alternance,,"{""language"": ""anglais"", ""apprenticeship"": ""oui""}",S19,MSc,Finance,Lille
+P1493,P1491,DN MADE Logistique — IT,DN MADE Logistique — IT,,"{""language"": ""IT""}",S31,DN MADE,Logistique,Nantes
+P1881,P1878,BUT Cinéma — International,BUT Cinéma — International,,"{""track"": ""international""}",S18,BUT,Cinéma,Lyon
+P1588,P1586,Licence Pro Économie — es,Licence Pro Économie — es,,"{""language"": ""es""}",S32,Licence Pro,Économie,Toulouse
+P1848,,BTS Ressources Humaines,BTS Ressources Humaines,,,S13,BTS,Ressources Humaines,Paris
+P1671,P1668,Licence Design — Recherche,Licence Design — Recherche,,"{""track"": ""recherche""}",S19,Licence,Design,Lille
+P1752,P1748,BUT Génie Mécanique — IT,BUT Génie Mécanique — IT,,"{""language"": ""IT""}",S23,BUT,Génie Mécanique,Lille
+P1505,,Licence Pro Data Science,Licence Pro Data Science,,,S21,Licence Pro,Data Science,Lyon
+P1158,,CPGE Droit,CPGE Droit,,,S16,CPGE,Droit,Grenoble
+P1308,P1305,BTS Commerce - Alternance,BTS Commerce — Alternance ,,"{""apprenticeship"": true}",S32,BTS,Commerce,Toulouse
+P1460,P1457,BUT Cinéma — Campus,BUT Cinéma — Campus,,"{""school_id"": ""S15""}",S15,BUT,Cinéma,Paris
+P1604,P1602,Bachelor Commerce — English / Data,Bachelor Commerce — English / Data,,"{""language"": ""English"", ""track"": ""data""}",S16,Bachelor,Commerce,Grenoble
+P1483,P1480,Licence Architecture — es / Alternance,Licence Architecture — es / Alternance,,"{""language"": ""es"", ""apprenticeship"": true}",S20,Licence,Architecture,Strasbourg
+P1001,,CPGE Sciences Politiques,CPGE Sciences Politiques,,,S13,CPGE,Sciences Politiques,Paris
+P1735,,DN MADE Génie Mécanique,DN MADE Génie Mécanique,,,S34,DN MADE,Génie Mécanique,Paris
+P1360,P1357,MSc Design — es / Recherche,MSc Design — es / Recherche,,"{""language"": ""es"", ""track"": ""recherche""}",S16,MSc,Design,Grenoble
+P1403,P1400,MSc Économie — es / Alternance,MSc Économie — es / Alternance,,"{""language"": ""es"", ""apprenticeship"": ""oui"", ""school_id"": ""S20""}",S20,MSc,Économie,Strasbourg
+P1862,P1860,MSc Sciences Politiques — EN,MSc Sciences Politiques — EN,,"{""language"": ""EN"", ""school_id"": ""S16""}",S16,MSc,Sciences Politiques,Grenoble
+P1580,P1579,Bachelor Génie Civil — Alternance,Bachelor Génie Civil — Alternance,,"{""apprenticeship"": 1}",S16,Bachelor,Génie Civil,Grenoble
+P1747,,CPGE Communication,CPGE Communication,,,S13,CPGE,Communication,Paris
+P1246,P1244,DN MADE Langues - es / Alternance,DN MADE Langues — es / Alternance ,,"{""language"": ""es"", ""apprenticeship"": ""oui"", ""school_id"": ""S14""}",S14,DN MADE,Langues,Strasbourg
+P1612,P1610,CPGE Génie Civil — IT,CPGE Génie Civil — IT,,"{""language"": ""IT""}",S28,CPGE,Génie Civil,Toulouse
+P1198,P1197,BUT Langues — es,BUT Langues — es,,"{""language"": ""es""}",S12,BUT,Langues,Lille
+P1684,,BUT Informatique,BUT Informatique,,,S26,BUT,Informatique,Lille
+P1225,P1223,CPGE Langues - Campus,CPGE Langues — Campus ,,"{""school_id"": ""S26""}",S26,CPGE,Langues,Lille
+P1118,,DN MADE Psychologie,DN MADE Psychologie,,,S20,DN MADE,Psychologie,Strasbourg
+P1796,,Diplôme d'ingenieur Commerce,Diplôme d'ingénieur Commerce ,,,S16,Diplôme d'ingénieur,Commerce,Grenoble
+P1155,P1154,MSc Économie — anglais,MSc Économie — anglais,,"{""language"": ""anglais""}",S32,MSc,Économie,Toulouse
+P1545,,Licence Cinéma,Licence Cinéma,,,S31,Licence,Cinéma,Nantes
+P1753,,BUT Management Hôtelier,BUT Management Hôtelier,,,S34,BUT,Management Hôtelier,Paris
+P1686,P1684,BUT Informatique - anglais,BUT Informatique — anglais ,,"{""language"": ""anglais"", ""school_id"": ""S32""}",S32,BUT,Informatique,Toulouse
+P1607,P1606,DN MADE Finance — International,DN MADE Finance — International,,"{""track"": ""international"", ""school_id"": ""S16""}",S16,DN MADE,Finance,Grenoble
+P1116,P1113,Diplôme d'ingénieur Ressources Humaine,Diplôme d'ingénieur Ressources Humaines — English,,"{""language"": ""English""}",S35,Diplôme d'ingénieur,Ressources Humaines,Paris
+P1623,P1619,Licence Pro Architecture - Alternance ,LICENCE PRO ARCHITECTURE — ALTERNANCE / EXCELLENCE,,"{""apprenticeship"": 1, ""track"": ""excellence""}",S10,Licence Pro,Architecture,Paris
+P1142,P1141,CPGE Ressources Humaines — anglais,CPGE Ressources Humaines — anglais,,"{""language"": ""anglais""}",S25,CPGE,Ressources Humaines,Rennes
+P1514,,DN MADE Droit,DN MADE Droit ,,,S21,DN MADE,Droit,Lyon
+P1605,P1602,Bachelor Commerce — EN / Alternance,Bachelor Commerce — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": ""true"", ""school_id"": ""S29""}",S29,Bachelor,Commerce,Bordeaux
+P1370,P1369,Bachelor Design — IT,Bachelor Design — IT,,"{""language"": ""IT""}",S26,Bachelor,Design,Lille
+P1009,P1007,BTS Sciences Politiques — Alternance,BTS Sciences Politiques — Alternance,,"{""apprenticeship"": true}",S33,BTS,Sciences Politiques,Lille
+P1660,,Licence Pro Économie,Licence Pro Économie,,,S13,Licence Pro,Économie,Paris
+P1393,,BUT Génie Mécanique,BUT Génie Mécanique,BUT Génie Mécanique — programme complet (ancien libellé),,S31,BUT,Génie Mécanique,Nantes
+P1215,P1214,Licence Chimie — EN,Licence Chimie — EN,,"{""language"": ""EN"", ""school_id"": ""S14""}",S14,Licence,Chimie,Strasbourg
+P1479,P1476,BUT Génie Civil — English / Recherche,BUT Génie Civil — English / Recherche,,"{""language"": ""English"", ""track"": ""recherche""}",S18,BUT,Génie Civil,Lyon
+P1739,P1737,MBA Langues — English,MBA Langues — English,,"{""language"": ""English""}",S11,MBA,Langues,Toulouse
+P1273,P1271,MBA Biologie — Data,MBA Biologie — Data,,"{""track"": ""data""}",S18,MBA,Biologie,Lyon
+P1367,P1364,DN MADE Architecture — English / Alter,DN MADE Architecture — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": true}",S18,DN MADE,Architecture,Lyon
+P1498,,MSc Commerce,MSc Commerce,MSc Commerce — programme complet (ancien libellé),,S19,MSc,Commerce,Lille
+P1144,P1143,Master Logistique — es / Alternance,Master Logistique — es / Alternance,,"{""language"": ""es"", ""apprenticeship"": ""oui""}",S28,Master,Logistique,Toulouse
+P1088,P1084,BUT Biologie — English,BUT Biologie — English,,"{""language"": ""English""}",S26,BUT,Biologie,Lille
+P1547,P1546,MSc Management Hôtelier — IT / Alterna,MSc Management Hôtelier — IT / Alternance / Recherche,,"{""language"": ""IT"", ""apprenticeship"": true, ""track"": ""recherche""}",S23,MSc,Management Hôtelier,Lille
+P1011,,MBA Logistique,MBA Logistique,,,S24,MBA,Logistique,Strasbourg
+P1542,P1539,Bachelor Management Hôtelier — anglais,Bachelor Management Hôtelier — anglais / Alternance,,"{""language"": ""anglais"", ""apprenticeship"": 1}",S30,Bachelor,Management Hôtelier,Rennes
+P1094,,Diplôme d'ingénieur Psychologie,Diplôme d'ingénieur Psychologie,,,S34,Diplôme d'ingénieur,Psychologie,Paris
+P1139,P1138,CPGE Biologie — Alternance / Campus,CPGE Biologie — Alternance / Campus,,"{""apprenticeship"": true, ""school_id"": ""S16""}",S16,CPGE,Biologie,Grenoble
+P1226,,DN MADE Économie,DN MADE Économie,,,S13,DN MADE,Économie,Paris
+P1032,P1031,MSc Commerce — EN,MSc Commerce — EN,,"{""language"": ""EN""}",S26,MSc,Commerce,Lille
+P1371,P1369,Bachelor Design - Alternance,BACHELOR DESIGN — ALTERNANCE,,"{""apprenticeship"": 1}",S26,Bachelor,Design,Lille
+P1264,P1263,DN MADE Ressources Humaines — es,DN MADE Ressources Humaines — es,,"{""language"": ""es""}",S26,DN MADE,Ressources Humaines,Lille
+P1727,P1725,Licence Pro Commerce — EN,Licence Pro Commerce — EN,,"{""language"": ""EN""}",S33,Licence Pro,Commerce,Lille
+P1566,P1562,BTS Psychologie - Alternance / Data,BTS Psychologie — Alternance / Data ,,"{""apprenticeship"": ""oui"", ""track"": ""data"", ""school_id"": ""S10""}",S10,BTS,Psychologie,Paris
+P1019,,Master Cinéma,Master Cinéma,,,S34,Master,Cinéma,Paris
+P1815,P1814,MSc Architecture — Alternance,MSc Architecture — Alternance,,"{""apprenticeship"": 1}",S24,MSc,Architecture,Strasbourg
+P1146,P1145,BUT Droit — Red Team,BUT Droit — Red Team,,"{""track"": ""red team""}",S15,BUT,Droit,Paris
+P1437,,Licence Génie Civil,Licence Génie Civil,,,S20,Licence,Génie Civil,Strasbourg
+P1765,P1763,Diplôme d'ingénieur Ressources Humaine,Diplôme d'ingénieur Ressources Humaines — anglais,,"{""language"": ""anglais"", ""school_id"": ""S23""}",S23,Diplôme d'ingénieur,Ressources Humaines,Lille
+P1265,P1263,DN MADE Ressources Humaines — Alternan,DN MADE Ressources Humaines — Alternance,,"{""apprenticeship"": ""true""}",S26,DN MADE,Ressources Humaines,Lille
+P1660,,Licence Pro Économie,Licence Pro Économie,,,S13,Licence Pro,Économie,Paris
+P1237,,Licence Pro Ressources Humaines,Licence Pro Ressources Humaines,,,S29,Licence Pro,Ressources Humaines,Bordeaux
+P1468,P1465,Diplôme d'ingénieur Psychologie — EN,Diplôme d'ingénieur Psychologie — EN,,"{""language"": ""EN"", ""school_id"": ""S22""}",S22,Diplôme d'ingénieur,Psychologie,Strasbourg
+P1664,P1662,DN MADE Management Hôtelier — Alternan,DN MADE Management Hôtelier — Alternance,,"{""apprenticeship"": 1}",S35,DN MADE,Management Hôtelier,Paris
+P1690,P1689,MSc Tourisme — Alternance,MSc Tourisme — Alternance,,"{""apprenticeship"": ""true""}",S14,MSc,Tourisme,Strasbourg
+P1312,P1309,BUT Génie Civil — Alternance / Campus,BUT Génie Civil — Alternance / Campus,,"{""apprenticeship"": 1, ""school_id"": ""S31""}",S31,BUT,Génie Civil,Nantes
+P1405,P1404,Licence Pro Langues — Campus,Licence Pro Langues — Campus,,"{""school_id"": ""S14""}",S14,Licence Pro,Langues,Strasbourg
+P1774,P1771,Diplôme d'ingenieur Économie - en / Cy,Diplôme d'ingénieur Économie — en / Cyber ,,"{""language"": ""en"", ""track"": ""cyber""}",S31,Diplôme d'ingénieur,Économie,Nantes
+P1542,P1539,Bachelor Management Hôtelier - anglais,BACHELOR MANAGEMENT HÔTELIER — ANGLAIS / ALTERNANCE,,"{""language"": ""anglais"", ""apprenticeship"": 1}",S30,Bachelor,Management Hôtelier,Rennes
+P1267,P1263,DN MADE Ressources Humaines - Alternan,DN MADE Ressources Humaines — Alternance ,,"{""apprenticeship"": ""oui""}",S26,DN MADE,Ressources Humaines,Lille
+P1634,P1632,Diplôme d'ingénieur Logistique — Alter,Diplôme d'ingénieur Logistique — Alternance,,"{""apprenticeship"": ""true""}",S33,Diplôme d'ingénieur,Logistique,Lille
+P1561,P1557,MSc Communication — English,MSc Communication — English,,"{""language"": ""English""}",S14,MSc,Communication,Strasbourg
+P1753,,BUT Management Hôtelier,BUT MANAGEMENT HÔTELIER,,,S34,BUT,Management Hôtelier,Paris
+P1285,P1283,Licence Pro Finance — Excellence,Licence Pro Finance — Excellence,,"{""track"": ""excellence""}",S19,Licence Pro,Finance,Lille
+P1592,,BTS Management Hôtelier,BTS Management Hôtelier,,,S15,BTS,Management Hôtelier,Paris
+P1159,P1158,CPGE Droit — Campus,CPGE Droit — Campus,,"{""school_id"": ""S30""}",S30,CPGE,Droit,Rennes
+P1722,P1720,CPGE Marketing — IT,CPGE Marketing — IT,,"{""language"": ""IT""}",S29,CPGE,Marketing,Bordeaux
+P1452,,MSc Psychologie,MSc Psychologie,,,S35,MSc,Psychologie,Paris
+P1431,P1427,Bachelor Sciences Politiques — es,Bachelor Sciences Politiques — es,,"{""language"": ""es""}",S23,Bachelor,Sciences Politiques,Lille
+P1269,P1268,Licence Pro Cinema - en,Licence Pro Cinéma — en ,,"{""language"": ""en""}",S29,Licence Pro,Cinéma,Bordeaux
+P1616,P1614,Bachelor Finance — Alternance,Bachelor Finance — Alternance,,"{""apprenticeship"": 1}",S28,Bachelor,Finance,Toulouse
+P1067,,MBA Informatique,MBA Informatique,,,S15,MBA,Informatique,Paris
+P1245,P1244,DN MADE Langues — IT / Alternance,DN MADE Langues — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": ""true""}",S23,DN MADE,Langues,Lille
+P1000,,MSc Génie Civil,MSc Génie Civil,,,S29,MSc,Génie Civil,Bordeaux
+P1808,P1806,Licence Pro Biologie — es,Licence Pro Biologie — es,,"{""language"": ""es""}",S30,Licence Pro,Biologie,Rennes
+P1882,P1878,BUT Cinéma — Recherche,BUT Cinéma — Recherche,,"{""track"": ""recherche""}",S18,BUT,Cinéma,Lyon
+P1283,,Licence Pro Finance,Licence Pro Finance,,,S19,Licence Pro,Finance,Lille
+P1535,,Diplôme d'ingénieur Tourisme,Diplôme d'ingénieur Tourisme,,,S32,Diplôme d'ingénieur,Tourisme,Toulouse
+P1703,P1700,BTS Design — IT / Alternance,BTS Design — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": ""oui"", ""school_id"": ""S35""}",S35,BTS,Design,Paris
+P1780,P1779,CPGE Finance - EN,CPGE FINANCE — EN,,"{""language"": ""EN""}",S30,CPGE,Finance,Rennes
+P1518,,Master Data Science,Master Data Science,,,S34,Master,Data Science,Paris
+P1325,P1323,CPGE Marketing — en,CPGE Marketing — en,,"{""language"": ""en""}",S29,CPGE,Marketing,Bordeaux
+P1217,,Diplôme d'ingénieur Informatique,Diplôme d'ingénieur Informatique,Diplôme d'ingénieur Informatique — programme complet (ancien libellé),,S14,Diplôme d'ingénieur,Informatique,Strasbourg
+P1750,P1748,BUT Génie Mécanique — anglais,BUT Génie Mécanique — anglais,,"{""language"": ""anglais""}",S23,BUT,Génie Mécanique,Lille
+P1305,,BTS Commerce,BTS Commerce,,,S32,BTS,Commerce,Toulouse
+P1443,P1442,BTS Génie Civil — en,BTS Génie Civil — en,,"{""language"": ""en""}",S15,BTS,Génie Civil,Paris
+P1211,P1210,MSc Sciences Politiques — en,MSc Sciences Politiques — en,,"{""language"": ""en"", ""school_id"": ""S16""}",S16,MSc,Sciences Politiques,Grenoble
+P1267,P1263,DN MADE Ressources Humaines — Alternan,DN MADE Ressources Humaines — Alternance,,"{""apprenticeship"": ""oui""}",S26,DN MADE,Ressources Humaines,Lille
+P1586,,Licence Pro Économie,Licence Pro Économie,,,S32,Licence Pro,Économie,Toulouse
+P1769,P1768,Licence Ressources Humaines — Alternan,Licence Ressources Humaines — Alternance,,"{""apprenticeship"": ""oui""}",S32,Licence,Ressources Humaines,Toulouse
+P1320,P1317,BTS Informatique — English,BTS Informatique — English,,"{""language"": ""English""}",S14,BTS,Informatique,Strasbourg
+P1723,,Licence Informatique,Licence Informatique,,,S10,Licence,Informatique,Paris
+P1192,,Diplôme d'ingénieur Design,Diplôme d'ingénieur Design,Diplôme d'ingénieur Design — programme complet (ancien libellé),,S30,Diplôme d'ingénieur,Design,Rennes
+P1683,P1679,Diplôme d'ingénieur Marketing — anglai,Diplôme d'ingénieur Marketing — anglais,,"{""language"": ""anglais""}",S18,Diplôme d'ingénieur,Marketing,Lyon
+P1093,P1089,BUT Économie — EN,BUT Économie — EN,,"{""language"": ""EN"", ""school_id"": ""S17""}",S17,BUT,Économie,Lyon
+P1541,P1539,Bachelor Management Hôtelier — anglais,Bachelor Management Hôtelier — anglais,,"{""language"": ""anglais""}",S30,Bachelor,Management Hôtelier,Rennes
+P1026,P1025,Licence Pro Design — es,Licence Pro Design — es,,"{""language"": ""es"", ""school_id"": ""S27""}",S27,Licence Pro,Design,Grenoble
+P1668,,Licence Design,Licence Design,,,S19,Licence,Design,Lille
+P1799,P1798,MBA Logistique — English / Alternance ,MBA Logistique — English / Alternance / Excellence,,"{""language"": ""English"", ""apprenticeship"": true, ""track"": ""excellence""}",S36,MBA,Logistique,Paris
+P1728,,Diplôme d'ingénieur Communication,Diplôme d'ingénieur Communication,,,S23,Diplôme d'ingénieur,Communication,Lille
+P1871,,Diplôme d'ingenieur Droit,DIPLÔME D'INGÉNIEUR DROIT,,,S21,Diplôme d'ingénieur,Droit,Lyon
+P1720,,CPGE Marketing,CPGE Marketing,,,S29,CPGE,Marketing,Bordeaux
+P1161,P1160,DN MADE Finance — IT / Alternance,DN MADE Finance — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": true, ""school_id"": ""S36""}",S36,DN MADE,Finance,Paris
+P1879,P1878,BUT Cinéma — IT,BUT Cinéma — IT,,"{""language"": ""IT""}",S18,BUT,Cinéma,Lyon
+P1306,P1305,BTS Commerce — EN / Alternance,BTS Commerce — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": ""oui""}",S32,BTS,Commerce,Toulouse
+P1773,P1771,Diplôme d'ingénieur Économie — en / Al,Diplôme d'ingénieur Économie — en / Alternance,,"{""language"": ""en"", ""apprenticeship"": ""oui""}",S31,Diplôme d'ingénieur,Économie,Nantes
+P1565,P1562,BTS Psychologie — EN / Alternance,BTS Psychologie — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": true, ""school_id"": ""S29""}",S29,BTS,Psychologie,Bordeaux
+P1175,P1174,CPGE Psychologie - IT,CPGE PSYCHOLOGIE — IT,,"{""language"": ""IT""}",S20,CPGE,Psychologie,Strasbourg
+P1073,P1072,Master Génie Civil — en / Alternance /,Master Génie Civil — en / Alternance / Recherche,,"{""language"": ""en"", ""apprenticeship"": 1, ""track"": ""recherche"", ""school_id"": ""S29""}",S29,Master,Génie Civil,Bordeaux
+P1122,P1119,Master Langues — Alternance / Campus,Master Langues — Alternance / Campus,,"{""apprenticeship"": true, ""school_id"": ""S17""}",S17,Master,Langues,Lyon
+P1156,P1154,MSc Économie — IT,MSc Économie — IT,,"{""language"": ""IT"", ""school_id"": ""S27""}",S27,MSc,Économie,Grenoble
+P1831,P1828,BTS Architecture — Alternance / Campus,BTS Architecture — Alternance / Campus,,"{""apprenticeship"": 1, ""school_id"": ""S27""}",S27,BTS,Architecture,Grenoble
+P1209,P1205,Master Architecture — IT / Recherche,Master Architecture — IT / Recherche,,"{""language"": ""IT"", ""track"": ""recherche"", ""school_id"": ""S31""}",S31,Master,Architecture,Nantes
+P1132,P1129,CPGE Psychologie — Cyber,CPGE Psychologie — Cyber,,"{""track"": ""cyber""}",S33,CPGE,Psychologie,Lille
+P1223,,CPGE Langues,CPGE Langues,,,S12,CPGE,Langues,Lille
+P1444,P1442,BTS Genie Civil - Cyber,BTS GÉNIE CIVIL — CYBER,,"{""track"": ""cyber""}",S15,BTS,Génie Civil,Paris
+P1555,,Licence Génie Mécanique,Licence Génie Mécanique,,,S19,Licence,Génie Mécanique,Lille
+P1466,P1465,Diplôme d'ingénieur Psychologie — es,Diplôme d'ingénieur Psychologie — es,,"{""language"": ""es""}",S35,Diplôme d'ingénieur,Psychologie,Paris
+P1230,P1229,BUT Communication — EN,BUT Communication — EN,,"{""language"": ""EN"", ""school_id"": ""S12""}",S12,BUT,Communication,Lille
+P1818,P1817,Master Génie Civil — es,Master Génie Civil — es,,"{""language"": ""es""}",S14,Master,Génie Civil,Strasbourg
+P1580,P1579,Bachelor Génie Civil — Alternance,Bachelor Génie Civil — Alternance,,"{""apprenticeship"": 1}",S16,Bachelor,Génie Civil,Grenoble
+P1488,,MBA Sciences Politiques,MBA Sciences Politiques,,,S11,MBA,Sciences Politiques,Toulouse
+P1711,P1709,BTS Commerce — Alternance / Campus,BTS Commerce — Alternance / Campus,,"{""apprenticeship"": ""true"", ""school_id"": ""S35""}",S35,BTS,Commerce,Paris
+P1047,P1044,MSc Droit — Red Team,MSc Droit — Red Team,,"{""track"": ""red team""}",S11,MSc,Droit,Toulouse
+P1868,,Bachelor Data Science,Bachelor Data Science,,,S30,Bachelor,Data Science,Rennes
+P1764,P1763,Diplôme d'ingénieur Ressources Humaine,Diplôme d'ingénieur Ressources Humaines — EN,,"{""language"": ""EN""}",S29,Diplôme d'ingénieur,Ressources Humaines,Bordeaux
+P1381,P1378,MSc Langues — IT / Alternance / Cyber,MSc Langues — IT / Alternance / Cyber,,"{""language"": ""IT"", ""apprenticeship"": ""true"", ""track"": ""cyber"", ""school_id"": ""S27""}",S27,MSc,Langues,Grenoble
+P1729,,Bachelor Informatique,Bachelor Informatique,,,S14,Bachelor,Informatique,Strasbourg
+P1847,P1845,Licence Pro Psychologie — EN,Licence Pro Psychologie — EN,,"{""language"": ""EN""}",S15,Licence Pro,Psychologie,Paris
+P1719,,Licence Pro Ressources Humaines,Licence Pro Ressources Humaines,,,S13,Licence Pro,Ressources Humaines,Paris
+P1563,P1562,BTS Psychologie — Recherche,BTS Psychologie — Recherche,,"{""track"": ""recherche""}",S12,BTS,Psychologie,Lille
+P1035,,Diplôme d'ingénieur Management Hôt,Diplôme d'ingénieur Management Hôtelier,,,S11,Diplôme d'ingénieur,Management Hôtelier,Toulouse
+P1052,,BTS Génie Civil,BTS Génie Civil,,,S12,BTS,Génie Civil,Lille
+P1172,,CPGE Management Hôtelier,CPGE Management Hôtelier,,,S26,CPGE,Management Hôtelier,Lille
+P1521,P1518,Master Data Science — English / Red Te,Master Data Science — English / Red Team,,"{""language"": ""English"", ""track"": ""red team""}",S34,Master,Data Science,Paris
+P1592,,BTS Management Hôtelier,BTS Management Hôtelier,,,S15,BTS,Management Hôtelier,Paris
+P1266,P1263,DN MADE Ressources Humaines — en,DN MADE Ressources Humaines — en,,"{""language"": ""en""}",S26,DN MADE,Ressources Humaines,Lille
+P1658,P1656,BTS Droit — Alternance,BTS Droit — Alternance,,"{""apprenticeship"": ""true""}",S23,BTS,Droit,Lille
+P1327,,BTS Logistique,BTS Logistique,,,S15,BTS,Logistique,Paris
+P1598,,Licence Pro Finance,Licence Pro Finance,,,S13,Licence Pro,Finance,Paris
+P1826,,DN MADE Tourisme,DN MADE Tourisme,,,S15,DN MADE,Tourisme,Paris
+P1829,P1828,BTS Architecture — anglais / Excellenc,BTS Architecture — anglais / Excellence,,"{""language"": ""anglais"", ""track"": ""excellence""}",S21,BTS,Architecture,Lyon
+P1740,,DN MADE Management Hôtelier,DN MADE Management Hôtelier,,,S23,DN MADE,Management Hôtelier,Lille
+P1003,P1001,CPGE Sciences Politiques — Excellence,CPGE Sciences Politiques — Excellence,,"{""track"": ""excellence""}",S13,CPGE,Sciences Politiques,Paris
+P1008,P1007,BTS Sciences Politiques — English / Re,BTS Sciences Politiques — English / Recherche,,"{""language"": ""English"", ""track"": ""recherche""}",S33,BTS,Sciences Politiques,Lille
+P1089,,BUT Économie,BUT Économie,,,S17,BUT,Économie,Lyon
+P1589,P1586,Licence Pro Économie — anglais,Licence Pro Économie — anglais,,"{""language"": ""anglais""}",S32,Licence Pro,Économie,Toulouse
+P1657,P1656,BTS Droit — English / Alternance,BTS Droit — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": 1}",S23,BTS,Droit,Lille
+P1361,,Licence Pro Sciences Politiques,Licence Pro Sciences Politiques,,,S25,Licence Pro,Sciences Politiques,Rennes
+P1613,P1610,CPGE Génie Civil — Alternance / Cyber,CPGE Génie Civil — Alternance / Cyber,,"{""apprenticeship"": ""oui"", ""track"": ""cyber""}",S28,CPGE,Génie Civil,Toulouse
+P1875,,DN MADE Génie Civil,DN MADE Génie Civil,,,S21,DN MADE,Génie Civil,Lyon
+P1853,,DN MADE Management Hôtelier,DN MADE Management Hôtelier ,,,S23,DN MADE,Management Hôtelier,Lille
+P1708,P1707,Licence Informatique — anglais / Alter,Licence Informatique — anglais / Alternance,,"{""language"": ""anglais"", ""apprenticeship"": true}",S31,Licence,Informatique,Nantes
+P1044,,MSc Droit,MSc Droit,,,S11,MSc,Droit,Toulouse
+P1259,P1258,BTS Logistique — English,BTS Logistique — English,,"{""language"": ""English""}",S25,BTS,Logistique,Rennes
+P1408,P1404,Licence Pro Langues — Alternance,Licence Pro Langues — Alternance,,"{""apprenticeship"": 1}",S13,Licence Pro,Langues,Paris
+P1761,P1759,DN MADE Management Hôtelier — IT,DN MADE Management Hôtelier — IT,,"{""language"": ""IT""}",S34,DN MADE,Management Hôtelier,Paris
+P1430,P1427,Bachelor Sciences Politiques — IT,Bachelor Sciences Politiques — IT,,"{""language"": ""IT""}",S23,Bachelor,Sciences Politiques,Lille
+P1680,P1679,Diplôme d'ingénieur Marketing — Englis,Diplôme d'ingénieur Marketing — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": ""oui""}",S18,Diplôme d'ingénieur,Marketing,Lyon
+P1602,,Bachelor Commerce,Bachelor Commerce,,,S16,Bachelor,Commerce,Grenoble
+P1397,P1395,Master Communication — English,Master Communication — English,,"{""language"": ""English""}",S19,Master,Communication,Lille
+P201,P200,Bachelor Info — EN,Bachelor Informatique — English Track,,"{""language"":""anglais""}",S20,Bachelor,Informatique,Lyon
+P1802,P1800,Licence Pro Commerce — en,Licence Pro Commerce — en,,"{""language"": ""en""}",S28,Licence Pro,Commerce,Toulouse
+P1151,,BTS Architecture,BTS Architecture,,,S26,BTS,Architecture,Lille
+P1191,P1190,Master Finance — English,Master Finance — English,,"{""language"": ""English""}",S29,Master,Finance,Bordeaux
+P1344,P1342,Licence Pro Biologie — IT / Double-Dip,Licence Pro Biologie — IT / Double-Diplôme,,"{""language"": ""IT"", ""track"": ""double-diplôme"", ""school_id"": ""S32""}",S32,Licence Pro,Biologie,Toulouse
+P1780,P1779,CPGE Finance — EN,CPGE Finance — EN,,"{""language"": ""EN""}",S30,CPGE,Finance,Rennes
+P1163,P1160,DN MADE Finance — Excellence,DN MADE Finance — Excellence,,"{""track"": ""excellence""}",S32,DN MADE,Finance,Toulouse
+P1611,P1610,CPGE Génie Civil — en / Alternance / C,CPGE Génie Civil — en / Alternance / Cyber,,"{""language"": ""en"", ""apprenticeship"": ""oui"", ""track"": ""cyber""}",S28,CPGE,Génie Civil,Toulouse
+P1825,P1821,BUT Informatique — anglais,BUT Informatique — anglais,,"{""language"": ""anglais""}",S26,BUT,Informatique,Lille
+P1425,P1422,MSc Finance — IT / Excellence,MSc Finance — IT / Excellence,,"{""language"": ""IT"", ""track"": ""excellence""}",S19,MSc,Finance,Lille
+P1223,,CPGE Langues,CPGE Langues,,,S12,CPGE,Langues,Lille
+P1335,P1334,MBA Cinéma — EN / Alternance,MBA Cinéma — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": ""oui""}",S11,MBA,Cinéma,Toulouse
+P1459,P1457,BUT Cinéma — Alternance / Excellence,BUT Cinéma — Alternance / Excellence,,"{""apprenticeship"": 1, ""track"": ""excellence""}",S11,BUT,Cinéma,Toulouse
+P1114,P1113,Diplôme d'ingénieur Ressources Humaine,Diplôme d'ingénieur Ressources Humaines — Alternance / Campus,,"{""apprenticeship"": ""true"", ""school_id"": ""S30""}",S30,Diplôme d'ingénieur,Ressources Humaines,Rennes
+P1873,P1872,BTS Commerce — Red Team,BTS Commerce — Red Team,,"{""track"": ""red team""}",S18,BTS,Commerce,Lyon
+P1336,P1334,MBA Cinéma — Data,MBA Cinéma — Data,,"{""track"": ""data""}",S11,MBA,Cinéma,Toulouse
+P1183,,CPGE Chimie,CPGE Chimie,,,S14,CPGE,Chimie,Strasbourg
+P1227,,Diplôme d'ingénieur Logistique,Diplôme d'ingénieur Logistique,,,S34,Diplôme d'ingénieur,Logistique,Paris
+P1636,,CPGE Chimie,CPGE Chimie,,,S30,CPGE,Chimie,Rennes
+P1290,P1289,MSc Informatique — IT,MSc Informatique — IT,,"{""language"": ""IT"", ""school_id"": ""S13""}",S13,MSc,Informatique,Paris
+P1655,P1652,MBA Sciences Politiques — IT / Alterna,MBA Sciences Politiques — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": ""oui""}",S31,MBA,Sciences Politiques,Nantes
+P1731,,MSc Data Science,MSc Data Science,,,S13,MSc,Data Science,Paris
+P1041,P1038,Licence Pro Management Hôtelier — Alte,Licence Pro Management Hôtelier — Alternance / Data,,"{""apprenticeship"": ""true"", ""track"": ""data""}",S11,Licence Pro,Management Hôtelier,Toulouse
+P1696,P1693,MSc Cinéma — anglais / Alternance,MSc Cinéma — anglais / Alternance,,"{""language"": ""anglais"", ""apprenticeship"": 1}",S19,MSc,Cinéma,Lille
+P1127,,Master Psychologie,Master Psychologie,,,S17,Master,Psychologie,Lyon
+P1284,P1283,Licence Pro Finance — Alternance / Cam,Licence Pro Finance — Alternance / Campus,,"{""apprenticeship"": ""true"", ""school_id"": ""S22""}",S22,Licence Pro,Finance,Strasbourg
+P1839,P1837,BUT Tourisme — Excellence,BUT Tourisme — Excellence,,"{""track"": ""excellence""}",S17,BUT,Tourisme,Lyon
+P1581,P1579,Bachelor Génie Civil — Alternance / In,Bachelor Génie Civil — Alternance / International,,"{""apprenticeship"": ""oui"", ""track"": ""international"", ""school_id"": ""S27""}",S27,Bachelor,Génie Civil,Grenoble
+P1667,,Master Biologie,Master Biologie,,,S18,Master,Biologie,Lyon
+P1303,,MSc Sciences Politiques,MSc Sciences Politiques,,,S20,MSc,Sciences Politiques,Strasbourg
+P1878,,BUT Cinéma,BUT Cinéma,,,S18,BUT,Cinéma,Lyon
+P1172,,CPGE Management Hôtelier,CPGE Management Hôtelier,,,S26,CPGE,Management Hôtelier,Lille
+P1313,,Master Biologie,MASTER BIOLOGIE,,,S24,Master,Biologie,Strasbourg
+P1441,P1437,Licence Génie Civil — IT,Licence Génie Civil — IT,,"{""language"": ""IT""}",S20,Licence,Génie Civil,Strasbourg
+P1040,P1038,Licence Pro Management Hôtelier — IT /,Licence Pro Management Hôtelier — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": ""true"", ""school_id"": ""S10""}",S10,Licence Pro,Management Hôtelier,Paris
+P1012,P1011,MBA Logistique — es,MBA Logistique — es,,"{""language"": ""es""}",S24,MBA,Logistique,Strasbourg
+P1638,,BUT Commerce,BUT Commerce,,,S20,BUT,Commerce,Strasbourg
+P1482,P1480,Licence Architecture — anglais,Licence Architecture — anglais,,"{""language"": ""anglais"", ""school_id"": ""S28""}",S28,Licence,Architecture,Toulouse
+P1803,,DN MADE Droit,DN MADE Droit,,,S32,DN MADE,Droit,Toulouse
+P1256,P1253,BUT Économie - English,BUT Économie — English ,,"{""language"": ""English"", ""school_id"": ""S13""}",S13,BUT,Économie,Paris
+P1186,,Master Logistique,Master Logistique,,,S23,Master,Logistique,Lille
+P1314,P1313,Master Biologie - IT / Cyber,MASTER BIOLOGIE — IT / CYBER,,"{""language"": ""IT"", ""track"": ""cyber""}",S24,Master,Biologie,Strasbourg
+P1399,P1395,Master Communication — EN,Master Communication — EN,,"{""language"": ""EN""}",S19,Master,Communication,Lille
+P1584,P1583,MSc Informatique — es,MSc Informatique — es,,"{""language"": ""es""}",S34,MSc,Informatique,Paris
+P1559,P1557,MSc Communication — Alternance / Excel,MSc Communication — Alternance / Excellence,,"{""apprenticeship"": true, ""track"": ""excellence"", ""school_id"": ""S11""}",S11,MSc,Communication,Toulouse
+P1738,P1737,MBA Langues — English,MBA Langues — English,,"{""language"": ""English""}",S11,MBA,Langues,Toulouse
+P1262,P1258,BTS Logistique — IT / Alternance,BTS Logistique — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": 1, ""school_id"": ""S12""}",S12,BTS,Logistique,Lille
+P1231,P1229,BUT Communication - en,BUT COMMUNICATION — EN,,"{""language"": ""en"", ""school_id"": ""S11""}",S11,BUT,Communication,Toulouse
+P1011,,MBA Logistique,MBA Logistique ,,,S24,MBA,Logistique,Strasbourg
+P1562,,BTS Psychologie,BTS Psychologie,,,S12,BTS,Psychologie,Lille
+P1190,,Master Finance,Master Finance,,,S29,Master,Finance,Bordeaux
+P1877,P1875,DN MADE Génie Civil — en,DN MADE Génie Civil — en,,"{""language"": ""en""}",S21,DN MADE,Génie Civil,Lyon
+P1093,P1089,BUT Économie - EN,BUT Économie — EN ,,"{""language"": ""EN"", ""school_id"": ""S17""}",S17,BUT,Économie,Lyon
+P1860,,MSc Sciences Politiques,MSc Sciences Politiques,,,S27,MSc,Sciences Politiques,Grenoble
+P1880,P1878,BUT Cinema - es,BUT Cinéma — es ,,"{""language"": ""es""}",S18,BUT,Cinéma,Lyon
+P1263,,DN MADE Ressources Humaines,DN MADE Ressources Humaines,,,S26,DN MADE,Ressources Humaines,Lille
+P1531,,CPGE Design,CPGE Design,,,S28,CPGE,Design,Toulouse
+P1373,P1372,Diplôme d'ingénieur Logistique — Reche,Diplôme d'ingénieur Logistique — Recherche,,"{""track"": ""recherche"", ""school_id"": ""S19""}",S19,Diplôme d'ingénieur,Logistique,Lille
+P1664,P1662,DN MADE Management Hôtelier — Alternan,DN MADE Management Hôtelier — Alternance,,"{""apprenticeship"": 1}",S35,DN MADE,Management Hôtelier,Paris
+P1145,,BUT Droit,BUT Droit,,,S15,BUT,Droit,Paris
+P1883,,MSc Cinéma,MSc Cinéma,MSc Cinéma — programme complet (ancien libellé),,S27,MSc,Cinéma,Grenoble
+P1195,,MSc Cinéma,MSc Cinéma,,,S26,MSc,Cinéma,Lille
+P1165,,MBA Communication,MBA Communication ,,,S35,MBA,Communication,Paris
+P1233,,MBA Génie Civil,MBA Génie Civil,,,S31,MBA,Génie Civil,Nantes
+P1017,P1015,Diplôme d'ingénieur Économie — English,Diplôme d'ingénieur Économie — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": 1}",S29,Diplôme d'ingénieur,Économie,Bordeaux
+P1050,P1049,MSc Finance — Campus,MSc Finance — Campus,,"{""school_id"": ""S29""}",S29,MSc,Finance,Bordeaux
+P1410,P1409,Bachelor Commerce — EN,Bachelor Commerce — EN,,"{""language"": ""EN""}",S25,Bachelor,Commerce,Rennes
+P1377,,Master Droit,Master Droit,,,S19,Master,Droit,Lille
+P1507,P1505,Licence Pro Data Science — IT,Licence Pro Data Science — IT,,"{""language"": ""IT""}",S21,Licence Pro,Data Science,Lyon
+P1855,P1853,DN MADE Management Hôtelier — EN / Alt,DN MADE Management Hôtelier — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": true, ""school_id"": ""S10""}",S10,DN MADE,Management Hôtelier,Paris
+P1516,P1514,DN MADE Droit — en,DN MADE Droit — en,,"{""language"": ""en""}",S21,DN MADE,Droit,Lyon
+P1167,P1166,Master Biologie — es,Master Biologie — es,,"{""language"": ""es""}",S36,Master,Biologie,Paris
+P1529,,Diplôme d'ingénieur Design,Diplôme d'ingénieur Design,,,S32,Diplôme d'ingénieur,Design,Toulouse
+P1557,,MSc Communication,MSc Communication,,,S14,MSc,Communication,Strasbourg
+P1071,P1070,CPGE Génie Civil — English / Alternanc,CPGE Génie Civil — English / Alternance / Red Team,,"{""language"": ""English"", ""apprenticeship"": 1, ""track"": ""red team""}",S19,CPGE,Génie Civil,Lille
+P1098,,MBA Chimie,MBA Chimie,MBA Chimie — programme complet (ancien libellé),,S32,MBA,Chimie,Toulouse
+P1766,P1763,Diplôme d'ingénieur Ressources Humaine,Diplôme d'ingénieur Ressources Humaines — es,,"{""language"": ""es""}",S29,Diplôme d'ingénieur,Ressources Humaines,Bordeaux
+P1791,,DN MADE Ressources Humaines,DN MADE Ressources Humaines,,,S17,DN MADE,Ressources Humaines,Lyon
+P1362,P1361,Licence Pro Sciences Politiques — Alte,Licence Pro Sciences Politiques — Alternance,,"{""apprenticeship"": 1}",S25,Licence Pro,Sciences Politiques,Rennes
+P1216,,BTS Sciences Politiques,BTS Sciences Politiques,,,S18,BTS,Sciences Politiques,Lyon
+P1724,,DN MADE Tourisme,DN MADE Tourisme,,,S25,DN MADE,Tourisme,Rennes
+P1451,P1450,Licence Pro Tourisme — en / Double-Dip,Licence Pro Tourisme — en / Double-Diplôme,,"{""language"": ""en"", ""track"": ""double-diplôme""}",S23,Licence Pro,Tourisme,Lille
+P1187,P1186,Master Logistique — Alternance / Campu,Master Logistique — Alternance / Campus,,"{""apprenticeship"": ""true"", ""school_id"": ""S22""}",S22,Master,Logistique,Strasbourg
+P1385,P1382,BTS Économie — Cyber,BTS Économie — Cyber,,"{""track"": ""cyber"", ""school_id"": ""S11""}",S11,BTS,Économie,Toulouse
+P1795,,BUT Data Science,BUT Data Science,,,S34,BUT,Data Science,Paris
+P1376,P1372,Diplôme d'ingénieur Logistique — EN,Diplôme d'ingénieur Logistique — EN,,"{""language"": ""EN""}",S35,Diplôme d'ingénieur,Logistique,Paris
+P1356,P1353,MBA Design — en,MBA Design — en,,"{""language"": ""en""}",S18,MBA,Design,Lyon
+P1282,P1281,Bachelor Économie — EN,Bachelor Économie — EN,,"{""language"": ""EN""}",S21,Bachelor,Économie,Lyon
+P1510,,Licence Biologie,Licence Biologie,,,S13,Licence,Biologie,Paris
+P1608,P1606,DN MADE Finance — Cyber,DN MADE Finance — Cyber,,"{""track"": ""cyber""}",S30,DN MADE,Finance,Rennes
+P1739,P1737,MBA Langues - English,MBA Langues — English ,,"{""language"": ""English""}",S11,MBA,Langues,Toulouse
+P1295,P1294,Licence Pro Ressources Humaines — en /,Licence Pro Ressources Humaines — en / Alternance,,"{""language"": ""en"", ""apprenticeship"": ""true""}",S26,Licence Pro,Ressources Humaines,Lille
+P1065,,MSc Sciences Politiques,MSc Sciences Politiques,,,S23,MSc,Sciences Politiques,Lille
+P1034,P1031,MSc Commerce — IT,MSc Commerce — IT,,"{""language"": ""IT""}",S26,MSc,Commerce,Lille
+P1526,,Licence Pro Data Science,Licence Pro Data Science,,,S20,Licence Pro,Data Science,Strasbourg
+P1648,P1647,CPGE Tourisme — anglais,CPGE Tourisme — anglais,,"{""language"": ""anglais""}",S18,CPGE,Tourisme,Lyon
+P1773,P1771,Diplôme d'ingénieur Économie — en / Al,Diplôme d'ingénieur Économie — en / Alternance,,"{""language"": ""en"", ""apprenticeship"": ""oui""}",S31,Diplôme d'ingénieur,Économie,Nantes
+P1261,P1258,BTS Logistique — en,BTS Logistique — en,,"{""language"": ""en""}",S25,BTS,Logistique,Rennes
+P1400,,MSc Économie,MSc Économie,,,S32,MSc,Économie,Toulouse
+P1596,P1595,DN MADE Droit - English / Alternance,DN MADE Droit — English / Alternance ,,"{""language"": ""English"", ""apprenticeship"": 1, ""school_id"": ""S19""}",S19,DN MADE,Droit,Lille
+P1239,P1237,Licence Pro Ressources Humaines — angl,Licence Pro Ressources Humaines — anglais / Excellence,,"{""language"": ""anglais"", ""track"": ""excellence""}",S29,Licence Pro,Ressources Humaines,Bordeaux
+P1668,,Licence Design,Licence Design,,,S19,Licence,Design,Lille
+P1324,P1323,CPGE Marketing — EN,CPGE Marketing — EN,,"{""language"": ""EN""}",S29,CPGE,Marketing,Bordeaux
+P1391,P1390,MSc Data Science — Alternance,MSc Data Science — Alternance,,"{""apprenticeship"": 1}",S33,MSc,Data Science,Lille
+P1433,P1432,MSc Biologie - Alternance,MSC BIOLOGIE — ALTERNANCE,,"{""apprenticeship"": ""true""}",S10,MSc,Biologie,Paris
+P1500,P1499,Bachelor Communication — anglais,Bachelor Communication — anglais,,"{""language"": ""anglais""}",S30,Bachelor,Communication,Rennes
+P1623,P1619,Licence Pro Architecture — Alternance ,Licence Pro Architecture — Alternance / Excellence,,"{""apprenticeship"": 1, ""track"": ""excellence""}",S10,Licence Pro,Architecture,Paris
+P1180,,Bachelor Communication,Bachelor Communication,Bachelor Communication — programme complet (ancien libellé),,S35,Bachelor,Communication,Paris
+P1219,,BUT Commerce,BUT Commerce,,,S25,BUT,Commerce,Rennes
+P1328,P1327,BTS Logistique — EN / International,BTS Logistique — EN / International,,"{""language"": ""EN"", ""track"": ""international"", ""school_id"": ""S27""}",S27,BTS,Logistique,Grenoble
+P1068,P1067,MBA Informatique — EN,MBA Informatique — EN,,"{""language"": ""EN""}",S15,MBA,Informatique,Paris
+P1619,,Licence Pro Architecture,Licence Pro Architecture,,,S10,Licence Pro,Architecture,Paris
+P1293,P1289,MSc Informatique — en / Excellence,MSc Informatique — en / Excellence,,"{""language"": ""en"", ""track"": ""excellence""}",S23,MSc,Informatique,Lille
+P1759,,DN MADE Management Hôtelier,DN MADE Management Hôtelier,,,S34,DN MADE,Management Hôtelier,Paris
+P1849,P1848,BTS Ressources Humaines — en,BTS Ressources Humaines — en,,"{""language"": ""en""}",S13,BTS,Ressources Humaines,Paris
+P1699,P1698,DN MADE Chimie — Campus,DN MADE Chimie — Campus,,"{""school_id"": ""S11""}",S11,DN MADE,Chimie,Toulouse
+P1874,P1872,BTS Commerce — en,BTS Commerce — en,,"{""language"": ""en""}",S18,BTS,Commerce,Lyon
+P1005,,Diplôme d'ingénieur Génie Civil,Diplôme d'ingénieur Génie Civil,,,S15,Diplôme d'ingénieur,Génie Civil,Paris
+P1254,P1253,BUT Économie — en,BUT Économie — en,,"{""language"": ""en""}",S13,BUT,Économie,Paris
+P1177,P1174,CPGE Psychologie — en / Alternance,CPGE Psychologie — en / Alternance,,"{""language"": ""en"", ""apprenticeship"": 1}",S20,CPGE,Psychologie,Strasbourg
+P1642,,MBA Sciences Politiques,MBA Sciences Politiques,,,S33,MBA,Sciences Politiques,Lille
+P1681,P1679,Diplôme d'ingénieur Marketing — anglai,Diplôme d'ingénieur Marketing — anglais,,"{""language"": ""anglais""}",S18,Diplôme d'ingénieur,Marketing,Lyon
+P1249,,MSc Commerce,MSc Commerce,,,S22,MSc,Commerce,Strasbourg
+P1275,P1271,MBA Biologie — English,MBA Biologie — English,,"{""language"": ""English""}",S18,MBA,Biologie,Lyon
+P204,P200,Bachelor Info — Toulouse,Bachelor Informatique — Campus Toulouse,,"{""school_id"":""S99""}",S99,Bachelor,Informatique,Toulouse
+P1508,P1505,Licence Pro Data Science — Campus,Licence Pro Data Science — Campus,,"{""school_id"": ""S29""}",S29,Licence Pro,Data Science,Bordeaux
+P1120,P1119,Master Langues — Cyber,Master Langues — Cyber,,"{""track"": ""cyber""}",S17,Master,Langues,Lyon
+P1075,P1072,Master Génie Civil — es / Alternance,Master Génie Civil — es / Alternance,,"{""language"": ""es"", ""apprenticeship"": true, ""school_id"": ""S35""}",S35,Master,Génie Civil,Paris
+P1487,P1485,MBA Tourisme — English,MBA Tourisme — English,,"{""language"": ""English""}",S25,MBA,Tourisme,Rennes
+P1813,P1809,MSc Marketing — Alternance,MSc Marketing — Alternance,,"{""apprenticeship"": 1}",S23,MSc,Marketing,Lille
+P1018,P1015,Diplôme d'ingénieur Économie — EN,Diplôme d'ingénieur Économie — EN,,"{""language"": ""EN""}",S29,Diplôme d'ingénieur,Économie,Bordeaux
+P1641,P1638,BUT Commerce — IT / Alternance,BUT Commerce — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": true}",S20,BUT,Commerce,Strasbourg
+P1043,,Licence Droit,Licence Droit,,,S28,Licence,Droit,Toulouse
+P1164,P1160,DN MADE Finance — Campus,DN MADE Finance — Campus,,"{""school_id"": ""S35""}",S35,DN MADE,Finance,Paris
+P1475,P1472,MSc Génie Mécanique — Alternance / Rec,MSc Génie Mécanique — Alternance / Recherche,,"{""apprenticeship"": ""true"", ""track"": ""recherche""}",S10,MSc,Génie Mécanique,Paris
+P1365,P1364,DN MADE Architecture - Campus,DN MADE Architecture — Campus ,,"{""school_id"": ""S30""}",S30,DN MADE,Architecture,Rennes
+P1257,P1253,BUT Économie — EN / Alternance,BUT Économie — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": ""oui""}",S13,BUT,Économie,Paris
+P1478,P1476,BUT Génie Civil — es,BUT Génie Civil — es,,"{""language"": ""es""}",S18,BUT,Génie Civil,Lyon
+P1179,,CPGE Data Science,CPGE Data Science,,,S32,CPGE,Data Science,Toulouse
+P1162,P1160,DN MADE Finance — English / Alternance,DN MADE Finance — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": 1}",S32,DN MADE,Finance,Toulouse
+P1150,,Bachelor Tourisme,Bachelor Tourisme ,,,S36,Bachelor,Tourisme,Paris
+P1194,P1193,Master Langues - anglais / Alternance ,MASTER LANGUES — ANGLAIS / ALTERNANCE / EXCELLENCE,,"{""language"": ""anglais"", ""apprenticeship"": ""true"", ""track"": ""excellence""}",S11,Master,Langues,Toulouse
+P1352,P1349,Licence Data Science — en,Licence Data Science — en,,"{""language"": ""en""}",S25,Licence,Data Science,Rennes
+P1422,,MSc Finance,MSc Finance,,,S19,MSc,Finance,Lille
+P1394,P1393,BUT Génie Mécanique — International,BUT Génie Mécanique — International,,"{""track"": ""international"", ""school_id"": ""S34""}",S34,BUT,Génie Mécanique,Paris
+P1534,P1531,CPGE Design — en,CPGE Design — en,,"{""language"": ""en"", ""school_id"": ""S24""}",S24,CPGE,Design,Strasbourg
+P1515,P1514,DN MADE Droit — IT,DN MADE Droit — IT,,"{""language"": ""IT""}",S21,DN MADE,Droit,Lyon
+P1722,P1720,CPGE Marketing — IT,CPGE Marketing — IT,,"{""language"": ""IT""}",S29,CPGE,Marketing,Bordeaux
+P1471,P1469,MSc Génie Civil — Alternance / Campus,MSc Génie Civil — Alternance / Campus,,"{""apprenticeship"": true, ""school_id"": ""S29""}",S29,MSc,Génie Civil,Bordeaux
+P1627,P1626,Licence Tourisme — English / Alternanc,Licence Tourisme — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": ""oui""}",S28,Licence,Tourisme,Toulouse
+P1342,,Licence Pro Biologie,Licence Pro Biologie,,,S30,Licence Pro,Biologie,Rennes
+P1625,P1624,MBA Logistique — anglais,MBA Logistique — anglais,,"{""language"": ""anglais""}",S25,MBA,Logistique,Rennes
+P1755,P1754,MSc Génie Civil — Excellence,MSc Génie Civil — Excellence,,"{""track"": ""excellence""}",S36,MSc,Génie Civil,Paris
+P1674,P1672,MBA Design — anglais / Cyber,MBA Design — anglais / Cyber,,"{""language"": ""anglais"", ""track"": ""cyber""}",S34,MBA,Design,Paris
+P1474,P1472,MSc Génie Mécanique — Alternance / Rec,MSc Génie Mécanique — Alternance / Recherche,,"{""apprenticeship"": ""true"", ""track"": ""recherche""}",S10,MSc,Génie Mécanique,Paris
+P1242,,DN MADE Ressources Humaines,DN MADE Ressources Humaines,,,S12,DN MADE,Ressources Humaines,Lille
+P1081,P1077,MBA Commerce — en / Alternance,MBA Commerce — en / Alternance,,"{""language"": ""en"", ""apprenticeship"": ""oui""}",S31,MBA,Commerce,Nantes
+P1526,,Licence Pro Data Science,Licence Pro Data Science,,,S20,Licence Pro,Data Science,Strasbourg
+P1749,P1748,BUT Génie Mécanique — en,BUT Génie Mécanique — en,,"{""language"": ""en""}",S23,BUT,Génie Mécanique,Lille
+P1520,P1518,Master Data Science — en,Master Data Science — en,,"{""language"": ""en"", ""school_id"": ""S23""}",S23,Master,Data Science,Lille
+P1736,,Diplôme d'ingénieur Design,Diplôme d'ingénieur Design,,,S25,Diplôme d'ingénieur,Design,Rennes
+P1277,P1276,Diplôme d'ingénieur Économie — EN / Al,Diplôme d'ingénieur Économie — EN / Alternance / Excellence,,"{""language"": ""EN"", ""apprenticeship"": ""true"", ""track"": ""excellence"", ""school_id"": ""S19""}",S19,Diplôme d'ingénieur,Économie,Lille
+P1530,P1529,Diplôme d'ingénieur Design — anglais,Diplôme d'ingénieur Design — anglais,,"{""language"": ""anglais""}",S32,Diplôme d'ingénieur,Design,Toulouse
+P1136,P1134,BTS Droit — es / Excellence,BTS Droit — es / Excellence,,"{""language"": ""es"", ""track"": ""excellence"", ""school_id"": ""S34""}",S34,BTS,Droit,Paris
+P1072,,Master Génie Civil,Master Génie Civil,,,S30,Master,Génie Civil,Rennes
+P1688,P1687,Diplôme d'ingénieur Biologie — English,Diplôme d'ingénieur Biologie — English,,"{""language"": ""English""}",S16,Diplôme d'ingénieur,Biologie,Grenoble
+P1889,,BUT Commerce,BUT Commerce,,,S31,BUT,Commerce,Nantes
+P1368,P1364,DN MADE Architecture — EN,DN MADE Architecture — EN,,"{""language"": ""EN""}",S18,DN MADE,Architecture,Lyon
+P1863,,Licence Pro Génie Mécanique,Licence Pro Génie Mécanique,,,S35,Licence Pro,Génie Mécanique,Paris
+P1871,,Diplôme d'ingénieur Droit,Diplôme d'ingénieur Droit,,,S21,Diplôme d'ingénieur,Droit,Lyon
+P1025,,Licence Pro Design,Licence Pro Design,,,S14,Licence Pro,Design,Strasbourg
+P1366,P1364,DN MADE Architecture — EN,DN MADE Architecture — EN,,"{""language"": ""EN""}",S18,DN MADE,Architecture,Lyon
+P1550,,BTS Économie,BTS Économie,,,S29,BTS,Économie,Bordeaux
+P1411,P1409,Bachelor Commerce — IT,Bachelor Commerce — IT,,"{""language"": ""IT""}",S25,Bachelor,Commerce,Rennes
+P1745,P1744,CPGE Communication - EN,CPGE COMMUNICATION — EN,,"{""language"": ""EN""}",S17,CPGE,Communication,Lyon
+P1504,P1501,Licence Pro Économie — English / Red T,Licence Pro Économie — English / Red Team,,"{""language"": ""English"", ""track"": ""red team""}",S24,Licence Pro,Économie,Strasbourg
+P1233,,MBA Génie Civil,MBA Génie Civil,,,S31,MBA,Génie Civil,Nantes
+P1501,,Licence Pro Économie,Licence Pro Économie,,,S24,Licence Pro,Économie,Strasbourg
+P1088,P1084,BUT Biologie - English,BUT Biologie — English ,,"{""language"": ""English""}",S26,BUT,Biologie,Lille
+P1747,,CPGE Communication,CPGE Communication,,,S13,CPGE,Communication,Paris
+P1646,P1642,MBA Sciences Politiques - Cyber,MBA Sciences Politiques — Cyber ,,"{""track"": ""cyber""}",S33,MBA,Sciences Politiques,Lille
+P1436,P1434,Licence Génie Mécanique — anglais,Licence Génie Mécanique — anglais,,"{""language"": ""anglais""}",S17,Licence,Génie Mécanique,Lyon
+P100,,MBA Mgmt Hôtelier,MBA Management Hôtelier,"MBA en Management Hôtelier International (ancien libellé, ne plus utiliser)",,S10,MBA,Hôtellerie,Bordeaux
+P1594,P1592,BTS Management Hôtelier — Cyber,BTS Management Hôtelier — Cyber,,"{""track"": ""cyber""}",S15,BTS,Management Hôtelier,Paris
+P1451,P1450,Licence Pro Tourisme — en / Double-Dip,Licence Pro Tourisme — en / Double-Diplôme,,"{""language"": ""en"", ""track"": ""double-diplôme""}",S23,Licence Pro,Tourisme,Lille
+P1556,P1555,Licence Génie Mécanique — Alternance /,Licence Génie Mécanique — Alternance / Campus,,"{""apprenticeship"": ""true"", ""school_id"": ""S10""}",S10,Licence,Génie Mécanique,Paris
+P1425,P1422,MSc Finance — IT / Excellence,MSc Finance — IT / Excellence,,"{""language"": ""IT"", ""track"": ""excellence""}",S19,MSc,Finance,Lille
+P1512,,CPGE Logistique,CPGE Logistique,,,S27,CPGE,Logistique,Grenoble
+P1456,P1455,CPGE Droit — IT,CPGE Droit — IT,,"{""language"": ""IT""}",S30,CPGE,Droit,Rennes
+P1868,,Bachelor Data Science,BACHELOR DATA SCIENCE,,,S30,Bachelor,Data Science,Rennes
+P1426,P1422,MSc Finance — IT,MSc Finance — IT,,"{""language"": ""IT""}",S19,MSc,Finance,Lille
+P1857,,BTS Économie,BTS Économie,,,S30,BTS,Économie,Rennes
+P1657,P1656,BTS Droit — English / Alternance,BTS Droit — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": 1}",S23,BTS,Droit,Lille
+P1131,P1129,CPGE Psychologie — en / Red Team,CPGE Psychologie — en / Red Team,,"{""language"": ""en"", ""track"": ""red team""}",S33,CPGE,Psychologie,Lille
+P1494,,CPGE Tourisme,CPGE Tourisme,,,S28,CPGE,Tourisme,Toulouse
+P1342,,Licence Pro Biologie,Licence Pro Biologie,,,S30,Licence Pro,Biologie,Rennes
+P1438,P1437,Licence Génie Civil — Double-Diplôme,Licence Génie Civil — Double-Diplôme,,"{""track"": ""double-diplôme""}",S20,Licence,Génie Civil,Strasbourg
+P1725,,Licence Pro Commerce,Licence Pro Commerce,,,S33,Licence Pro,Commerce,Lille
+P1364,,DN MADE Architecture,DN MADE Architecture,,,S18,DN MADE,Architecture,Lyon
+P1007,,BTS Sciences Politiques,BTS Sciences Politiques,,,S33,BTS,Sciences Politiques,Lille
+P1336,P1334,MBA Cinéma — Data,MBA Cinéma — Data,,"{""track"": ""data""}",S11,MBA,Cinéma,Toulouse
+P1520,P1518,Master Data Science — en,Master Data Science — en,,"{""language"": ""en"", ""school_id"": ""S23""}",S23,Master,Data Science,Lille
+P1128,P1127,Master Psychologie — English,Master Psychologie — English,,"{""language"": ""English"", ""school_id"": ""S16""}",S16,Master,Psychologie,Grenoble
+P1119,,Master Langues,Master Langues,,,S17,Master,Langues,Lyon
+P1286,P1283,Licence Pro Finance — anglais / Altern,Licence Pro Finance — anglais / Alternance,,"{""language"": ""anglais"", ""apprenticeship"": ""true""}",S19,Licence Pro,Finance,Lille
+P1861,P1860,MSc Sciences Politiques — Campus,MSc Sciences Politiques — Campus,,"{""school_id"": ""S31""}",S31,MSc,Sciences Politiques,Nantes
+P1418,P1417,BUT Droit — Excellence,BUT Droit — Excellence,,"{""track"": ""excellence"", ""school_id"": ""S29""}",S29,BUT,Droit,Bordeaux
+P1343,P1342,Licence Pro Biologie - English,Licence Pro Biologie — English ,,"{""language"": ""English""}",S30,Licence Pro,Biologie,Rennes
+P1687,,Diplôme d'ingénieur Biologie,Diplôme d'ingénieur Biologie,,,S16,Diplôme d'ingénieur,Biologie,Grenoble
+P1666,P1662,DN MADE Management Hôtelier — English ,DN MADE Management Hôtelier — English / Recherche,,"{""language"": ""English"", ""track"": ""recherche"", ""school_id"": ""S36""}",S36,DN MADE,Management Hôtelier,Paris
+P1183,,CPGE Chimie,CPGE Chimie,,,S14,CPGE,Chimie,Strasbourg
+P1649,P1647,CPGE Tourisme — IT / Alternance,CPGE Tourisme — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": 1, ""school_id"": ""S32""}",S32,CPGE,Tourisme,Toulouse
+P1737,,MBA Langues,MBA Langues,MBA Langues — programme complet (ancien libellé),,S11,MBA,Langues,Toulouse
+P1676,P1672,MBA Design — IT,MBA Design — IT,,"{""language"": ""IT"", ""school_id"": ""S18""}",S18,MBA,Design,Lyon
+P1207,P1205,Master Architecture — English,Master Architecture — English,,"{""language"": ""English""}",S13,Master,Architecture,Paris
+P1549,P1546,MSc Management Hôtelier — English / Al,MSc Management Hôtelier — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": 1}",S23,MSc,Management Hôtelier,Lille
+P1630,,BUT Architecture,BUT Architecture,,,S14,BUT,Architecture,Strasbourg
+P1381,P1378,MSc Langues — IT / Alternance / Cyber,MSc Langues — IT / Alternance / Cyber,,"{""language"": ""IT"", ""apprenticeship"": ""true"", ""track"": ""cyber"", ""school_id"": ""S27""}",S27,MSc,Langues,Grenoble
+P1661,P1660,Licence Pro Économie — Campus,Licence Pro Économie — Campus,,"{""school_id"": ""S13""}",S13,Licence Pro,Économie,Paris
+P1382,,BTS Économie,BTS Économie,,,S30,BTS,Économie,Rennes
+P1316,P1313,Master Biologie — English,Master Biologie — English,,"{""language"": ""English""}",S24,Master,Biologie,Strasbourg
+P1394,P1393,BUT Génie Mécanique — International,BUT Génie Mécanique — International,,"{""track"": ""international"", ""school_id"": ""S34""}",S34,BUT,Génie Mécanique,Paris
+P1695,P1693,MSc Cinéma — English,MSc Cinéma — English,,"{""language"": ""English""}",S19,MSc,Cinéma,Lille
+P1433,P1432,MSc Biologie — Alternance,MSc Biologie — Alternance,,"{""apprenticeship"": ""true""}",S10,MSc,Biologie,Paris
+P1841,P1840,BTS Design - EN / Alternance,BTS DESIGN — EN / ALTERNANCE,,"{""language"": ""EN"", ""apprenticeship"": ""oui""}",S30,BTS,Design,Rennes
+P1046,P1044,MSc Droit - en / Red Team,MSC DROIT — EN / RED TEAM,,"{""language"": ""en"", ""track"": ""red team""}",S11,MSc,Droit,Toulouse
+P1656,,BTS Droit,BTS DROIT,BTS Droit — programme complet (ancien libellé),,S23,BTS,Droit,Lille
+P1610,,CPGE Génie Civil,CPGE Génie Civil,,,S28,CPGE,Génie Civil,Toulouse
+P1358,P1357,MSc Design — Alternance,MSc Design — Alternance,,"{""apprenticeship"": ""oui""}",S16,MSc,Design,Grenoble
+P1663,P1662,DN MADE Management Hôtelier - Data,DN MADE MANAGEMENT HÔTELIER — DATA,,"{""track"": ""data""}",S35,DN MADE,Management Hôtelier,Paris
+P1636,,CPGE Chimie,CPGE CHIMIE,,,S30,CPGE,Chimie,Rennes
+P1045,P1044,MSc Droit — Double-Diplôme,MSc Droit — Double-Diplôme,,"{""track"": ""double-diplôme"", ""school_id"": ""S15""}",S15,MSc,Droit,Paris
+P1254,P1253,BUT Économie — en,BUT Économie — en,,"{""language"": ""en""}",S13,BUT,Économie,Paris
+P1395,,Master Communication,Master Communication ,,,S19,Master,Communication,Lille
+P1054,P1052,BTS Génie Civil — Cyber,BTS Génie Civil — Cyber,,"{""track"": ""cyber""}",S12,BTS,Génie Civil,Lille
+P1292,P1289,MSc Informatique — IT,MSc Informatique — IT,,"{""language"": ""IT""}",S23,MSc,Informatique,Lille
+P1708,P1707,Licence Informatique — anglais / Alter,Licence Informatique — anglais / Alternance,,"{""language"": ""anglais"", ""apprenticeship"": true}",S31,Licence,Informatique,Nantes
+P1695,P1693,MSc Cinema - English,MSC CINÉMA — ENGLISH,,"{""language"": ""English""}",S19,MSc,Cinéma,Lille
+P1513,P1512,CPGE Logistique — Recherche,CPGE Logistique — Recherche,,"{""track"": ""recherche""}",S27,CPGE,Logistique,Grenoble
+P1617,P1614,Bachelor Finance — Alternance / Campus,Bachelor Finance — Alternance / Campus,,"{""apprenticeship"": ""true"", ""school_id"": ""S11""}",S11,Bachelor,Finance,Toulouse
+P250,P299,MSc Data — EN,MSc Data Science — English Track,,"{""language"":""en""}",S20,MSc,Data,Lyon
+P1763,,Diplôme d'ingénieur Ressources Hum,Diplôme d'ingénieur Ressources Humaines,,,S29,Diplôme d'ingénieur,Ressources Humaines,Bordeaux
+P1082,,Diplôme d'ingénieur Communication,Diplôme d'ingénieur Communication,,,S24,Diplôme d'ingénieur,Communication,Strasbourg
+P1343,P1342,Licence Pro Biologie — English,Licence Pro Biologie — English,,"{""language"": ""English""}",S30,Licence Pro,Biologie,Rennes
+P1681,P1679,Diplôme d'ingénieur Marketing — anglai,Diplôme d'ingénieur Marketing — anglais,,"{""language"": ""anglais""}",S18,Diplôme d'ingénieur,Marketing,Lyon
+P1302,P1300,MBA Architecture — en,MBA Architecture — en,,"{""language"": ""en""}",S11,MBA,Architecture,Toulouse
+P1574,P1573,CPGE Génie Civil — English,CPGE Génie Civil — English,,"{""language"": ""English""}",S22,CPGE,Génie Civil,Strasbourg
+P1850,P1848,BTS Ressources Humaines — Alternance,BTS Ressources Humaines — Alternance,,"{""apprenticeship"": true}",S13,BTS,Ressources Humaines,Paris
+P1315,P1313,Master Biologie — en,Master Biologie — en,,"{""language"": ""en""}",S24,Master,Biologie,Strasbourg
+P1845,,Licence Pro Psychologie,Licence Pro Psychologie,,,S15,Licence Pro,Psychologie,Paris
+P1191,P1190,Master Finance — English,Master Finance — English,,"{""language"": ""English""}",S29,Master,Finance,Bordeaux
+P1448,,Bachelor Sciences Politiques,Bachelor Sciences Politiques,,,S27,Bachelor,Sciences Politiques,Grenoble
+P1821,,BUT Informatique,BUT Informatique,,,S26,BUT,Informatique,Lille
+P1125,P1124,CPGE Langues — English / Alternance,CPGE Langues — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": 1}",S35,CPGE,Langues,Paris
+P1390,,MSc Data Science,MSc Data Science,,,S33,MSc,Data Science,Lille
+P1289,,MSc Informatique,MSc Informatique,MSc Informatique — programme complet (ancien libellé),,S23,MSc,Informatique,Lille
+P1535,,Diplôme d'ingénieur Tourisme,Diplôme d'ingénieur Tourisme,,,S32,Diplôme d'ingénieur,Tourisme,Toulouse
+P1638,,BUT Commerce,BUT Commerce,,,S20,BUT,Commerce,Strasbourg
+P1804,P1803,DN MADE Droit — Alternance / Campus,DN MADE Droit — Alternance / Campus,,"{""apprenticeship"": 1, ""school_id"": ""S24""}",S24,DN MADE,Droit,Strasbourg
+P1141,,CPGE Ressources Humaines,CPGE Ressources Humaines,,,S25,CPGE,Ressources Humaines,Rennes
+P100,,MBA Mgmt Hôtelier,MBA Management Hôtelier,"MBA en Management Hôtelier International (ancien libellé, ne plus utiliser)",,S10,MBA,Hôtellerie,Bordeaux
+P1642,,MBA Sciences Politiques,MBA Sciences Politiques,,,S33,MBA,Sciences Politiques,Lille
+P1585,P1583,MSc Informatique — Alternance / Excell,MSc Informatique — Alternance / Excellence,,"{""apprenticeship"": 1, ""track"": ""excellence""}",S34,MSc,Informatique,Paris
+P1133,P1129,CPGE Psychologie — en,CPGE Psychologie — en,,"{""language"": ""en""}",S33,CPGE,Psychologie,Lille
+P1213,P1210,MSc Sciences Politiques — Cyber,MSc Sciences Politiques — Cyber,,"{""track"": ""cyber""}",S30,MSc,Sciences Politiques,Rennes
+P1083,P1082,Diplôme d'ingénieur Communication — En,Diplôme d'ingénieur Communication — English,,"{""language"": ""English""}",S24,Diplôme d'ingénieur,Communication,Strasbourg
+P1053,P1052,BTS Génie Civil — IT,BTS Génie Civil — IT,,"{""language"": ""IT""}",S12,BTS,Génie Civil,Lille
+P1651,P1647,CPGE Tourisme — Alternance,CPGE Tourisme — Alternance,,"{""apprenticeship"": true}",S18,CPGE,Tourisme,Lyon
+P1497,P1496,BTS Génie Civil — Alternance,BTS Génie Civil — Alternance,,"{""apprenticeship"": true}",S19,BTS,Génie Civil,Lille
+P1260,P1258,BTS Logistique — Alternance / Red Team,BTS Logistique — Alternance / Red Team,,"{""apprenticeship"": 1, ""track"": ""red team""}",S25,BTS,Logistique,Rennes
+P1301,P1300,MBA Architecture — en / Excellence,MBA Architecture — en / Excellence,,"{""language"": ""en"", ""track"": ""excellence""}",S11,MBA,Architecture,Toulouse
+P1675,P1672,MBA Design — en / International,MBA Design — en / International,,"{""language"": ""en"", ""track"": ""international""}",S34,MBA,Design,Paris
+P1484,,Licence Langues,LICENCE LANGUES,,,S35,Licence,Langues,Paris
+P1162,P1160,DN MADE Finance - English / Alternance,DN MADE FINANCE — ENGLISH / ALTERNANCE,,"{""language"": ""English"", ""apprenticeship"": 1}",S32,DN MADE,Finance,Toulouse
+P1062,,DN MADE Sciences Politiques,DN MADE Sciences Politiques,,,S14,DN MADE,Sciences Politiques,Strasbourg
+P1264,P1263,DN MADE Ressources Humaines - es,DN MADE RESSOURCES HUMAINES — ES,,"{""language"": ""es""}",S26,DN MADE,Ressources Humaines,Lille
+P1626,,Licence Tourisme,Licence Tourisme,,,S28,Licence,Tourisme,Toulouse
+P1171,P1170,MBA Tourisme — Alternance,MBA Tourisme — Alternance,,"{""apprenticeship"": 1}",S35,MBA,Tourisme,Paris
+P1236,P1233,MBA Genie Civil - Alternance,MBA GÉNIE CIVIL — ALTERNANCE,,"{""apprenticeship"": 1}",S31,MBA,Génie Civil,Nantes
+P1742,,Licence Pro Ressources Humaines,Licence Pro Ressources Humaines,Licence Pro Ressources Humaines — programme complet (ancien libellé),,S11,Licence Pro,Ressources Humaines,Toulouse
+P1706,P1705,CPGE Génie Mécanique — es,CPGE Génie Mécanique — es,,"{""language"": ""es""}",S10,CPGE,Génie Mécanique,Paris
+P1703,P1700,BTS Design — IT / Alternance,BTS Design — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": ""oui"", ""school_id"": ""S35""}",S35,BTS,Design,Paris
+P1465,,Diplôme d'ingénieur Psychologie,Diplôme d'ingénieur Psychologie,,,S35,Diplôme d'ingénieur,Psychologie,Paris
+P1763,,Diplôme d'ingénieur Ressources Hum,Diplôme d'ingénieur Ressources Humaines,,,S29,Diplôme d'ingénieur,Ressources Humaines,Bordeaux
+P1762,P1759,DN MADE Management Hôtelier — Alternan,DN MADE Management Hôtelier — Alternance / Campus,,"{""apprenticeship"": ""oui"", ""school_id"": ""S22""}",S22,DN MADE,Management Hôtelier,Strasbourg
+P1743,P1742,Licence Pro Ressources Humaines - Camp,LICENCE PRO RESSOURCES HUMAINES — CAMPUS,,"{""school_id"": ""S34""}",S34,Licence Pro,Ressources Humaines,Paris
+P1489,P1488,MBA Sciences Politiques — en,MBA Sciences Politiques — en,,"{""language"": ""en""}",S11,MBA,Sciences Politiques,Toulouse
+P1786,P1782,BUT Génie Mécanique — English / Altern,BUT Génie Mécanique — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": ""oui""}",S11,BUT,Génie Mécanique,Toulouse
+P1070,,CPGE Génie Civil,CPGE Génie Civil,,,S19,CPGE,Génie Civil,Lille
+P1312,P1309,BUT Genie Civil - Alternance / Campus,BUT Génie Civil — Alternance / Campus ,,"{""apprenticeship"": 1, ""school_id"": ""S31""}",S31,BUT,Génie Civil,Nantes
+P1168,P1166,Master Biologie — anglais,Master Biologie — anglais,,"{""language"": ""anglais"", ""school_id"": ""S22""}",S22,Master,Biologie,Strasbourg
+P1232,,DN MADE Sciences Politiques,DN MADE Sciences Politiques,,,S27,DN MADE,Sciences Politiques,Grenoble
+P1548,P1546,MSc Management Hôtelier — EN,MSc Management Hôtelier — EN,,"{""language"": ""EN"", ""school_id"": ""S28""}",S28,MSc,Management Hôtelier,Toulouse
+P1341,P1340,Bachelor Logistique — English,Bachelor Logistique — English,,"{""language"": ""English""}",S34,Bachelor,Logistique,Paris
+P1571,P1570,Diplôme d'ingénieur Commerce — es / Al,Diplôme d'ingénieur Commerce — es / Alternance / Red Team,,"{""language"": ""es"", ""apprenticeship"": ""oui"", ""track"": ""red team""}",S25,Diplôme d'ingénieur,Commerce,Rennes
+P1436,P1434,Licence Génie Mécanique — anglais,Licence Génie Mécanique — anglais,,"{""language"": ""anglais""}",S17,Licence,Génie Mécanique,Lyon
+P1432,,MSc Biologie,MSc Biologie,,,S10,MSc,Biologie,Paris
+P1596,P1595,DN MADE Droit — English / Alternance,DN MADE Droit — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": 1, ""school_id"": ""S19""}",S19,DN MADE,Droit,Lille
+P1169,P1166,Master Biologie — IT / Alternance,Master Biologie — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": ""true""}",S36,Master,Biologie,Paris
+P1158,,CPGE Droit,CPGE Droit,,,S16,CPGE,Droit,Grenoble
+P1480,,Licence Architecture,Licence Architecture,,,S20,Licence,Architecture,Strasbourg
+P1384,P1382,BTS Économie — Alternance,BTS Économie — Alternance,,"{""apprenticeship"": ""oui""}",S30,BTS,Économie,Rennes
+P1844,P1840,BTS Design — EN,BTS Design — EN,,"{""language"": ""EN"", ""school_id"": ""S31""}",S31,BTS,Design,Nantes
+P1822,P1821,BUT Informatique — Red Team,BUT Informatique — Red Team,,"{""track"": ""red team""}",S26,BUT,Informatique,Lille
+P1552,,MBA Communication,MBA Communication,,,S35,MBA,Communication,Paris
+P1490,P1488,MBA Sciences Politiques - en,MBA Sciences Politiques — en ,,"{""language"": ""en""}",S11,MBA,Sciences Politiques,Toulouse
+P1626,,Licence Tourisme,Licence Tourisme,,,S28,Licence,Tourisme,Toulouse
+P1235,P1233,MBA Génie Civil — es / Alternance / Re,MBA Génie Civil — es / Alternance / Red Team,,"{""language"": ""es"", ""apprenticeship"": ""true"", ""track"": ""red team""}",S31,MBA,Génie Civil,Nantes
+P1886,,Master Data Science,Master Data Science,,,S33,Master,Data Science,Lille
+P1595,,DN MADE Droit,DN MADE Droit,,,S16,DN MADE,Droit,Grenoble
+P1401,P1400,MSc Économie — English,MSc Économie — English,,"{""language"": ""English""}",S32,MSc,Économie,Toulouse
+P1714,,Bachelor Génie Mécanique,Bachelor Génie Mécanique,,,S30,Bachelor,Génie Mécanique,Rennes
+P1811,P1809,MSc Marketing — Alternance / Campus,MSc Marketing — Alternance / Campus,,"{""apprenticeship"": ""true"", ""school_id"": ""S31""}",S31,MSc,Marketing,Nantes
+P1579,,Bachelor Genie Civil,BACHELOR GÉNIE CIVIL,,,S16,Bachelor,Génie Civil,Grenoble
+P1783,P1782,BUT Génie Mécanique — EN / Recherche,BUT Génie Mécanique — EN / Recherche,,"{""language"": ""EN"", ""track"": ""recherche""}",S11,BUT,Génie Mécanique,Toulouse
+P1784,P1782,BUT Genie Mecanique - Alternance,BUT GÉNIE MÉCANIQUE — ALTERNANCE,,"{""apprenticeship"": 1}",S11,BUT,Génie Mécanique,Toulouse
+P1362,P1361,Licence Pro Sciences Politiques - Alte,Licence Pro Sciences Politiques — Alternance ,,"{""apprenticeship"": 1}",S25,Licence Pro,Sciences Politiques,Rennes
+P1324,P1323,CPGE Marketing — EN,CPGE Marketing — EN,,"{""language"": ""EN""}",S29,CPGE,Marketing,Bordeaux
+P1100,P1098,MBA Chimie — es,MBA Chimie — es,,"{""language"": ""es""}",S32,MBA,Chimie,Toulouse
+P1056,,Licence Pro Design,Licence Pro Design,,,S18,Licence Pro,Design,Lyon
+P1828,,BTS Architecture,BTS Architecture,BTS Architecture — programme complet (ancien libellé),,S21,BTS,Architecture,Lyon
+P1511,P1510,Licence Biologie — International,Licence Biologie — International,,"{""track"": ""international""}",S13,Licence,Biologie,Paris
+P1121,P1119,Master Langues — Recherche,Master Langues — Recherche,,"{""track"": ""recherche""}",S17,Master,Langues,Lyon
+P1818,P1817,Master Génie Civil — es,Master Génie Civil — es,,"{""language"": ""es""}",S14,Master,Génie Civil,Strasbourg
+P1609,P1606,DN MADE Finance — IT,DN MADE Finance — IT,,"{""language"": ""IT""}",S30,DN MADE,Finance,Rennes
+P1347,P1346,BUT Communication — EN / Alternance,BUT Communication — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": 1}",S17,BUT,Communication,Lyon
+P1280,P1279,DN MADE Design — English,DN MADE Design — English,,"{""language"": ""English"", ""school_id"": ""S24""}",S24,DN MADE,Design,Strasbourg
+P1530,P1529,Diplôme d'ingenieur Design - anglais,DIPLÔME D'INGÉNIEUR DESIGN — ANGLAIS,,"{""language"": ""anglais""}",S32,Diplôme d'ingénieur,Design,Toulouse
+P1463,,Licence Pro Génie Civil,Licence Pro Génie Civil,Licence Pro Génie Civil — programme complet (ancien libellé),,S11,Licence Pro,Génie Civil,Toulouse
+P1420,P1417,BUT Droit - EN,BUT Droit — EN ,,"{""language"": ""EN""}",S35,BUT,Droit,Paris
+P1350,P1349,Licence Data Science — Alternance / In,Licence Data Science — Alternance / International,,"{""apprenticeship"": true, ""track"": ""international""}",S25,Licence,Data Science,Rennes
+P1106,P1103,DN MADE Sciences Politiques — IT / Alt,DN MADE Sciences Politiques — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": true}",S10,DN MADE,Sciences Politiques,Paris
+P1477,P1476,BUT Génie Civil — Alternance / Red Tea,BUT Génie Civil — Alternance / Red Team,,"{""apprenticeship"": true, ""track"": ""red team""}",S18,BUT,Génie Civil,Lyon
+P1659,P1656,BTS Droit - Data,BTS DROIT — DATA,,"{""track"": ""data""}",S23,BTS,Droit,Lille
+P1754,,MSc Genie Civil,MSC GÉNIE CIVIL,,,S36,MSc,Génie Civil,Paris
+P1490,P1488,MBA Sciences Politiques — en,MBA Sciences Politiques — en,,"{""language"": ""en""}",S11,MBA,Sciences Politiques,Toulouse
+P1455,,CPGE Droit,CPGE Droit,CPGE Droit — programme complet (ancien libellé),,S30,CPGE,Droit,Rennes
+P1077,,MBA Commerce,MBA Commerce,,,S31,MBA,Commerce,Nantes
+P1401,P1400,MSc Économie - English,MSc Économie — English ,,"{""language"": ""English""}",S32,MSc,Économie,Toulouse
+P1672,,MBA Design,MBA Design,,,S34,MBA,Design,Paris
+P1759,,DN MADE Management Hôtelier,DN MADE Management Hôtelier,,,S34,DN MADE,Management Hôtelier,Paris
+P1178,,MBA Management Hôtelier,MBA Management Hôtelier,,,S34,MBA,Management Hôtelier,Paris
+P1281,,Bachelor Économie,Bachelor Économie,,,S21,Bachelor,Économie,Lyon
+P1363,P1361,Licence Pro Sciences Politiques — en,Licence Pro Sciences Politiques — en,,"{""language"": ""en""}",S25,Licence Pro,Sciences Politiques,Rennes
+P1255,P1253,BUT Économie — EN / Alternance,BUT Économie — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": true, ""school_id"": ""S34""}",S34,BUT,Économie,Paris
+P1757,,Licence Management Hôtelier,Licence Management Hôtelier,,,S22,Licence,Management Hôtelier,Strasbourg
+P1138,,CPGE Biologie,CPGE Biologie,,,S28,CPGE,Biologie,Toulouse
+P1220,P1219,BUT Commerce — Alternance / Campus,BUT Commerce — Alternance / Campus,,"{""apprenticeship"": ""oui"", ""school_id"": ""S35""}",S35,BUT,Commerce,Paris
+P1228,P1227,Diplôme d'ingénieur Logistique — EN,Diplôme d'ingénieur Logistique — EN,,"{""language"": ""EN""}",S34,Diplôme d'ingénieur,Logistique,Paris
+P1472,,MSc Génie Mécanique,MSc Génie Mécanique,,,S10,MSc,Génie Mécanique,Paris
+P1748,,BUT Génie Mécanique,BUT Génie Mécanique,BUT Génie Mécanique — programme complet (ancien libellé),,S23,BUT,Génie Mécanique,Lille
+P1718,P1714,Bachelor Génie Mécanique — Alternance,Bachelor Génie Mécanique — Alternance,,"{""apprenticeship"": ""oui""}",S30,Bachelor,Génie Mécanique,Rennes
+P1650,P1647,CPGE Tourisme — Alternance,CPGE Tourisme — Alternance,,"{""apprenticeship"": 1}",S18,CPGE,Tourisme,Lyon
+P1691,P1689,MSc Tourisme — English,MSc Tourisme — English,,"{""language"": ""English""}",S14,MSc,Tourisme,Strasbourg
+P1855,P1853,DN MADE Management Hôtelier — EN / Alt,DN MADE Management Hôtelier — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": true, ""school_id"": ""S10""}",S10,DN MADE,Management Hôtelier,Paris
+P1457,,BUT Cinéma,BUT Cinéma,,,S11,BUT,Cinéma,Toulouse
+P1090,P1089,BUT Économie — Campus,BUT Économie — Campus,,"{""school_id"": ""S14""}",S14,BUT,Économie,Strasbourg
+P1470,P1469,MSc Génie Civil — anglais / Alternance,MSc Génie Civil — anglais / Alternance / International,,"{""language"": ""anglais"", ""apprenticeship"": true, ""track"": ""international""}",S13,MSc,Génie Civil,Paris
+P1706,P1705,CPGE Génie Mécanique — es,CPGE Génie Mécanique — es,,"{""language"": ""es""}",S10,CPGE,Génie Mécanique,Paris
+P1086,P1084,BUT Biologie — IT,BUT Biologie — IT,,"{""language"": ""IT""}",S26,BUT,Biologie,Lille
+P1125,P1124,CPGE Langues — English / Alternance,CPGE Langues — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": 1}",S35,CPGE,Langues,Paris
+P1572,P1570,Diplôme d'ingénieur Commerce — Alterna,Diplôme d'ingénieur Commerce — Alternance / Cyber,,"{""apprenticeship"": true, ""track"": ""cyber"", ""school_id"": ""S11""}",S11,Diplôme d'ingénieur,Commerce,Toulouse
+P1635,P1632,Diplôme d'ingénieur Logistique — en,Diplôme d'ingénieur Logistique — en,,"{""language"": ""en""}",S33,Diplôme d'ingénieur,Logistique,Lille
+P1768,,Licence Ressources Humaines,Licence Ressources Humaines ,,,S32,Licence,Ressources Humaines,Toulouse
+P1537,P1536,Licence Pro Génie Mécanique — Alternan,Licence Pro Génie Mécanique — Alternance,,"{""apprenticeship"": 1}",S16,Licence Pro,Génie Mécanique,Grenoble
+P1390,,MSc Data Science,MSc Data Science ,,,S33,MSc,Data Science,Lille
+P1880,P1878,BUT Cinéma — es,BUT Cinéma — es,,"{""language"": ""es""}",S18,BUT,Cinéma,Lyon
+P1193,,Master Langues,Master Langues,,,S11,Master,Langues,Toulouse
+P1082,,Diplôme d'ingénieur Communication,Diplôme d'ingénieur Communication,,,S24,Diplôme d'ingénieur,Communication,Strasbourg
+P1819,P1817,Master Génie Civil — English,Master Génie Civil — English,,"{""language"": ""English""}",S14,Master,Génie Civil,Strasbourg
+P1355,P1353,MBA Design — Double-Diplôme,MBA Design — Double-Diplôme,,"{""track"": ""double-diplôme""}",S18,MBA,Design,Lyon
+P1622,P1619,Licence Pro Architecture — IT,Licence Pro Architecture — IT,,"{""language"": ""IT""}",S10,Licence Pro,Architecture,Paris
+P1447,,Diplôme d'ingénieur Ressources Hum,Diplôme d'ingénieur Ressources Humaines,,,S25,Diplôme d'ingénieur,Ressources Humaines,Rennes
+P1707,,Licence Informatique,Licence Informatique,Licence Informatique — programme complet (ancien libellé),,S31,Licence,Informatique,Nantes
+P1502,P1501,Licence Pro Économie - Alternance,LICENCE PRO ÉCONOMIE — ALTERNANCE,,"{""apprenticeship"": ""true""}",S24,Licence Pro,Économie,Strasbourg
+P1635,P1632,Diplôme d'ingénieur Logistique — en,Diplôme d'ingénieur Logistique — en,,"{""language"": ""en""}",S33,Diplôme d'ingénieur,Logistique,Lille
+P1597,P1595,DN MADE Droit — EN / Alternance,DN MADE Droit — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": ""true""}",S16,DN MADE,Droit,Grenoble
+P1601,,DN MADE Chimie,DN MADE Chimie,,,S18,DN MADE,Chimie,Lyon
+P1788,P1787,Licence Pro Data Science — EN,Licence Pro Data Science — EN,,"{""language"": ""EN""}",S23,Licence Pro,Data Science,Lille
+P1174,,CPGE Psychologie,CPGE Psychologie,,,S20,CPGE,Psychologie,Strasbourg
+P1392,P1390,MSc Data Science — Alternance,MSc Data Science — Alternance,,"{""apprenticeship"": ""true""}",S33,MSc,Data Science,Lille
+P1427,,Bachelor Sciences Politiques,Bachelor Sciences Politiques,,,S23,Bachelor,Sciences Politiques,Lille
+P1885,P1883,MSc Cinéma — Alternance,MSc Cinéma — Alternance,,"{""apprenticeship"": 1}",S27,MSc,Cinéma,Grenoble
+P1046,P1044,MSc Droit — en / Red Team,MSc Droit — en / Red Team,,"{""language"": ""en"", ""track"": ""red team""}",S11,MSc,Droit,Toulouse
+P1383,P1382,BTS Économie — Alternance,BTS Économie — Alternance,,"{""apprenticeship"": 1}",S30,BTS,Économie,Rennes
+P1099,P1098,MBA Chimie — en / International,MBA Chimie — en / International,,"{""language"": ""en"", ""track"": ""international""}",S32,MBA,Chimie,Toulouse
+P1120,P1119,Master Langues - Cyber,Master Langues — Cyber ,,"{""track"": ""cyber""}",S17,Master,Langues,Lyon
+P1682,P1679,Diplôme d'ingénieur Marketing — Altern,Diplôme d'ingénieur Marketing — Alternance,,"{""apprenticeship"": ""true""}",S18,Diplôme d'ingénieur,Marketing,Lyon
+P1473,P1472,MSc Génie Mécanique — EN,MSc Génie Mécanique — EN,,"{""language"": ""EN""}",S10,MSc,Génie Mécanique,Paris
+P1576,P1575,Diplôme d'ingenieur Économie - Alterna,DIPLÔME D'INGÉNIEUR ÉCONOMIE — ALTERNANCE / CAMPUS,,"{""apprenticeship"": true, ""school_id"": ""S31""}",S31,Diplôme d'ingénieur,Économie,Nantes
+P1124,,CPGE Langues,CPGE Langues,CPGE Langues — programme complet (ancien libellé),,S35,CPGE,Langues,Paris
+P1543,,Bachelor Genie Mecanique,BACHELOR GÉNIE MÉCANIQUE,,,S30,Bachelor,Génie Mécanique,Rennes
+P1867,P1863,Licence Pro Génie Mécanique — Campus,Licence Pro Génie Mécanique — Campus,,"{""school_id"": ""S29""}",S29,Licence Pro,Génie Mécanique,Bordeaux
+P1544,P1543,Bachelor Génie Mécanique — en / Intern,Bachelor Génie Mécanique — en / International,,"{""language"": ""en"", ""track"": ""international"", ""school_id"": ""S28""}",S28,Bachelor,Génie Mécanique,Toulouse
+P1372,,Diplôme d'ingénieur Logistique,Diplôme d'ingénieur Logistique,,,S35,Diplôme d'ingénieur,Logistique,Paris
+P1618,,BUT Droit,BUT Droit,,,S17,BUT,Droit,Lyon
+P1797,P1796,Diplôme d'ingenieur Commerce - Double-,Diplôme d'ingénieur Commerce — Double-Diplôme ,,"{""track"": ""double-diplôme""}",S16,Diplôme d'ingénieur,Commerce,Grenoble
+P1063,,Master Génie Civil,Master Génie Civil,,,S35,Master,Génie Civil,Paris
+P1166,,Master Biologie,Master Biologie,,,S36,Master,Biologie,Paris
+P1241,P1237,Licence Pro Ressources Humaines — IT /,Licence Pro Ressources Humaines — IT / Recherche,,"{""language"": ""IT"", ""track"": ""recherche""}",S29,Licence Pro,Ressources Humaines,Bordeaux
+P1578,P1575,Diplôme d'ingénieur Économie — Campus,Diplôme d'ingénieur Économie — Campus,,"{""school_id"": ""S24""}",S24,Diplôme d'ingénieur,Économie,Strasbourg
+P1281,,Bachelor Économie,Bachelor Économie,,,S21,Bachelor,Économie,Lyon
+P1712,,MBA Informatique,MBA Informatique,,,S17,MBA,Informatique,Lyon
+P1135,P1134,BTS Droit — en / Data,BTS Droit — en / Data,,"{""language"": ""en"", ""track"": ""data""}",S18,BTS,Droit,Lyon
+P1735,,DN MADE Génie Mécanique,DN MADE Génie Mécanique,,,S34,DN MADE,Génie Mécanique,Paris
+P1810,P1809,MSc Marketing — EN / Alternance / Exce,MSc Marketing — EN / Alternance / Excellence,,"{""language"": ""EN"", ""apprenticeship"": 1, ""track"": ""excellence""}",S23,MSc,Marketing,Lille
+P1513,P1512,CPGE Logistique — Recherche,CPGE Logistique — Recherche,,"{""track"": ""recherche""}",S27,CPGE,Logistique,Grenoble
+P1298,P1297,BTS Biologie — IT / Alternance,BTS Biologie — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": true}",S23,BTS,Biologie,Lille
+P1546,,MSc Management Hôtelier,MSc Management Hôtelier,,,S23,MSc,Management Hôtelier,Lille
+P1202,,DN MADE Sciences Politiques,DN MADE Sciences Politiques,,,S20,DN MADE,Sciences Politiques,Strasbourg
+P1095,P1094,Diplôme d'ingénieur Psychologie — Alte,Diplôme d'ingénieur Psychologie — Alternance / Campus,,"{""apprenticeship"": true, ""school_id"": ""S20""}",S20,Diplôme d'ingénieur,Psychologie,Strasbourg
+P1517,P1514,DN MADE Droit — Red Team,DN MADE Droit — Red Team,,"{""track"": ""red team"", ""school_id"": ""S27""}",S27,DN MADE,Droit,Grenoble
+P1489,P1488,MBA Sciences Politiques - en,MBA Sciences Politiques — en ,,"{""language"": ""en""}",S11,MBA,Sciences Politiques,Toulouse
+P1628,P1626,Licence Tourisme — en,Licence Tourisme — en,,"{""language"": ""en""}",S28,Licence,Tourisme,Toulouse
+P1006,P1005,Diplôme d'ingénieur Génie Civil — Camp,Diplôme d'ingénieur Génie Civil — Campus,,"{""school_id"": ""S30""}",S30,Diplôme d'ingénieur,Génie Civil,Rennes
+P1108,,Bachelor Finance,Bachelor Finance,,,S16,Bachelor,Finance,Grenoble
+P1271,,MBA Biologie,MBA Biologie,,,S18,MBA,Biologie,Lyon
+P1152,P1151,BTS Architecture — es,BTS Architecture — es,,"{""language"": ""es""}",S26,BTS,Architecture,Lille
+P1424,P1422,MSc Finance — es,MSc Finance — es,,"{""language"": ""es""}",S19,MSc,Finance,Lille
+P1270,P1268,Licence Pro Cinéma — Red Team,Licence Pro Cinéma — Red Team,,"{""track"": ""red team""}",S29,Licence Pro,Cinéma,Bordeaux
+P1211,P1210,MSc Sciences Politiques - en,MSc Sciences Politiques — en ,,"{""language"": ""en"", ""school_id"": ""S16""}",S16,MSc,Sciences Politiques,Grenoble
+P1678,P1677,BUT Biologie — Excellence,BUT Biologie — Excellence,,"{""track"": ""excellence""}",S10,BUT,Biologie,Paris
+P1442,,BTS Génie Civil,BTS Génie Civil,,,S15,BTS,Génie Civil,Paris
+P1782,,BUT Génie Mécanique,BUT Génie Mécanique,,,S11,BUT,Génie Mécanique,Toulouse
+P1317,,BTS Informatique,BTS Informatique,,,S14,BTS,Informatique,Strasbourg
+P1536,,Licence Pro Génie Mécanique,Licence Pro Génie Mécanique,,,S16,Licence Pro,Génie Mécanique,Grenoble
+P1274,P1271,MBA Biologie — IT,MBA Biologie — IT,,"{""language"": ""IT"", ""school_id"": ""S32""}",S32,MBA,Biologie,Toulouse
+P1284,P1283,Licence Pro Finance — Alternance / Cam,Licence Pro Finance — Alternance / Campus,,"{""apprenticeship"": ""true"", ""school_id"": ""S22""}",S22,Licence Pro,Finance,Strasbourg
+P1188,P1186,Master Logistique — Campus,Master Logistique — Campus,,"{""school_id"": ""S36""}",S36,Master,Logistique,Paris
+P1196,P1195,MSc Cinéma — IT / Cyber,MSc Cinéma — IT / Cyber,,"{""language"": ""IT"", ""track"": ""cyber""}",S26,MSc,Cinéma,Lille
+P1319,P1317,BTS Informatique — EN,BTS Informatique — EN,,"{""language"": ""EN""}",S14,BTS,Informatique,Strasbourg
+P1205,,Master Architecture,Master Architecture,Master Architecture — programme complet (ancien libellé),,S13,Master,Architecture,Paris
+P1645,P1642,MBA Sciences Politiques — Excellence,MBA Sciences Politiques — Excellence,,"{""track"": ""excellence"", ""school_id"": ""S19""}",S19,MBA,Sciences Politiques,Lille
+P1823,P1821,BUT Informatique — anglais,BUT Informatique — anglais,,"{""language"": ""anglais""}",S26,BUT,Informatique,Lille
+P1465,,Diplôme d'ingenieur Psychologie,Diplôme d'ingénieur Psychologie ,,,S35,Diplôme d'ingénieur,Psychologie,Paris
+P1833,P1832,DN MADE Data Science - Recherche,DN MADE Data Science — Recherche ,,"{""track"": ""recherche""}",S22,DN MADE,Data Science,Strasbourg
+P1014,P1013,DN MADE Génie Mécanique — Alternance /,DN MADE Génie Mécanique — Alternance / Campus,,"{""apprenticeship"": true, ""school_id"": ""S15""}",S15,DN MADE,Génie Mécanique,Paris
+P1310,P1309,BUT Génie Civil — IT,BUT Génie Civil — IT,,"{""language"": ""IT""}",S23,BUT,Génie Civil,Lille
+P1754,,MSc Génie Civil,MSc Génie Civil,,,S36,MSc,Génie Civil,Paris
+P1680,P1679,Diplôme d'ingénieur Marketing — Englis,Diplôme d'ingénieur Marketing — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": ""oui""}",S18,Diplôme d'ingénieur,Marketing,Lyon
+P1775,P1771,Diplôme d'ingénieur Économie — IT / Al,Diplôme d'ingénieur Économie — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": ""oui""}",S31,Diplôme d'ingénieur,Économie,Nantes
+P1161,P1160,DN MADE Finance — IT / Alternance,DN MADE Finance — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": true, ""school_id"": ""S36""}",S36,DN MADE,Finance,Paris
+P1259,P1258,BTS Logistique - English,BTS Logistique — English ,,"{""language"": ""English""}",S25,BTS,Logistique,Rennes
+P1038,,Licence Pro Management Hôtelier,Licence Pro Management Hôtelier,,,S11,Licence Pro,Management Hôtelier,Toulouse
+P1469,,MSc Génie Civil,MSc Génie Civil,MSc Génie Civil — programme complet (ancien libellé),,S13,MSc,Génie Civil,Paris
+P1729,,Bachelor Informatique,Bachelor Informatique,,,S14,Bachelor,Informatique,Strasbourg
+P1816,P1814,MSc Architecture — anglais / Alternanc,MSc Architecture — anglais / Alternance,,"{""language"": ""anglais"", ""apprenticeship"": ""oui""}",S24,MSc,Architecture,Strasbourg
+P1599,P1598,Licence Pro Finance — en,Licence Pro Finance — en,,"{""language"": ""en"", ""school_id"": ""S36""}",S36,Licence Pro,Finance,Paris
+P1694,P1693,MSc Cinéma — en,MSc Cinéma — en,,"{""language"": ""en""}",S19,MSc,Cinéma,Lille
+P1036,P1035,Diplôme d'ingénieur Management Hôtelie,Diplôme d'ingénieur Management Hôtelier — Alternance / International,,"{""apprenticeship"": ""oui"", ""track"": ""international"", ""school_id"": ""S15""}",S15,Diplôme d'ingénieur,Management Hôtelier,Paris
+P1309,,BUT Génie Civil,BUT Génie Civil,,,S23,BUT,Génie Civil,Lille
+P200,,Bachelor Info,Bachelor Informatique,,,S20,Bachelor,Informatique,Lyon
+P1109,P1108,Bachelor Finance — EN / Excellence,Bachelor Finance — EN / Excellence,,"{""language"": ""EN"", ""track"": ""excellence""}",S16,Bachelor,Finance,Grenoble
+P1525,P1523,Licence Marketing — es,Licence Marketing — es,,"{""language"": ""es""}",S35,Licence,Marketing,Paris
+P1721,P1720,CPGE Marketing — EN,CPGE Marketing — EN,,"{""language"": ""EN""}",S29,CPGE,Marketing,Bordeaux
+P1387,P1386,MBA Architecture — Alternance,MBA Architecture — Alternance,,"{""apprenticeship"": true}",S15,MBA,Architecture,Paris
+P1461,P1457,BUT Cinéma — es,BUT Cinéma — es,,"{""language"": ""es""}",S11,BUT,Cinéma,Toulouse
+P1028,P1025,Licence Pro Design — Campus,Licence Pro Design — Campus,,"{""school_id"": ""S17""}",S17,Licence Pro,Design,Lyon
+P1014,P1013,DN MADE Genie Mecanique - Alternance /,DN MADE GÉNIE MÉCANIQUE — ALTERNANCE / CAMPUS,,"{""apprenticeship"": true, ""school_id"": ""S15""}",S15,DN MADE,Génie Mécanique,Paris
+P1201,P1199,MSc Commerce — English / Excellence,MSc Commerce — English / Excellence,,"{""language"": ""English"", ""track"": ""excellence""}",S35,MSc,Commerce,Paris
+P1840,,BTS Design,BTS Design ,,,S30,BTS,Design,Rennes
+P1683,P1679,Diplôme d'ingénieur Marketing — anglai,Diplôme d'ingénieur Marketing — anglais,,"{""language"": ""anglais""}",S18,Diplôme d'ingénieur,Marketing,Lyon
+P1519,P1518,Master Data Science — Alternance / Dou,Master Data Science — Alternance / Double-Diplôme,,"{""apprenticeship"": true, ""track"": ""double-diplôme""}",S34,Master,Data Science,Paris
+P1832,,DN MADE Data Science,DN MADE Data Science,,,S22,DN MADE,Data Science,Strasbourg
+P1835,,CPGE Ressources Humaines,CPGE RESSOURCES HUMAINES,,,S10,CPGE,Ressources Humaines,Paris
+P1778,P1776,Licence Cinéma — Alternance / Recherch,Licence Cinéma — Alternance / Recherche,,"{""apprenticeship"": true, ""track"": ""recherche"", ""school_id"": ""S34""}",S34,Licence,Cinéma,Paris
+P1137,P1134,BTS Droit — es / Double-Diplôme,BTS Droit — es / Double-Diplôme,,"{""language"": ""es"", ""track"": ""double-diplôme""}",S18,BTS,Droit,Lyon
+P1846,P1845,Licence Pro Psychologie - Internationa,Licence Pro Psychologie — International ,,"{""track"": ""international""}",S15,Licence Pro,Psychologie,Paris
+P1785,P1782,BUT Génie Mécanique — es,BUT Génie Mécanique — es,,"{""language"": ""es""}",S11,BUT,Génie Mécanique,Toulouse
+P1308,P1305,BTS Commerce — Alternance,BTS Commerce — Alternance,,"{""apprenticeship"": true}",S32,BTS,Commerce,Toulouse
+P1527,P1526,Licence Pro Data Science — anglais,Licence Pro Data Science — anglais,,"{""language"": ""anglais""}",S20,Licence Pro,Data Science,Strasbourg
+P1741,P1740,DN MADE Management Hôtelier — Campus,DN MADE Management Hôtelier — Campus,,"{""school_id"": ""S36""}",S36,DN MADE,Management Hôtelier,Paris
+P1486,P1485,MBA Tourisme — English / Alternance,MBA Tourisme — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": ""true"", ""school_id"": ""S29""}",S29,MBA,Tourisme,Bordeaux
+P1339,,DN MADE Droit,DN MADE Droit,,,S36,DN MADE,Droit,Paris
+P1185,P1183,CPGE Chimie — Alternance,CPGE Chimie — Alternance,,"{""apprenticeship"": ""true""}",S14,CPGE,Chimie,Strasbourg
+P1148,P1145,BUT Droit — en,BUT Droit — en,,"{""language"": ""en""}",S15,BUT,Droit,Paris
+P1469,,MSc Génie Civil,MSc Génie Civil,MSc Génie Civil — programme complet (ancien libellé),,S13,MSc,Génie Civil,Paris
+P1485,,MBA Tourisme,MBA Tourisme,,,S25,MBA,Tourisme,Rennes
+P1346,,BUT Communication,BUT Communication ,,,S17,BUT,Communication,Lyon
+P1397,P1395,Master Communication - English,MASTER COMMUNICATION — ENGLISH,,"{""language"": ""English""}",S19,Master,Communication,Lille
+P1140,P1138,CPGE Biologie - en / Alternance,CPGE BIOLOGIE — EN / ALTERNANCE,,"{""language"": ""en"", ""apprenticeship"": ""oui"", ""school_id"": ""S23""}",S23,CPGE,Biologie,Lille
+P1445,P1442,BTS Génie Civil — Campus,BTS Génie Civil — Campus,,"{""school_id"": ""S32""}",S32,BTS,Génie Civil,Toulouse
+P1085,P1084,BUT Biologie — EN / Excellence,BUT Biologie — EN / Excellence,,"{""language"": ""EN"", ""track"": ""excellence"", ""school_id"": ""S11""}",S11,BUT,Biologie,Toulouse
+P1128,P1127,Master Psychologie - English,Master Psychologie — English ,,"{""language"": ""English"", ""school_id"": ""S16""}",S16,Master,Psychologie,Grenoble
+P1787,,Licence Pro Data Science,Licence Pro Data Science,,,S23,Licence Pro,Data Science,Lille
+P1029,P1025,Licence Pro Design — en / Excellence,Licence Pro Design — en / Excellence,,"{""language"": ""en"", ""track"": ""excellence"", ""school_id"": ""S32""}",S32,Licence Pro,Design,Toulouse
+P1794,,Master Logistique,Master Logistique,,,S16,Master,Logistique,Grenoble
+P1374,P1372,Diplôme d'ingénieur Logistique — IT,Diplôme d'ingénieur Logistique — IT,,"{""language"": ""IT""}",S35,Diplôme d'ingénieur,Logistique,Paris
+P1105,P1103,DN MADE Sciences Politiques — EN,DN MADE Sciences Politiques — EN,,"{""language"": ""EN""}",S10,DN MADE,Sciences Politiques,Paris
+P1452,,MSc Psychologie,MSc Psychologie ,,,S35,MSc,Psychologie,Paris
+P1879,P1878,BUT Cinéma — IT,BUT Cinéma — IT,,"{""language"": ""IT""}",S18,BUT,Cinéma,Lyon
+P1528,P1526,Licence Pro Data Science — Alternance,Licence Pro Data Science — Alternance,,"{""apprenticeship"": ""true""}",S20,Licence Pro,Data Science,Strasbourg
+P1212,P1210,MSc Sciences Politiques — Cyber,MSc Sciences Politiques — Cyber,,"{""track"": ""cyber""}",S30,MSc,Sciences Politiques,Rennes
+P1300,,MBA Architecture,MBA Architecture,,,S11,MBA,Architecture,Toulouse
+P1840,,BTS Design,BTS Design,,,S30,BTS,Design,Rennes
+P1453,P1452,MSc Psychologie — Data,MSc Psychologie — Data,,"{""track"": ""data"", ""school_id"": ""S31""}",S31,MSc,Psychologie,Nantes
+P1371,P1369,Bachelor Design — Alternance,Bachelor Design — Alternance,,"{""apprenticeship"": 1}",S26,Bachelor,Design,Lille
+P1234,P1233,MBA Génie Civil — anglais,MBA Génie Civil — anglais,,"{""language"": ""anglais""}",S31,MBA,Génie Civil,Nantes
+P1499,,Bachelor Communication,Bachelor Communication,Bachelor Communication — programme complet (ancien libellé),,S30,Bachelor,Communication,Rennes
+P1079,P1077,MBA Commerce — IT,MBA Commerce — IT,,"{""language"": ""IT"", ""school_id"": ""S31""}",S31,MBA,Commerce,Nantes
+P1585,P1583,MSc Informatique — Alternance / Excell,MSc Informatique — Alternance / Excellence,,"{""apprenticeship"": 1, ""track"": ""excellence""}",S34,MSc,Informatique,Paris
+P1269,P1268,Licence Pro Cinéma — en,Licence Pro Cinéma — en,,"{""language"": ""en""}",S29,Licence Pro,Cinéma,Bordeaux
+P1023,P1020,Diplôme d'ingénieur Biologie — Campus,Diplôme d'ingénieur Biologie — Campus,,"{""school_id"": ""S28""}",S28,Diplôme d'ingénieur,Biologie,Toulouse
+P1717,P1714,Bachelor Génie Mécanique — Alternance,Bachelor Génie Mécanique — Alternance,,"{""apprenticeship"": true}",S30,Bachelor,Génie Mécanique,Rennes
+P1313,,Master Biologie,Master Biologie,,,S24,Master,Biologie,Strasbourg
+P1869,,Licence Tourisme,Licence Tourisme,,,S35,Licence,Tourisme,Paris
+P1713,P1712,MBA Informatique — en / Recherche,MBA Informatique — en / Recherche,,"{""language"": ""en"", ""track"": ""recherche""}",S17,MBA,Informatique,Lyon
+P1144,P1143,Master Logistique — es / Alternance,Master Logistique — es / Alternance,,"{""language"": ""es"", ""apprenticeship"": ""oui""}",S28,Master,Logistique,Toulouse
+P1760,P1759,DN MADE Management Hôtelier — Internat,DN MADE Management Hôtelier — International,,"{""track"": ""international"", ""school_id"": ""S33""}",S33,DN MADE,Management Hôtelier,Lille
+P1792,P1791,DN MADE Ressources Humaines — en,DN MADE Ressources Humaines — en,,"{""language"": ""en"", ""school_id"": ""S26""}",S26,DN MADE,Ressources Humaines,Lille
+P1552,,MBA Communication,MBA Communication,,,S35,MBA,Communication,Paris
+P1861,P1860,MSc Sciences Politiques - Campus,MSc Sciences Politiques — Campus ,,"{""school_id"": ""S31""}",S31,MSc,Sciences Politiques,Nantes
+P1600,,MBA Génie Civil,MBA Génie Civil,,,S31,MBA,Génie Civil,Nantes
+P1182,P1180,Bachelor Communication — en,Bachelor Communication — en,,"{""language"": ""en""}",S35,Bachelor,Communication,Paris
+P1389,,Licence Pro Langues,Licence Pro Langues,,,S18,Licence Pro,Langues,Lyon
+P1611,P1610,CPGE Génie Civil — en / Alternance / C,CPGE Génie Civil — en / Alternance / Cyber,,"{""language"": ""en"", ""apprenticeship"": ""oui"", ""track"": ""cyber""}",S28,CPGE,Génie Civil,Toulouse
+P1575,,Diplôme d'ingénieur Économie,Diplôme d'ingénieur Économie,,,S17,Diplôme d'ingénieur,Économie,Lyon
+P1160,,DN MADE Finance,DN MADE Finance,,,S32,DN MADE,Finance,Toulouse
+P1853,,DN MADE Management Hôtelier,DN MADE Management Hôtelier,,,S23,DN MADE,Management Hôtelier,Lille
+P1538,,DN MADE Architecture,DN MADE Architecture,,,S35,DN MADE,Architecture,Paris
+P1632,,Diplôme d'ingénieur Logistique,Diplôme d'ingénieur Logistique,,,S33,Diplôme d'ingénieur,Logistique,Lille
+P1375,P1372,Diplôme d'ingénieur Logistique — Engli,Diplôme d'ingénieur Logistique — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": true}",S35,Diplôme d'ingénieur,Logistique,Paris
+P1338,P1334,MBA Cinéma — English,MBA Cinéma — English,,"{""language"": ""English""}",S11,MBA,Cinéma,Toulouse
+P1022,P1020,Diplôme d'ingénieur Biologie — Alterna,Diplôme d'ingénieur Biologie — Alternance / Campus,,"{""apprenticeship"": 1, ""school_id"": ""S21""}",S21,Diplôme d'ingénieur,Biologie,Lyon
+P1851,P1848,BTS Ressources Humaines — Campus,BTS Ressources Humaines — Campus,,"{""school_id"": ""S26""}",S26,BTS,Ressources Humaines,Lille
+P1278,P1276,Diplôme d'ingénieur Économie — Alterna,Diplôme d'ingénieur Économie — Alternance,,"{""apprenticeship"": true}",S26,Diplôme d'ingénieur,Économie,Lille
+P1143,,Master Logistique,Master Logistique,,,S28,Master,Logistique,Toulouse
+P1058,,BUT Logistique,BUT Logistique,,,S23,BUT,Logistique,Lille
+P1216,,BTS Sciences Politiques,BTS SCIENCES POLITIQUES,,,S18,BTS,Sciences Politiques,Lyon
+P1805,P1803,DN MADE Droit — English / Alternance,DN MADE Droit — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": ""oui"", ""school_id"": ""S22""}",S22,DN MADE,Droit,Strasbourg
+P1178,,MBA Management Hôtelier,MBA Management Hôtelier ,,,S34,MBA,Management Hôtelier,Paris
+P1092,P1089,BUT Économie — es,BUT Économie — es,,"{""language"": ""es""}",S17,BUT,Économie,Lyon
+P1330,P1327,BTS Logistique — IT,BTS Logistique — IT,,"{""language"": ""IT""}",S15,BTS,Logistique,Paris
+P1692,P1689,MSc Tourisme — es,MSc Tourisme — es,,"{""language"": ""es""}",S14,MSc,Tourisme,Strasbourg
+P1227,,Diplôme d'ingenieur Logistique,DIPLÔME D'INGÉNIEUR LOGISTIQUE,,,S34,Diplôme d'ingénieur,Logistique,Paris
+P1204,,MBA Management Hôtelier,MBA Management Hôtelier,MBA Management Hôtelier — programme complet (ancien libellé),,S14,MBA,Management Hôtelier,Strasbourg
+P1010,P1007,BTS Sciences Politiques — es,BTS Sciences Politiques — es,,"{""language"": ""es""}",S33,BTS,Sciences Politiques,Lille
+P1539,,Bachelor Management Hôtelier,Bachelor Management Hôtelier,,,S30,Bachelor,Management Hôtelier,Rennes
+P1559,P1557,MSc Communication — Alternance / Excel,MSc Communication — Alternance / Excellence,,"{""apprenticeship"": true, ""track"": ""excellence"", ""school_id"": ""S11""}",S11,MSc,Communication,Toulouse
+P1314,P1313,Master Biologie — IT / Cyber,Master Biologie — IT / Cyber,,"{""language"": ""IT"", ""track"": ""cyber""}",S24,Master,Biologie,Strasbourg
+P1685,P1684,BUT Informatique — Data,BUT Informatique — Data,,"{""track"": ""data"", ""school_id"": ""S12""}",S12,BUT,Informatique,Lille
+P1733,P1731,MSc Data Science — Alternance / Campus,MSc Data Science — Alternance / Campus,,"{""apprenticeship"": ""oui"", ""school_id"": ""S15""}",S15,MSc,Data Science,Paris
+P1569,P1567,BTS Architecture — en / Alternance / R,BTS Architecture — en / Alternance / Red Team,,"{""language"": ""en"", ""apprenticeship"": ""true"", ""track"": ""red team"", ""school_id"": ""S28""}",S28,BTS,Architecture,Toulouse
+P1297,,BTS Biologie,BTS Biologie,BTS Biologie — programme complet (ancien libellé),,S23,BTS,Biologie,Lille
+P1524,P1523,Licence Marketing — EN,Licence Marketing — EN,,"{""language"": ""EN""}",S35,Licence,Marketing,Paris
+P1846,P1845,Licence Pro Psychologie — Internationa,Licence Pro Psychologie — International,,"{""track"": ""international""}",S15,Licence Pro,Psychologie,Paris
+P1048,P1044,MSc Droit — Campus,MSc Droit — Campus,,"{""school_id"": ""S32""}",S32,MSc,Droit,Toulouse
+P1751,P1748,BUT Génie Mécanique — en,BUT Génie Mécanique — en,,"{""language"": ""en""}",S23,BUT,Génie Mécanique,Lille
+P1257,P1253,BUT Économie - EN / Alternance,BUT ÉCONOMIE — EN / ALTERNANCE,,"{""language"": ""EN"", ""apprenticeship"": ""oui""}",S13,BUT,Économie,Paris
+P1824,P1821,BUT Informatique — es / International,BUT Informatique — es / International,,"{""language"": ""es"", ""track"": ""international""}",S26,BUT,Informatique,Lille
+P1793,P1791,DN MADE Ressources Humaines — en,DN MADE Ressources Humaines — en,,"{""language"": ""en""}",S17,DN MADE,Ressources Humaines,Lyon
+P1464,P1463,Licence Pro Génie Civil — Alternance,Licence Pro Génie Civil — Alternance,,"{""apprenticeship"": ""true""}",S11,Licence Pro,Génie Civil,Toulouse
+P1334,,MBA Cinéma,MBA Cinéma,,,S11,MBA,Cinéma,Toulouse
+P1122,P1119,Master Langues — Alternance / Campus,Master Langues — Alternance / Campus,,"{""apprenticeship"": true, ""school_id"": ""S17""}",S17,Master,Langues,Lyon
+P1540,P1539,Bachelor Management Hôtelier — EN / In,Bachelor Management Hôtelier — EN / International,,"{""language"": ""EN"", ""track"": ""international"", ""school_id"": ""S32""}",S32,Bachelor,Management Hôtelier,Toulouse
+P1876,P1875,DN MADE Génie Civil — EN,DN MADE Génie Civil — EN,,"{""language"": ""EN"", ""school_id"": ""S15""}",S15,DN MADE,Génie Civil,Paris
+P1700,,BTS Design,BTS Design ,,,S16,BTS,Design,Grenoble
+P1462,,MSc Génie Mécanique,MSc Génie Mécanique,,,S34,MSc,Génie Mécanique,Paris
+P1633,P1632,Diplôme d'ingénieur Logistique — EN / ,Diplôme d'ingénieur Logistique — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": true}",S33,Diplôme d'ingénieur,Logistique,Lille
+P1150,,Bachelor Tourisme,Bachelor Tourisme,,,S36,Bachelor,Tourisme,Paris
+P1484,,Licence Langues,Licence Langues,,,S35,Licence,Langues,Paris
+P1130,P1129,CPGE Psychologie — Campus,CPGE Psychologie — Campus,,"{""school_id"": ""S21""}",S21,CPGE,Psychologie,Lyon
+P1139,P1138,CPGE Biologie - Alternance / Campus,CPGE BIOLOGIE — ALTERNANCE / CAMPUS,,"{""apprenticeship"": true, ""school_id"": ""S16""}",S16,CPGE,Biologie,Grenoble
+P1027,P1025,Licence Pro Design — English,Licence Pro Design — English,,"{""language"": ""English""}",S14,Licence Pro,Design,Strasbourg
+P1807,P1806,Licence Pro Biologie — Alternance / Re,Licence Pro Biologie — Alternance / Red Team,,"{""apprenticeship"": ""oui"", ""track"": ""red team""}",S30,Licence Pro,Biologie,Rennes
+P1476,,BUT Génie Civil,BUT Génie Civil,,,S18,BUT,Génie Civil,Lyon
+P250,P299,MSc Data — EN,MSc Data Science — English Track,,"{""language"":""en""}",S20,MSc,Data,Lyon
+P1481,P1480,Licence Architecture — Alternance,Licence Architecture — Alternance,,"{""apprenticeship"": ""true""}",S20,Licence,Architecture,Strasbourg
+P1679,,Diplôme d'ingénieur Marketing,Diplôme d'ingénieur Marketing,,,S18,Diplôme d'ingénieur,Marketing,Lyon
+P1443,P1442,BTS Génie Civil — en,BTS Génie Civil — en,,"{""language"": ""en""}",S15,BTS,Génie Civil,Paris
+P1337,P1334,MBA Cinéma — English / Alternance,MBA Cinéma — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": true, ""school_id"": ""S28""}",S28,MBA,Cinéma,Toulouse
+P1072,,Master Génie Civil,Master Génie Civil,,,S30,Master,Génie Civil,Rennes
+P1329,P1327,BTS Logistique — Campus,BTS Logistique — Campus,,"{""school_id"": ""S12""}",S12,BTS,Logistique,Lille
+P1115,P1113,Diplôme d'ingenieur Ressources Humaine,Diplôme d'ingénieur Ressources Humaines — IT / Recherche ,,"{""language"": ""IT"", ""track"": ""recherche""}",S35,Diplôme d'ingénieur,Ressources Humaines,Paris
+P1655,P1652,MBA Sciences Politiques — IT / Alterna,MBA Sciences Politiques — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": ""oui""}",S31,MBA,Sciences Politiques,Nantes
+P1843,P1840,BTS Design — Alternance / Campus,BTS Design — Alternance / Campus,,"{""apprenticeship"": ""true"", ""school_id"": ""S36""}",S36,BTS,Design,Paris
+P1020,,Diplôme d'ingénieur Biologie,Diplôme d'ingénieur Biologie,,,S36,Diplôme d'ingénieur,Biologie,Paris
+P1878,,BUT Cinema,BUT CINÉMA,,,S18,BUT,Cinéma,Lyon
+P1865,P1863,Licence Pro Genie Mecanique - en,LICENCE PRO GÉNIE MÉCANIQUE — EN,,"{""language"": ""en""}",S35,Licence Pro,Génie Mécanique,Paris
+P1732,P1731,MSc Data Science — IT,MSc Data Science — IT,,"{""language"": ""IT""}",S13,MSc,Data Science,Paris
+P1396,P1395,Master Communication — English / Data,Master Communication — English / Data,,"{""language"": ""English"", ""track"": ""data"", ""school_id"": ""S19""}",S19,Master,Communication,Lille
+P1307,P1305,BTS Commerce — IT,BTS Commerce — IT,,"{""language"": ""IT"", ""school_id"": ""S34""}",S34,BTS,Commerce,Paris
+P1247,P1244,DN MADE Langues - Alternance / Data,DN MADE LANGUES — ALTERNANCE / DATA,,"{""apprenticeship"": true, ""track"": ""data""}",S23,DN MADE,Langues,Lille
+P1693,,MSc Cinéma,MSc Cinéma,,,S19,MSc,Cinéma,Lille
+P1107,P1103,DN MADE Sciences Politiques — anglais ,DN MADE Sciences Politiques — anglais / Alternance,,"{""language"": ""anglais"", ""apprenticeship"": true}",S10,DN MADE,Sciences Politiques,Paris
+P202,P200,Bachelor Info — Alternance,Bachelor Informatique — Alternance,,"{""apprenticeship"":""oui""}",S20,Bachelor,Informatique,Lyon
+P1776,,Licence Cinéma,Licence Cinéma,,,S35,Licence,Cinéma,Paris
+P1322,P1321,Master Finance — Campus,Master Finance — Campus,,"{""school_id"": ""S18""}",S18,Master,Finance,Lyon
+P1554,P1552,MBA Communication — es,MBA Communication — es,,"{""language"": ""es""}",S35,MBA,Communication,Paris
+P1096,P1094,Diplôme d'ingénieur Psychologie — es /,Diplôme d'ingénieur Psychologie — es / Alternance / Data,,"{""language"": ""es"", ""apprenticeship"": ""oui"", ""track"": ""data"", ""school_id"": ""S16""}",S16,Diplôme d'ingénieur,Psychologie,Grenoble
+P1661,P1660,Licence Pro Économie — Campus,Licence Pro Économie — Campus,,"{""school_id"": ""S13""}",S13,Licence Pro,Économie,Paris
+P1306,P1305,BTS Commerce — EN / Alternance,BTS Commerce — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": ""oui""}",S32,BTS,Commerce,Toulouse
+P1060,P1059,Bachelor Communication — IT,Bachelor Communication — IT,,"{""language"": ""IT"", ""school_id"": ""S12""}",S12,Bachelor,Communication,Lille
+P1800,,Licence Pro Commerce,Licence Pro Commerce,,,S28,Licence Pro,Commerce,Toulouse
+P1251,P1250,MBA Informatique — en,MBA Informatique — en,,"{""language"": ""en""}",S24,MBA,Informatique,Strasbourg
+P1279,,DN MADE Design,DN MADE Design,,,S29,DN MADE,Design,Bordeaux
+P1697,P1693,MSc Cinéma — es / Alternance,MSc Cinéma — es / Alternance,,"{""language"": ""es"", ""apprenticeship"": true}",S19,MSc,Cinéma,Lille
+P1197,,BUT Langues,BUT Langues,,,S12,BUT,Langues,Lille
+P1646,P1642,MBA Sciences Politiques — Cyber,MBA Sciences Politiques — Cyber,,"{""track"": ""cyber""}",S33,MBA,Sciences Politiques,Lille
+P1248,P1244,DN MADE Langues - es,DN MADE Langues — es ,,"{""language"": ""es""}",S23,DN MADE,Langues,Lille
+P1208,P1205,Master Architecture — IT,Master Architecture — IT,,"{""language"": ""IT"", ""school_id"": ""S32""}",S32,Master,Architecture,Toulouse
+P1643,P1642,MBA Sciences Politiques — anglais / Al,MBA Sciences Politiques — anglais / Alternance / Double-Diplôme,,"{""language"": ""anglais"", ""apprenticeship"": true, ""track"": ""double-diplôme""}",S33,MBA,Sciences Politiques,Lille
+P1816,P1814,MSc Architecture — anglais / Alternanc,MSc Architecture — anglais / Alternance,,"{""language"": ""anglais"", ""apprenticeship"": ""oui""}",S24,MSc,Architecture,Strasbourg
+P1564,P1562,BTS Psychologie — Campus,BTS Psychologie — Campus,,"{""school_id"": ""S32""}",S32,BTS,Psychologie,Toulouse
+P1349,,Licence Data Science,Licence Data Science,,,S25,Licence,Data Science,Rennes
+P1332,,CPGE Langues,CPGE Langues,,,S31,CPGE,Langues,Nantes
+P1037,P1035,Diplôme d'ingénieur Management Hôtelie,Diplôme d'ingénieur Management Hôtelier — EN / Cyber,,"{""language"": ""EN"", ""track"": ""cyber""}",S11,Diplôme d'ingénieur,Management Hôtelier,Toulouse
+P1414,P1413,BTS Sciences Politiques — English,BTS Sciences Politiques — English,,"{""language"": ""English""}",S22,BTS,Sciences Politiques,Strasbourg
+P1415,,Licence Pro Économie,Licence Pro Économie,,,S27,Licence Pro,Économie,Grenoble
+P1471,P1469,MSc Génie Civil — Alternance / Campus,MSc Génie Civil — Alternance / Campus,,"{""apprenticeship"": true, ""school_id"": ""S29""}",S29,MSc,Génie Civil,Bordeaux
+P1809,,MSc Marketing,MSc Marketing,,,S23,MSc,Marketing,Lille
+P1203,P1202,DN MADE Sciences Politiques — English,DN MADE Sciences Politiques — English,,"{""language"": ""English""}",S20,DN MADE,Sciences Politiques,Strasbourg
+P1859,P1857,BTS Économie — EN,BTS Économie — EN,,"{""language"": ""EN""}",S30,BTS,Économie,Rennes
+P1746,P1744,CPGE Communication — IT,CPGE Communication — IT,,"{""language"": ""IT""}",S17,CPGE,Communication,Lyon
+P1111,P1108,Bachelor Finance — en,Bachelor Finance — en,,"{""language"": ""en""}",S16,Bachelor,Finance,Grenoble
+P1413,,BTS Sciences Politiques,BTS SCIENCES POLITIQUES,,,S22,BTS,Sciences Politiques,Strasbourg
+P1373,P1372,Diplôme d'ingénieur Logistique — Reche,Diplôme d'ingénieur Logistique — Recherche,,"{""track"": ""recherche"", ""school_id"": ""S19""}",S19,Diplôme d'ingénieur,Logistique,Lille
+P1467,P1465,Diplôme d'ingénieur Psychologie — Alte,Diplôme d'ingénieur Psychologie — Alternance,,"{""apprenticeship"": 1}",S35,Diplôme d'ingénieur,Psychologie,Paris
+P1015,,Diplôme d'ingénieur Économie,Diplôme d'ingénieur Économie,Diplôme d'ingénieur Économie — programme complet (ancien libellé),,S29,Diplôme d'ingénieur,Économie,Bordeaux
+P1112,P1108,Bachelor Finance — English / Alternanc,Bachelor Finance — English / Alternance / Cyber,,"{""language"": ""English"", ""apprenticeship"": ""oui"", ""track"": ""cyber""}",S16,Bachelor,Finance,Grenoble
+P101,P100,MBA — EN / Apprentissage,"MBA Management Hôtelier — Anglais, Apprentissage",,"{""language"":""en"",""apprenticeship"":true,""school_id"":""S11""}",S11,MBA,Hôtellerie,Bordeaux
+P1189,P1186,Master Logistique — Alternance,Master Logistique — Alternance,,"{""apprenticeship"": true}",S23,Master,Logistique,Lille
+P1572,P1570,Diplôme d'ingénieur Commerce — Alterna,Diplôme d'ingénieur Commerce — Alternance / Cyber,,"{""apprenticeship"": true, ""track"": ""cyber"", ""school_id"": ""S11""}",S11,Diplôme d'ingénieur,Commerce,Toulouse
+P1289,,MSc Informatique,MSC INFORMATIQUE,MSc Informatique — programme complet (ancien libellé),,S23,MSc,Informatique,Lille
+P1716,P1714,Bachelor Génie Mécanique — English / A,Bachelor Génie Mécanique — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": ""true""}",S30,Bachelor,Génie Mécanique,Rennes
+P1229,,BUT Communication,BUT Communication,,,S23,BUT,Communication,Lille
+P1615,P1614,Bachelor Finance — EN / Alternance,Bachelor Finance — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": 1}",S28,Bachelor,Finance,Toulouse
+P1414,P1413,BTS Sciences Politiques — English,BTS Sciences Politiques — English,,"{""language"": ""English""}",S22,BTS,Sciences Politiques,Strasbourg
+P1568,P1567,BTS Architecture - EN,BTS ARCHITECTURE — EN,,"{""language"": ""EN""}",S21,BTS,Architecture,Lyon
+P1052,,BTS Génie Civil,BTS Génie Civil,,,S12,BTS,Génie Civil,Lille
+P1830,P1828,BTS Architecture — en,BTS Architecture — en,,"{""language"": ""en""}",S21,BTS,Architecture,Lyon
+P1333,P1332,CPGE Langues - Campus,CPGE LANGUES — CAMPUS,,"{""school_id"": ""S14""}",S14,CPGE,Langues,Strasbourg
+P1256,P1253,BUT Économie — English,BUT Économie — English,,"{""language"": ""English"", ""school_id"": ""S13""}",S13,BUT,Économie,Paris
+P1715,P1714,Bachelor Génie Mécanique — Red Team,Bachelor Génie Mécanique — Red Team,,"{""track"": ""red team""}",S30,Bachelor,Génie Mécanique,Rennes
+P1522,,MSc Commerce,MSc Commerce,,,S24,MSc,Commerce,Strasbourg
+P1639,P1638,BUT Commerce — en,BUT Commerce — en,,"{""language"": ""en"", ""school_id"": ""S29""}",S29,BUT,Commerce,Bordeaux
+P1865,P1863,Licence Pro Génie Mécanique — en,Licence Pro Génie Mécanique — en,,"{""language"": ""en""}",S35,Licence Pro,Génie Mécanique,Paris
+P1579,,Bachelor Génie Civil,Bachelor Génie Civil,,,S16,Bachelor,Génie Civil,Grenoble
+P1422,,MSc Finance,MSC FINANCE,,,S19,MSc,Finance,Lille
+P1224,P1223,CPGE Langues — Alternance,CPGE Langues — Alternance,,"{""apprenticeship"": 1}",S12,CPGE,Langues,Lille
+P1538,,DN MADE Architecture,DN MADE ARCHITECTURE,,,S35,DN MADE,Architecture,Paris
+P1110,P1108,Bachelor Finance — anglais / Alternanc,Bachelor Finance — anglais / Alternance,,"{""language"": ""anglais"", ""apprenticeship"": true, ""school_id"": ""S19""}",S19,Bachelor,Finance,Lille
+P1419,P1417,BUT Droit — es,BUT Droit — es,,"{""language"": ""es"", ""school_id"": ""S11""}",S11,BUT,Droit,Toulouse
+P1420,P1417,BUT Droit — EN,BUT Droit — EN,,"{""language"": ""EN""}",S35,BUT,Droit,Paris
+P1838,P1837,BUT Tourisme — Campus,BUT Tourisme — Campus,,"{""school_id"": ""S15""}",S15,BUT,Tourisme,Paris
+P1665,P1662,DN MADE Management Hôtelier — English,DN MADE Management Hôtelier — English,,"{""language"": ""English""}",S35,DN MADE,Management Hôtelier,Paris
+P1553,P1552,MBA Communication — Alternance,MBA Communication — Alternance,,"{""apprenticeship"": 1}",S35,MBA,Communication,Paris
+P1240,P1237,Licence Pro Ressources Humaines — EN,Licence Pro Ressources Humaines — EN,,"{""language"": ""EN"", ""school_id"": ""S26""}",S26,Licence Pro,Ressources Humaines,Lille
+P1266,P1263,DN MADE Ressources Humaines — en,DN MADE Ressources Humaines — en,,"{""language"": ""en""}",S26,DN MADE,Ressources Humaines,Lille
+P1761,P1759,DN MADE Management Hôtelier - IT,DN MADE Management Hôtelier — IT ,,"{""language"": ""IT""}",S34,DN MADE,Management Hôtelier,Paris
+P1590,,MSc Communication,MSc Communication,,,S24,MSc,Communication,Strasbourg
+P1123,P1119,Master Langues — English,Master Langues — English,,"{""language"": ""English""}",S17,Master,Langues,Lyon
+P1438,P1437,Licence Génie Civil — Double-Diplôme,Licence Génie Civil — Double-Diplôme,,"{""track"": ""double-diplôme""}",S20,Licence,Génie Civil,Strasbourg
+P1129,,CPGE Psychologie,CPGE Psychologie,,,S33,CPGE,Psychologie,Lille
+P1767,P1763,Diplôme d'ingénieur Ressources Humaine,Diplôme d'ingénieur Ressources Humaines — EN,,"{""language"": ""EN""}",S29,Diplôme d'ingénieur,Ressources Humaines,Bordeaux
+P1745,P1744,CPGE Communication — EN,CPGE Communication — EN,,"{""language"": ""EN""}",S17,CPGE,Communication,Lyon
+P1652,,MBA Sciences Politiques,MBA Sciences Politiques,,,S31,MBA,Sciences Politiques,Nantes
+P1603,P1602,Bachelor Commerce — Alternance / Inter,Bachelor Commerce — Alternance / International,,"{""apprenticeship"": 1, ""track"": ""international"", ""school_id"": ""S28""}",S28,Bachelor,Commerce,Toulouse
+P1181,P1180,Bachelor Communication — EN / Alternan,Bachelor Communication — EN / Alternance,,"{""language"": ""EN"", ""apprenticeship"": ""true""}",S35,Bachelor,Communication,Paris
+P1064,,MSc Marketing,MSc Marketing,,,S31,MSc,Marketing,Nantes
+P1728,,Diplôme d'ingénieur Communication,Diplôme d'ingénieur Communication,,,S23,Diplôme d'ingénieur,Communication,Lille
+P1114,P1113,Diplôme d'ingenieur Ressources Humaine,Diplôme d'ingénieur Ressources Humaines — Alternance / Campus ,,"{""apprenticeship"": ""true"", ""school_id"": ""S30""}",S30,Diplôme d'ingénieur,Ressources Humaines,Rennes
+P1354,P1353,MBA Design — IT / Alternance,MBA Design — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": ""oui"", ""school_id"": ""S22""}",S22,MBA,Design,Strasbourg
+P1573,,CPGE Génie Civil,CPGE Génie Civil,,,S22,CPGE,Génie Civil,Strasbourg
+P1321,,Master Finance,Master Finance,Master Finance — programme complet (ancien libellé),,S13,Master,Finance,Paris
+P1356,P1353,MBA Design — en,MBA Design — en,,"{""language"": ""en""}",S18,MBA,Design,Lyon
+P1844,P1840,BTS Design — EN,BTS Design — EN,,"{""language"": ""EN"", ""school_id"": ""S31""}",S31,BTS,Design,Nantes
+P1803,,DN MADE Droit,DN MADE DROIT,,,S32,DN MADE,Droit,Toulouse
+P1268,,Licence Pro Cinema,LICENCE PRO CINÉMA,,,S29,Licence Pro,Cinéma,Bordeaux
+P1170,,MBA Tourisme,MBA Tourisme,,,S35,MBA,Tourisme,Paris
+P1669,P1668,Licence Design — Alternance / Campus,Licence Design — Alternance / Campus,,"{""apprenticeship"": ""true"", ""school_id"": ""S24""}",S24,Licence,Design,Strasbourg
+P1602,,Bachelor Commerce,Bachelor Commerce,,,S16,Bachelor,Commerce,Grenoble
+P1838,P1837,BUT Tourisme — Campus,BUT Tourisme — Campus,,"{""school_id"": ""S15""}",S15,BUT,Tourisme,Paris
+P1288,P1287,BUT Cinéma — es / Alternance / Excelle,BUT Cinéma — es / Alternance / Excellence,,"{""language"": ""es"", ""apprenticeship"": ""true"", ""track"": ""excellence""}",S13,BUT,Cinéma,Paris
+P1066,P1065,MSc Sciences Politiques — Alternance,MSc Sciences Politiques — Alternance,,"{""apprenticeship"": ""oui""}",S23,MSc,Sciences Politiques,Lille
+P1705,,CPGE Génie Mécanique,CPGE Génie Mécanique,CPGE Génie Mécanique — programme complet (ancien libellé),,S10,CPGE,Génie Mécanique,Paris
+P1103,,DN MADE Sciences Politiques,DN MADE Sciences Politiques,,,S10,DN MADE,Sciences Politiques,Paris
+P1294,,Licence Pro Ressources Humaines,Licence Pro Ressources Humaines,,,S26,Licence Pro,Ressources Humaines,Lille
+P1369,,Bachelor Design,Bachelor Design,,,S26,Bachelor,Design,Lille
+P1001,,CPGE Sciences Politiques,CPGE Sciences Politiques ,,,S13,CPGE,Sciences Politiques,Paris
+P1416,P1415,Licence Pro Économie — anglais / Alter,Licence Pro Économie — anglais / Alternance,,"{""language"": ""anglais"", ""apprenticeship"": ""oui""}",S27,Licence Pro,Économie,Grenoble
+P1560,P1557,MSc Communication — Data,MSc Communication — Data,,"{""track"": ""data""}",S14,MSc,Communication,Strasbourg
+P1492,P1491,DN MADE Logistique — Recherche,DN MADE Logistique — Recherche,,"{""track"": ""recherche"", ""school_id"": ""S33""}",S33,DN MADE,Logistique,Lille
+P1004,P1001,CPGE Sciences Politiques — IT,CPGE Sciences Politiques — IT,,"{""language"": ""IT""}",S13,CPGE,Sciences Politiques,Paris
+P1153,P1151,BTS Architecture — Campus,BTS Architecture — Campus,,"{""school_id"": ""S15""}",S15,BTS,Architecture,Paris
+P1495,P1494,CPGE Tourisme - en / Red Team,CPGE Tourisme — en / Red Team ,,"{""language"": ""en"", ""track"": ""red team"", ""school_id"": ""S33""}",S33,CPGE,Tourisme,Lille
+P1830,P1828,BTS Architecture — en,BTS Architecture — en,,"{""language"": ""en""}",S21,BTS,Architecture,Lyon
+P1716,P1714,Bachelor Génie Mécanique — English / A,Bachelor Génie Mécanique — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": ""true""}",S30,Bachelor,Génie Mécanique,Rennes
+P1863,,Licence Pro Genie Mecanique,Licence Pro Génie Mécanique ,,,S35,Licence Pro,Génie Mécanique,Paris
+P1435,P1434,Licence Génie Mécanique — es,Licence Génie Mécanique — es,,"{""language"": ""es""}",S17,Licence,Génie Mécanique,Lyon
+P1478,P1476,BUT Génie Civil — es,BUT Génie Civil — es,,"{""language"": ""es""}",S18,BUT,Génie Civil,Lyon
+P1251,P1250,MBA Informatique - en,MBA Informatique — en ,,"{""language"": ""en""}",S24,MBA,Informatique,Strasbourg
+P1002,P1001,CPGE Sciences Politiques — anglais,CPGE Sciences Politiques — anglais,,"{""language"": ""anglais""}",S13,CPGE,Sciences Politiques,Paris
+P1561,P1557,MSc Communication — English,MSc Communication — English,,"{""language"": ""English""}",S14,MSc,Communication,Strasbourg
+P1359,P1357,MSc Design — Alternance,MSc Design — Alternance,,"{""apprenticeship"": ""oui""}",S16,MSc,Design,Grenoble
+P1003,P1001,CPGE Sciences Politiques - Excellence,CPGE Sciences Politiques — Excellence ,,"{""track"": ""excellence""}",S13,CPGE,Sciences Politiques,Paris
+P1016,P1015,Diplôme d'ingénieur Économie — Double-,Diplôme d'ingénieur Économie — Double-Diplôme,,"{""track"": ""double-diplôme""}",S29,Diplôme d'ingénieur,Économie,Bordeaux
+P1509,,DN MADE Commerce,DN MADE Commerce,,,S31,DN MADE,Commerce,Nantes
+P204,P200,Bachelor Info — Toulouse,Bachelor Informatique — Campus Toulouse,,"{""school_id"":""S99""}",S99,Bachelor,Informatique,Toulouse
+P1423,P1422,MSc Finance — anglais / Alternance,MSc Finance — anglais / Alternance,,"{""language"": ""anglais"", ""apprenticeship"": ""oui""}",S19,MSc,Finance,Lille
+P1260,P1258,BTS Logistique — Alternance / Red Team,BTS Logistique — Alternance / Red Team,,"{""apprenticeship"": 1, ""track"": ""red team""}",S25,BTS,Logistique,Rennes
+P1231,P1229,BUT Communication — en,BUT Communication — en,,"{""language"": ""en"", ""school_id"": ""S11""}",S11,BUT,Communication,Toulouse
+P1361,,Licence Pro Sciences Politiques,Licence Pro Sciences Politiques,,,S25,Licence Pro,Sciences Politiques,Rennes
+P1582,,MSc Logistique,MSc Logistique,,,S36,MSc,Logistique,Paris
+P1398,P1395,Master Communication — en,Master Communication — en,,"{""language"": ""en""}",S19,Master,Communication,Lille
+P1624,,MBA Logistique,MBA Logistique,,,S25,MBA,Logistique,Rennes
+P1621,P1619,Licence Pro Architecture — en / Altern,Licence Pro Architecture — en / Alternance,,"{""language"": ""en"", ""apprenticeship"": ""oui""}",S10,Licence Pro,Architecture,Paris
+P1850,P1848,BTS Ressources Humaines — Alternance,BTS Ressources Humaines — Alternance,,"{""apprenticeship"": true}",S13,BTS,Ressources Humaines,Paris
+P1096,P1094,Diplôme d'ingénieur Psychologie — es /,Diplôme d'ingénieur Psychologie — es / Alternance / Data,,"{""language"": ""es"", ""apprenticeship"": ""oui"", ""track"": ""data"", ""school_id"": ""S16""}",S16,Diplôme d'ingénieur,Psychologie,Grenoble
+P1129,,CPGE Psychologie,CPGE Psychologie,,,S33,CPGE,Psychologie,Lille
+P1287,,BUT Cinéma,BUT Cinéma,,,S13,BUT,Cinéma,Paris
+P1323,,CPGE Marketing,CPGE Marketing,,,S29,CPGE,Marketing,Bordeaux
+P1298,P1297,BTS Biologie — IT / Alternance,BTS Biologie — IT / Alternance,,"{""language"": ""IT"", ""apprenticeship"": true}",S23,BTS,Biologie,Lille
+P1677,,BUT Biologie,BUT Biologie,,,S10,BUT,Biologie,Paris
+P1340,,Bachelor Logistique,Bachelor Logistique,,,S34,Bachelor,Logistique,Paris
+P1080,P1077,MBA Commerce — anglais,MBA Commerce — anglais,,"{""language"": ""anglais""}",S31,MBA,Commerce,Nantes
+P1184,P1183,CPGE Chimie - anglais,CPGE Chimie — anglais ,,"{""language"": ""anglais""}",S14,CPGE,Chimie,Strasbourg
+P1766,P1763,Diplôme d'ingénieur Ressources Humaine,Diplôme d'ingénieur Ressources Humaines — es,,"{""language"": ""es""}",S29,Diplôme d'ingénieur,Ressources Humaines,Bordeaux
+P1318,P1317,BTS Informatique — en / Alternance,BTS Informatique — en / Alternance,,"{""language"": ""en"", ""apprenticeship"": 1}",S14,BTS,Informatique,Strasbourg
+P1619,,Licence Pro Architecture,Licence Pro Architecture,,,S10,Licence Pro,Architecture,Paris
+P1777,P1776,Licence Cinéma — Alternance,Licence Cinéma — Alternance,,"{""apprenticeship"": ""true""}",S35,Licence,Cinéma,Paris
+P1651,P1647,CPGE Tourisme - Alternance,CPGE TOURISME — ALTERNANCE,,"{""apprenticeship"": true}",S18,CPGE,Tourisme,Lyon
+P1165,,MBA Communication,MBA Communication,,,S35,MBA,Communication,Paris
+P1734,P1731,MSc Data Science — es,MSc Data Science — es,,"{""language"": ""es""}",S13,MSc,Data Science,Paris
+P1809,,MSc Marketing,MSC MARKETING,,,S23,MSc,Marketing,Lille
+P1224,P1223,CPGE Langues — Alternance,CPGE Langues — Alternance,,"{""apprenticeship"": 1}",S12,CPGE,Langues,Lille
+P1177,P1174,CPGE Psychologie — en / Alternance,CPGE Psychologie — en / Alternance,,"{""language"": ""en"", ""apprenticeship"": 1}",S20,CPGE,Psychologie,Strasbourg
+P1244,,DN MADE Langues,DN MADE Langues,,,S23,DN MADE,Langues,Lille
+P1061,P1059,Bachelor Communication - Red Team,BACHELOR COMMUNICATION — RED TEAM,,"{""track"": ""red team""}",S34,Bachelor,Communication,Paris
+P1654,P1652,MBA Sciences Politiques — es,MBA Sciences Politiques — es,,"{""language"": ""es""}",S31,MBA,Sciences Politiques,Nantes
+P1503,P1501,Licence Pro Économie — Campus,Licence Pro Économie — Campus,,"{""school_id"": ""S16""}",S16,Licence Pro,Économie,Grenoble
+P1175,P1174,CPGE Psychologie — IT,CPGE Psychologie — IT,,"{""language"": ""IT""}",S20,CPGE,Psychologie,Strasbourg
+P1459,P1457,BUT Cinéma — Alternance / Excellence,BUT Cinéma — Alternance / Excellence,,"{""apprenticeship"": 1, ""track"": ""excellence""}",S11,BUT,Cinéma,Toulouse
+P1404,,Licence Pro Langues,Licence Pro Langues,,,S13,Licence Pro,Langues,Paris
+P1785,P1782,BUT Génie Mécanique — es,BUT Génie Mécanique — es,,"{""language"": ""es""}",S11,BUT,Génie Mécanique,Toulouse
+P1357,,MSc Design,MSc Design,,,S16,MSc,Design,Grenoble
+P1042,P1038,Licence Pro Management Hôtelier — Camp,Licence Pro Management Hôtelier — Campus,,"{""school_id"": ""S19""}",S19,Licence Pro,Management Hôtelier,Lille
+P1544,P1543,Bachelor Genie Mecanique - en / Intern,BACHELOR GÉNIE MÉCANIQUE — EN / INTERNATIONAL,,"{""language"": ""en"", ""track"": ""international"", ""school_id"": ""S28""}",S28,Bachelor,Génie Mécanique,Toulouse
+P1653,P1652,MBA Sciences Politiques — Alternance /,MBA Sciences Politiques — Alternance / Cyber,,"{""apprenticeship"": 1, ""track"": ""cyber""}",S31,MBA,Sciences Politiques,Nantes
+P1837,,BUT Tourisme,BUT Tourisme,,,S17,BUT,Tourisme,Lyon
+P1796,,Diplôme d'ingénieur Commerce,Diplôme d'ingénieur Commerce,,,S16,Diplôme d'ingénieur,Commerce,Grenoble
+P1268,,Licence Pro Cinéma,Licence Pro Cinéma,,,S29,Licence Pro,Cinéma,Bordeaux
+P1020,,Diplôme d'ingénieur Biologie,Diplôme d'ingénieur Biologie,,,S36,Diplôme d'ingénieur,Biologie,Paris
+P1359,P1357,MSc Design — Alternance,MSc Design — Alternance,,"{""apprenticeship"": ""oui""}",S16,MSc,Design,Grenoble
+P1222,,Bachelor Architecture,Bachelor Architecture,,,S22,Bachelor,Architecture,Strasbourg
+P1412,P1409,Bachelor Commerce - English / Cyber,BACHELOR COMMERCE — ENGLISH / CYBER,,"{""language"": ""English"", ""track"": ""cyber""}",S25,Bachelor,Commerce,Rennes
+P1176,P1174,CPGE Psychologie — es,CPGE Psychologie — es,,"{""language"": ""es""}",S20,CPGE,Psychologie,Strasbourg
+P1505,,Licence Pro Data Science,LICENCE PRO DATA SCIENCE,,,S21,Licence Pro,Data Science,Lyon
+P1182,P1180,Bachelor Communication - en,Bachelor Communication — en ,,"{""language"": ""en""}",S35,Bachelor,Communication,Paris
+P1282,P1281,Bachelor Économie — EN,Bachelor Économie — EN,,"{""language"": ""EN""}",S21,Bachelor,Économie,Lyon
+P1820,,BTS Sciences Politiques,BTS SCIENCES POLITIQUES,,,S16,BTS,Sciences Politiques,Grenoble
+P1102,P1098,MBA Chimie — EN,MBA Chimie — EN,,"{""language"": ""EN""}",S32,MBA,Chimie,Toulouse
+P1593,P1592,BTS Management Hôtelier — es,BTS Management Hôtelier — es,,"{""language"": ""es""}",S15,BTS,Management Hôtelier,Paris
+P1856,P1853,DN MADE Management Hôtelier — EN,DN MADE Management Hôtelier — EN,,"{""language"": ""EN""}",S23,DN MADE,Management Hôtelier,Lille
+P1331,P1327,BTS Logistique — Recherche,BTS Logistique — Recherche,,"{""track"": ""recherche""}",S15,BTS,Logistique,Paris
+P1094,,Diplôme d'ingenieur Psychologie,Diplôme d'ingénieur Psychologie ,,,S34,Diplôme d'ingénieur,Psychologie,Paris
+P1576,P1575,Diplôme d'ingénieur Économie — Alterna,Diplôme d'ingénieur Économie — Alternance / Campus,,"{""apprenticeship"": true, ""school_id"": ""S31""}",S31,Diplôme d'ingénieur,Économie,Nantes
+P1614,,Bachelor Finance,Bachelor Finance,,,S28,Bachelor,Finance,Toulouse
+P1806,,Licence Pro Biologie,Licence Pro Biologie,,,S30,Licence Pro,Biologie,Rennes
+P100,,MBA Hotelier,MBA Management Hotellerie,,,S10,MBA,Hôtellerie,Bordeaux
+P1587,P1586,Licence Pro Économie — Alternance,Licence Pro Économie — Alternance,,"{""apprenticeship"": true}",S32,Licence Pro,Économie,Toulouse
+P1379,P1378,MSc Langues — es / Alternance / Double,MSc Langues — es / Alternance / Double-Diplôme,,"{""language"": ""es"", ""apprenticeship"": 1, ""track"": ""double-diplôme""}",S30,MSc,Langues,Rennes
+P1091,P1089,BUT Économie — IT,BUT Économie — IT,,"{""language"": ""IT""}",S17,BUT,Économie,Lyon
+P1836,P1835,CPGE Ressources Humaines — EN / Altern,CPGE Ressources Humaines — EN / Alternance / Excellence,,"{""language"": ""EN"", ""apprenticeship"": 1, ""track"": ""excellence"", ""school_id"": ""S29""}",S29,CPGE,Ressources Humaines,Bordeaux
+P1784,P1782,BUT Génie Mécanique — Alternance,BUT Génie Mécanique — Alternance,,"{""apprenticeship"": 1}",S11,BUT,Génie Mécanique,Toulouse
+P1645,P1642,MBA Sciences Politiques — Excellence,MBA Sciences Politiques — Excellence,,"{""track"": ""excellence"", ""school_id"": ""S19""}",S19,MBA,Sciences Politiques,Lille
+P1071,P1070,CPGE Génie Civil — English / Alternanc,CPGE Génie Civil — English / Alternance / Red Team,,"{""language"": ""English"", ""apprenticeship"": 1, ""track"": ""red team""}",S19,CPGE,Génie Civil,Lille
+P1801,P1800,Licence Pro Commerce — IT,Licence Pro Commerce — IT,,"{""language"": ""IT"", ""school_id"": ""S31""}",S31,Licence Pro,Commerce,Nantes
+P1076,P1072,Master Génie Civil — anglais,Master Génie Civil — anglais,,"{""language"": ""anglais""}",S30,Master,Génie Civil,Rennes
+P1156,P1154,MSc Économie — IT,MSc Économie — IT,,"{""language"": ""IT"", ""school_id"": ""S27""}",S27,MSc,Économie,Grenoble
+P1494,,CPGE Tourisme,CPGE Tourisme,,,S28,CPGE,Tourisme,Toulouse
+P1077,,MBA Commerce,MBA Commerce,,,S31,MBA,Commerce,Nantes
+P1462,,MSc Génie Mécanique,MSc Génie Mécanique,,,S34,MSc,Génie Mécanique,Paris
+P1024,P1020,Diplôme d'ingenieur Biologie - Alterna,DIPLÔME D'INGÉNIEUR BIOLOGIE — ALTERNANCE,,"{""apprenticeship"": ""true""}",S36,Diplôme d'ingénieur,Biologie,Paris
+P1214,,Licence Chimie,Licence Chimie,,,S16,Licence,Chimie,Grenoble
+P1315,P1313,Master Biologie — en,Master Biologie — en,,"{""language"": ""en""}",S24,Master,Biologie,Strasbourg
+P1069,P1067,MBA Informatique — English / Alternanc,MBA Informatique — English / Alternance,,"{""language"": ""English"", ""apprenticeship"": true, ""school_id"": ""S36""}",S36,MBA,Informatique,Paris
+P1446,P1442,BTS Genie Civil - EN,BTS GÉNIE CIVIL — EN,,"{""language"": ""EN""}",S15,BTS,Génie Civil,Paris
+P1017,P1015,Diplôme d'ingenieur Économie - English,DIPLÔME D'INGÉNIEUR ÉCONOMIE — ENGLISH / ALTERNANCE,,"{""language"": ""English"", ""apprenticeship"": 1}",S29,Diplôme d'ingénieur,Économie,Bordeaux
+P1290,P1289,MSc Informatique - IT,MSC INFORMATIQUE — IT,,"{""language"": ""IT"", ""school_id"": ""S13""}",S13,MSc,Informatique,Paris
+P1798,,MBA Logistique,MBA Logistique,,,S36,MBA,Logistique,Paris
+P1631,,Licence Génie Civil,Licence Génie Civil,,,S20,Licence,Génie Civil,Strasbourg
+P1770,P1768,Licence Ressources Humaines — en,Licence Ressources Humaines — en,,"{""language"": ""en""}",S32,Licence,Ressources Humaines,Toulouse
+P1076,P1072,Master Génie Civil — anglais,Master Génie Civil — anglais,,"{""language"": ""anglais""}",S30,Master,Génie Civil,Rennes
+P1820,,BTS Sciences Politiques,BTS Sciences Politiques,,,S16,BTS,Sciences Politiques,Grenoble
+P1866,P1863,Licence Pro Génie Mécanique — anglais ,Licence Pro Génie Mécanique — anglais / Alternance,,"{""language"": ""anglais"", ""apprenticeship"": true}",S35,Licence Pro,Génie Mécanique,Paris
+P1496,,BTS Génie Civil,BTS Génie Civil,,,S19,BTS,Génie Civil,Lille
+P1696,P1693,MSc Cinema - anglais / Alternance,MSC CINÉMA — ANGLAIS / ALTERNANCE,,"{""language"": ""anglais"", ""apprenticeship"": 1}",S19,MSc,Cinéma,Lille
+P1656,,BTS Droit,BTS Droit,BTS Droit — programme complet (ancien libellé),,S23,BTS,Droit,Lille
+P1039,P1038,Licence Pro Management Hôtelier - EN,LICENCE PRO MANAGEMENT HÔTELIER — EN,,"{""language"": ""EN""}",S11,Licence Pro,Management Hôtelier,Toulouse
+P1890,P1889,BUT Commerce — Campus,BUT Commerce — Campus,,"{""school_id"": ""S25""}",S25,BUT,Commerce,Rennes
+P1353,,MBA Design,MBA Design,,,S18,MBA,Design,Lyon
+P1126,P1124,CPGE Langues — English,CPGE Langues — English,,"{""language"": ""English""}",S35,CPGE,Langues,Paris
+P1409,,Bachelor Commerce,Bachelor Commerce,Bachelor Commerce — programme complet (ancien libellé),,S25,Bachelor,Commerce,Rennes
+P1406,P1404,Licence Pro Langues — International,Licence Pro Langues — International,,"{""track"": ""international""}",S13,Licence Pro,Langues,Paris
+P1446,P1442,BTS Génie Civil — EN,BTS Génie Civil — EN,,"{""language"": ""EN""}",S15,BTS,Génie Civil,Paris
+P1836,P1835,CPGE Ressources Humaines — EN / Altern,CPGE Ressources Humaines — EN / Alternance / Excellence,,"{""language"": ""EN"", ""apprenticeship"": 1, ""track"": ""excellence"", ""school_id"": ""S29""}",S29,CPGE,Ressources Humaines,Bordeaux
+P1543,,Bachelor Génie Mécanique,Bachelor Génie Mécanique,,,S30,Bachelor,Génie Mécanique,Rennes
+P1021,P1020,Diplôme d'ingénieur Biologie — anglais,Diplôme d'ingénieur Biologie — anglais,,"{""language"": ""anglais""}",S36,Diplôme d'ingénieur,Biologie,Paris
+P1827,P1826,DN MADE Tourisme — EN,DN MADE Tourisme — EN,,"{""language"": ""EN""}",S15,DN MADE,Tourisme,Paris
+P1057,P1056,Licence Pro Design — Alternance / Camp,Licence Pro Design — Alternance / Campus,,"{""apprenticeship"": 1, ""school_id"": ""S11""}",S11,Licence Pro,Design,Toulouse
+P1454,P1452,MSc Psychologie — Alternance / Interna,MSc Psychologie — Alternance / International,,"{""apprenticeship"": true, ""track"": ""international""}",S35,MSc,Psychologie,Paris
+P1386,,MBA Architecture,MBA Architecture,,,S15,MBA,Architecture,Paris
+P1326,P1323,CPGE Marketing — Campus,CPGE Marketing — Campus,,"{""school_id"": ""S19""}",S19,CPGE,Marketing,Lille
+P1272,P1271,MBA Biologie — Alternance,MBA Biologie — Alternance,,"{""apprenticeship"": ""oui""}",S18,MBA,Biologie,Lyon

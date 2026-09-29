@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700&display=swap');
+@import 'tailwindcss';
+
+/* Design tokens extracted from edumapper.com (Tailwind v4 theme) */
+@theme {
+  /* Typography */
+  --font-sans: 'DM Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;
+
+  --text-xs: 12px;
+  --text-xs--line-height: 1.33333;
+  --text-sm: 14px;
+  --text-sm--line-height: 1.42857;
+  --text-base: 16px;
+  --text-base--line-height: 1.5;
+  --text-lg: 18px;
+  --text-lg--line-height: 1.55556;
+  --text-xl: 20px;
+  --text-xl--line-height: 1.4;
+  --text-2xl: 24px;
+  --text-2xl--line-height: 1.33333;
+  --text-heading-lg: 32px;
+
+  --tracking-sm: -2px;
+
+  /* Radius */
+  --radius-none: 0px;
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --radius-xl: 32px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-xs: 0px 4px 8px 0px #27273414;
+  --shadow-s: 0px 6px 16px 0px #2727341f;
+
+  /* Easing */
+  --ease-in-quad: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --ease-drawer: cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* Surfaces */
+  --color-surface-light: #fff;
+  --color-surface-light-40: #fff6;
+  --color-surface-light-60: #fff9;
+  --color-surface-light-80: #fffc;
+  --color-surface-light-accented: #f4f4f7;
+  --color-surface-soft-warm: #f7f3f0;
+  --color-surface-dark: #272734;
+  --color-surface-dark-accented: #3f3f50;
+  --color-surface-overlay-15: #18191d26;
+  --color-surface-overlay-5: #18191d0d;
+  --color-surface-sunken: #14142b0d;
+
+  /* Actions */
+  --color-actions-primary: #1a1a23;
+  --color-actions-primary-hover: #3f3f50;
+  --color-actions-secondary: #18191d0d;
+  --color-actions-secondary-hover: #18191d1a;
+
+  /* Text */
+  --color-text-primary: #272734;
+  --color-text-secondary: #3f3f50;
+  --color-text-tertiary: #717485;
+  --color-text-disabled: #a1a4af;
+  --color-text-placeholder: #898d9b;
+  --color-text-invert-primary: #fff;
+  --color-text-invert-secondary: #fffc;
+  --color-text-invert-tertiary: #fff9;
+  --color-text-highlight: #fddd98;
+
+  /* Semantic text aliases (e.g. `text-primary`, `text-tertiary`) */
+  --color-primary: var(--color-text-primary);
+  --color-secondary: var(--color-text-secondary);
+  --color-tertiary: var(--color-text-tertiary);
+  --color-placeholder: var(--color-text-placeholder);
+  --color-disabled: var(--color-text-disabled);
+  --color-invert-primary: var(--color-text-invert-primary);
+  --color-invert-secondary: var(--color-text-invert-secondary);
+  --color-invert-tertiary: var(--color-text-invert-tertiary);
+
+  /* Backgrounds */
+  --color-primary-background: var(--color-surface-soft-warm);
+  --color-secondary-background: var(--color-surface-light-accented);
+
+  /* Borders */
+  --color-border-light-default: #18191d1a;
+  --color-border-light-active: #18191d26;
+  --color-border-invert-default: #fff;
+  --color-border-invert-active: #e4e4e7;
+
+  /* Icons */
+  --color-icon-light-active: #f4f4f7;
+  --color-icon-subtle-default: #717485;
+  --color-icon-subtle-active: #535665;
+  --color-icon-dark-active: #535665;
+  --color-icon-disabled: #a1a4af;
+
+  /* Feedback */
+  --color-success-light: #e0f9eb;
+  --color-success: #3f9e5a;
+  --color-success-dark: #1c5c36;
+  --color-warning-surface: #f8eed9;
+  --color-warning-bold: #faad14;
+  --color-warning-subtle: #ac760b;
+  --color-error-surface: #faebe7;
+  --color-error-bold: #e3421c;
+  --color-error-subtle: #a43b23;
+
+  /* Brand / accents */
+  --color-violet: #675cff;
+  --color-pink-medium: #f732a5;
+  --color-orange-warm: #ff7a5c;
+  --color-orange-medium: #ff723f;
+  --color-dark-navy: #1e1c25;
+  --color-navy-purple: #434384;
+  --color-parcoursup-indigo: #434384;
+  --color-parcoursup-indigo-2: #c7c7da;
+  --color-parcoursup-indigo-light: #ececf3;
+
+  /* Data viz (comparison) */
+  --color-comparison-blue: #384999;
+  --color-comparison-blue-light: #aac4eb;
+  --color-comparison-pink: #f75591;
+  --color-comparison-orange: #f29776;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    color: var(--color-text-primary);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::placeholder {
+    color: var(--color-text-placeholder);
+  }
+
+  ::selection {
+    background-color: var(--color-text-highlight);
+  }
+}

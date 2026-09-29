@@ -140,4 +140,26 @@
   ::selection {
     background-color: var(--color-text-highlight);
   }
+
+  dialog.app-modal {
+    border: 0;
+    margin: 0;
+    max-height: none;
+    max-width: none;
+    padding: 0;
+  }
+
+  dialog.app-modal::backdrop {
+    background: rgb(24 25 29 / 0.15);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+  }
+}
+
+@utility bg-app {
+  background-color: var(--color-primary-background);
+  background-image:
+    radial-gradient(67.19% 72.73% at -14.76% 43.72%, rgb(255 107 54 / 0.12) 0, rgb(255 107 54 / 0) 100%),
+    radial-gradient(61.74% 70.29% at 0 97.69%, rgb(245 119 213 / 0.18) 0, rgb(245 119 213 / 0) 100%),
+    radial-gradient(84.36% 78.3% at 102.85% 105.47%, rgb(143 191 255 / 0.3) 0, rgb(143 191 255 / 0) 100%);
 }
